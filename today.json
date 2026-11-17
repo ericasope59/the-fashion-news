@@ -1,161 +1,706 @@
 {
- "generated": "2026-11-17T10:00+00:00",
+ "generated": "2026-11-17T14:46+00:00",
  "date": "2026-11-17",
  "hero": {
   "kind": "met",
-  "id": 96434,
+  "id": 82313,
   "title": "Dress",
-  "date": "ca. 1872",
-  "culture": "French",
+  "date": "1841–43",
+  "culture": "European",
   "artist": "",
-  "medium": "a) cotton, porcelain; b) cotton",
-  "img": "https://images.metmuseum.org/CRDImages/ci/original/DT5639.jpg",
-  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/DT5639.jpg",
-  "url": "https://www.metmuseum.org/art/collection/search/96434",
-  "credit": "Purchase, Irene Lewisohn Bequest, 2003"
+  "medium": "silk",
+  "img": "https://images.metmuseum.org/CRDImages/ci/original/DP102013.jpg",
+  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/DP102013.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/82313",
+  "credit": "Gift of Lee Simonson, 1938"
  },
  "news": [
   {
-   "title": "Martine Rose is the new creative director of Balenciaga",
-   "url": "https://www.voguescandinavia.com/articles/martine-rose-is-the-new-creative-director-of-balenciaga",
-   "date": "2026-11-06T08:00:00+00:00",
-   "excerpt": "",
-   "source": "Vogue Scandinavia",
-   "tags": [
-    "Designers"
-   ],
-   "id": "a2de17db33"
-  },
-  {
-   "title": "New Boss at Hugo Boss: Frasers installs David Epstein as Grieder steps down",
-   "url": "https://fashionunited.uk/news/people/new-boss-at-hugo-boss-frasers-installs-david-epstein-as-grieder-steps-down/2026111291370",
-   "date": "2026-11-12T08:00:00+00:00",
-   "excerpt": "",
-   "source": "FashionUnited",
+   "title": "Gucci Brings Demna’s Retail Concept to the U.K. Via Harrods",
+   "url": "https://wwd.com/business-news/retail/gucci-demna-retail-concept-uk-launch-harrods-superbrand-1239417662/",
+   "date": "2026-11-17T14:45:12+00:00",
+   "excerpt": "The new space in the women's superbrands area pairs Italian architectural references with a more exploratory approach to product presentation.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "3dddf14ed8"
+   "id": "9a7d7b0a19"
   },
   {
-   "title": "David Beckham Sues Coty After Fragrances Found in Discount Store",
-   "url": "https://www.businessoffashion.com/latest/",
-   "date": "2026-11-16T08:00:00+00:00",
-   "excerpt": "DB Ventures is seeking $41 million in damages from fragrance partner Coty, alleging David Beckham-branded scents were sold at UK budget chain Poundland and a petrol station without approval.",
-   "source": "The Business of Fashion",
-   "tags": [
-    "Business"
-   ],
-   "id": "e882d5f9fa"
-  },
-  {
-   "title": "Gucci to Stage Cruise Show in Shanghai",
-   "url": "https://www.businessoffashion.com/latest/",
-   "date": "2026-11-16T08:00:00+00:00",
-   "excerpt": "",
-   "source": "The Business of Fashion",
-   "tags": [
-    "Designers"
-   ],
-   "id": "1cab1d7693"
-  },
-  {
-   "title": "Republic Brands Group Acquires Rebecca Minkoff",
-   "url": "https://www.businessoffashion.com/latest/",
-   "date": "2026-11-16T08:00:00+00:00",
-   "excerpt": "",
-   "source": "The Business of Fashion",
-   "tags": [
-    "Business"
-   ],
-   "id": "9c54dbec23"
-  },
-  {
-   "title": "What To Listen for at Nike's High-Stakes Investor Day",
-   "url": "https://www.businessoffashion.com/topics/retail/",
-   "date": "2026-11-15T08:00:00+00:00",
-   "excerpt": "CEO Elliott Hill will explain how he plans to reverse years of decline as the Beaverton, Oregon-based sportswear label hosts its first investor day in nearly a decade. BoF has teed up five questions.",
-   "source": "The Business of Fashion",
-   "tags": [
-    "Business"
-   ],
-   "id": "e6f60b193e"
-  },
-  {
-   "title": "Inside Zara's Brand Makeover",
-   "url": "https://www.businessoffashion.com/topics/retail/",
-   "date": "2026-11-09T08:00:00+00:00",
-   "excerpt": "How did fashion's original disruptor defend itself from disruption as lower-priced, ultra-fast rivals gained ground?",
-   "source": "The Business of Fashion",
+   "title": "Kate Middleton Doubles Down on Suits in Mumbai, From Edeline Lee to Another Wimbledon Rewear",
+   "url": "https://wwd.com/pop-culture/celebrity-news/kate-middleton-suits-india-trip-day-two-1239420137/",
+   "date": "2026-11-17T14:38:31+00:00",
+   "excerpt": "The Princess of Wales started with ivory tailoring and sculptural earrings before changing for the inaugural Children's Earthshot Awards.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "489ded20ad"
+   "id": "82db7229dd"
   },
   {
-   "title": "US apparel import demand dips amid high tariffs, inflation",
-   "url": "https://www.just-style.com/newsletters/us-apparel-import-demand-dips-amid-high-tariffs-inflation",
-   "date": "2026-11-11T08:00:00+00:00",
+   "title": "Mckenna Grace Goes for Bridal Whites in Danielle Frankel Pumps for ‘Hunger Games’ Promo",
+   "url": "https://wwd.com/footwear-news/shoe-trends/mckenna-grace-danielle-frankel-bridal-pumps-hunger-games-1239419757/",
+   "date": "2026-11-17T14:38:26+00:00",
+   "excerpt": "She went from a chocolate brown monochrome look to all white.",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "013d426f1b"
+  },
+  {
+   "title": "Snakeskin Boots Are the Unexpected Neutral Your Wardrobe Needs This Season",
+   "url": "https://www.elle.com/fashion/shopping/a74426012/best-snakeskin-boots-trend/",
+   "date": "2026-11-17T14:00:00+00:00",
+   "excerpt": "From ankle boots to knee-highs, these pairs make the season’s boldest neutral easy to wear.",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "009e5144a9"
+  },
+  {
+   "title": "Briah Taubman Talks Retail, Her Latest Collection and That Viral Kylie Jenner Dress",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/briah-artemis-spring-2027-1239418585/",
+   "date": "2026-11-17T14:00:00+00:00",
+   "excerpt": "The emerging designer behind Briah Artemis “spilled her guts” for spring 2027.",
+   "source": "WWD",
+   "tags": [
+    "Designers",
+    "Trends"
+   ],
+   "id": "f78bff4768"
+  },
+  {
+   "title": "J.Crew Puts Actors and 1990s Styles in Holiday Campaign",
+   "url": "https://wwd.com/business-news/retail/j-crew-holiday-campaign-jordan-firstman-reggie-absolom-1239418745/",
+   "date": "2026-11-17T14:00:00+00:00",
+   "excerpt": "The fashion brand ties into contemporary culture through partnerships and storytelling.",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ca5059a43e"
+  },
+  {
+   "title": "Amer Sports Is Firing on All Cylinders After Strong Q3",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/amer-sports-q3-earnings-salomon-arcteryx-brands-footwear-1239420125/",
+   "date": "2026-11-17T13:57:10+00:00",
+   "excerpt": "The company, and its Arc'teryx and Salomon brands, continues to show growth momentum.",
+   "source": "WWD",
+   "tags": [
+    "Designers"
+   ],
+   "id": "37c0bc0cf0"
+  },
+  {
+   "title": "“It’s Crazy That We’re Allowed to Be Doing This”—Emily Dawn Long on her Limited-Edition Merch for Club Kid",
+   "url": "https://www.vogue.com/article/club-kid-emily-dawn-long-merch-a24",
+   "date": "2026-11-17T13:30:00+00:00",
+   "excerpt": "The downtown designer partnered with A24 on limited-edition screen-printed T-shirts for the buzzy new movie Club Kid.",
+   "source": "Vogue",
+   "tags": [
+    "Designers"
+   ],
+   "id": "c7bf5db01f"
+  },
+  {
+   "title": "Meet the Rising Startups Revamping the Fashion Rental Industry",
+   "url": "https://fashionista.com/2026/11/clothing-rental-startups-service",
+   "date": "2026-11-17T13:30:00+00:00",
+   "excerpt": "Companies like Hauteline, Pickle, Isle of Monday and Louvelle are rewriting what it means to own your closet.",
+   "source": "Fashionista",
+   "tags": [
+    "Culture"
+   ],
+   "id": "49cdf80d2f"
+  },
+  {
+   "title": "The UK Music Video Award winners are here",
+   "url": "https://www.dazeddigital.com/music/article/71372/1/the-uk-music-video-award-winners-are-here?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-uk-music-video-award-winners-are-here",
+   "date": "2026-11-17T13:21:00+00:00",
+   "excerpt": "Including the winner of Best Styling in a Video, presented in association with Dazed",
+   "source": "Dazed",
+   "tags": [
+    "Culture"
+   ],
+   "id": "01f1375b9d"
+  },
+  {
+   "title": "Filipiñana explores class and colonialism at a Manila country club",
+   "url": "https://www.dazeddigital.com/film-tv/article/71370/1/filipiana-explores-class-and-colonialism-at-a-manila-country-club?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=filipinana-explores-class-and-colonialism-at-a-manila-country-club",
+   "date": "2026-11-17T13:17:00+00:00",
+   "excerpt": "Rafael Manuel’s dark coming-of-age drama hones in on the ‘tee girls’ employed to position golf balls for wealthy players in an astute satire of inequality in the Philippines",
+   "source": "Dazed",
+   "tags": [
+    "Culture"
+   ],
+   "id": "67da14a8b8"
+  },
+  {
+   "title": "Gigi Hadid’s Guest in Residence Reunites With Moon Boot on Cozy Knit Footwear Capsule",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/gigi-hadid-moon-boot-guest-in-residence-november-2026-1239420089/",
+   "date": "2026-11-17T13:00:00+00:00",
+   "excerpt": "This second collection comes one year after the duo's debut tie-up.",
+   "source": "WWD",
+   "tags": [
+    "Designers"
+   ],
+   "id": "2ac93e3807"
+  },
+  {
+   "title": "Star Facialist Mimi Luzon Is Betting on Gold, Silver and Copper for Better Skin",
+   "url": "https://fashionista.com/2026/11/mimi-luzon-esthetician-skin-care-interview",
+   "date": "2026-11-17T13:00:00+00:00",
+   "excerpt": "For \"Fashionista Face It,\" the celebrity esthetician and brand founder tells us about her favorite in-office treatments and innovative new skin-care product.",
+   "source": "Fashionista",
+   "tags": [
+    "Culture"
+   ],
+   "id": "75ca5c4787"
+  },
+  {
+   "title": "Is This the Greatest Fashion Auction of All Time?",
+   "url": "https://www.elle.com/fashion/shopping/a74334083/the-infinite-wardrobe-maurice-auction-review-2026/",
+   "date": "2026-11-17T12:49:56+00:00",
+   "excerpt": "3,000 fashion items from a personal collection are up for sale at Maurice Auction in Paris.",
+   "source": "Elle",
+   "tags": [
+    "Designers"
+   ],
+   "id": "675ae8bb01"
+  },
+  {
+   "title": "Martine Rose: Who is Balenciaga’s new creative director and former Demna collaborator?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXhGOTRGZFJWQmtwYmhpTXJ1cmJKVHM1T1VCNlBGbFA4MGV4UmlMblEzc2JlUzNYSTVpZVZMUldvT2FJMHA2cmYtUjgzUVlaTHRlUVVraWRoZ0ZWSnN6bUJpWm1lNGg3TkZhM2gtUEhnelpmTEgwLXMxbUZ4N3B6TUE3dG5JcllnRDNEd1FvYloyYmlEbG85dFFKb0pKWHZrZ3ozcWxKOA?oc=5",
+   "date": "2026-11-17T12:39:09+00:00",
    "excerpt": "",
+   "source": "Fashion United",
+   "tags": [
+    "Designers"
+   ],
+   "id": "ebeb29f12a"
+  },
+  {
+   "title": "This Buzzy New Wellness Retreat in Kerala Blends Ancient Traditions With Modern Medicine",
+   "url": "https://www.vogue.com/article/tulah-wellness-retreat-kerala",
+   "date": "2026-11-17T12:36:21+00:00",
+   "excerpt": "Blending full-body medical scans with Ayurvedic pulse readings, the groundbreaking new retreat Tulåh in Kerala offers a 360-degree approach to longevity.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "7390dbd46c"
+  },
+  {
+   "title": "Salt launches new trade fair format as an alternative to Ispo - FashionNetwork",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWJQYUdNeTFyNWdjT0h6a0QxNTY2YkRFS21TRWs1Mm5mYkQ5Qmo3S0d5OUU5RWlZNUhmVGZuWGYwSnVQUnNaNzJ4d0pMMXRQYzRURXREbHYydWR1NTZ4a3VSNnJaQ29pZWNqcUF5WnZkd1RtNWc1eEFHVWxHZDRlaHptc1FyVjVSNUU0WEJMdC1pb0pBaGt0MDU1Tmh6aHUwa19yUVdyTWtoMWdsblE?oc=5",
+   "date": "2026-11-17T12:34:05+00:00",
+   "excerpt": "",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "tags": [
+    "Trade"
+   ],
+   "id": "ef6dc9787f"
+  },
+  {
+   "title": "LVMH Opens Applications for 2027 Fashion Prize",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcU9Hb2FPYkp4bEJyWkh6and0MnAyMWZ0eWctTnY5aDlNdm1nVTFPWEhVclJjWlZfa1dVTUFyZDFLeElFY2pQa2NDR2VqRl9sUVFtQWFLQ2hKRThXQUszNHVpVGVFN1dreDdicUZKbE1rQXJBY3R5Smk2aTJrZ0dIbE5USFFYWHl1b2NLZG9DOFE5Q3FaMENGM2xiWXdlMmR1cGc?oc=5",
+   "date": "2026-11-17T12:31:27+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "7337077d24"
+  },
+  {
+   "title": "Applications for the 2027 LVMH Prize Are Now Open",
+   "url": "https://www.vogue.com/article/applications-for-the-2027-lvmh-prize-are-now-open",
+   "date": "2026-11-17T12:30:00+00:00",
+   "excerpt": "Since 2013, the LVMH Prize has served as an invaluable opportunity for young designers. Applications for the 14th edition are open now through April 4, 2027.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ccc9811b90"
+  },
+  {
+   "title": "Zoe Louca",
+   "url": "https://www.vogue.com/article/conde-future-zoe-louca",
+   "date": "2026-11-17T12:09:36+00:00",
+   "excerpt": "Zoe is Education Manager for Condé Nast",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "2d273894df"
+  },
+  {
+   "title": "Young people are bringing bringing socialism back to America",
+   "url": "https://www.dazeddigital.com/life-culture/article/71361/1/young-people-bringing-bringing-socialism-back-to-america-dsa-midterms?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=young-people-are-bringing-bringing-socialism-back-to-america",
+   "date": "2026-11-17T12:06:00+00:00",
+   "excerpt": "The Democratic Socialists of America (DSA) won big at the midterms. Below, we dive into how the organisation works, what it stands for, and why so many young people are drawn towards it",
+   "source": "Dazed",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ee3f21a47c"
+  },
+  {
+   "title": "Explore the year 1 final projects created by our 2025/26 CondéFuture students",
+   "url": "https://www.vogue.com/article/explore-the-year-1-final-projects-created-by-our-2025-26-condefuture-students",
+   "date": "2026-11-17T12:05:30+00:00",
+   "excerpt": "Explore the year 1 final projects created by our 2025/26 CondéFuture students",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "7354d7535e"
+  },
+  {
+   "title": "An Inside Guide to Kate Middleton’s Royal Tour Wardrobe in India",
+   "url": "https://www.vogue.com/slideshow/kate-middleton-india-royal-tour-2026-fashion",
+   "date": "2026-11-17T12:00:06+00:00",
+   "excerpt": "Ahead of the 2026 Earthshot Prize ceremony in Mumbai, the Prince and Princess of Wales have touched down in India for the first time in a decade. See every look Kate Middleton wears during the royal tour.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "07a6357b0a"
+  },
+  {
+   "title": "Dearest Gentle Reader: Kate Middleton and Simone Ashley Have a Royal Twinning Moment in India",
+   "url": "https://www.vogue.com/article/kate-middleton-simone-ashley-royal-twinning-moment-india-tour",
+   "date": "2026-11-17T11:55:56+00:00",
+   "excerpt": "The Princess of Wales, Kate Middleton, met the (fictional) Viscountess Bridgerton—Netflix star Simone Ashley—at the Earthshot Prize summit in India. Same color, two very different looks.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "0c2938cea4"
+  },
+  {
+   "title": "ELLE Graduates 2026: What To Expect From This Year's Fashion Showcase",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0dma2s0eXNuaDJGLWpsbU1mZjgyY2VWM2dhbHdCSjhrVGVBOW9sWHY5LS01N0JOTjR4cV9KSmlQSlNNRzl2eUVRanR0Wm9QN3JJUXM1Z2V3b3E1Rk0yVjdYb0Y0Tm5GWGxNXzFkaWtpV2pyOFA2NTZtclJwZHN2YUYxaUp2aW9oMHhDZktyeDI2Mk00M1NuSk85alVZamd6Rmc?oc=5",
+   "date": "2026-11-17T11:50:09+00:00",
+   "excerpt": "",
+   "source": "ELLE India",
+   "tags": [
+    "Culture"
+   ],
+   "id": "37d910c6fa"
+  },
+  {
+   "title": "LuxExperience Sustains Momentum With Top- and Bottom-Line Fiscal Q1 Gains",
+   "url": "https://wwd.com/business-news/retail/luxexperience-fiscal-q1-gains-cited-across-portfolio-1239418832/",
+   "date": "2026-11-17T11:30:00+00:00",
+   "excerpt": "The Munich-based digital luxury group raises its outlook for its year ahead amid improvements across its portfolio.",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "c9f1fa2735"
+  },
+  {
+   "title": "LuxExperience Reports 8.5% Sales Growth Amid Turnaround",
+   "url": "https://www.vogue.com/article/luxexperience-reports-85-sales-growth-amid-turnaround",
+   "date": "2026-11-17T11:29:00+00:00",
+   "excerpt": "The German company reported 8.5% net sales growth in the first quarter of 2027 and tightened its full-year 2027 guidance.",
+   "source": "Vogue",
+   "tags": [
+    "Business"
+   ],
+   "id": "a53c9441c4"
+  },
+  {
+   "title": "UK nightlife is addicted to rules",
+   "url": "https://www.dazeddigital.com/music/article/71312/1/dear-uk-nightlife-stop-clubs-rules-lost-palais-phones-fabric?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=uk-nightlife-is-addicted-to-rules",
+   "date": "2026-11-17T11:27:00+00:00",
+   "excerpt": "Instead of putting their efforts into locking up phones, policing fun and treating us all like children, UK clubs should focus on running better nights",
+   "source": "Dazed",
+   "tags": [
+    "Culture"
+   ],
+   "id": "f7fb69fd37"
+  },
+  {
+   "title": "Joan Jett and Hannah Martin Are Bringing a “Bad Reputation” to Fine Jewelry",
+   "url": "https://www.vogue.com/article/joan-jett-and-hannah-martin-jewelry-collaboration",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "London jeweler Hannah Martin has collaborated with rock star Joan Jett on a capsule collection of fine jewelry and accessories inspired by punk iconography.",
+   "source": "Vogue",
+   "tags": [
+    "Designers"
+   ],
+   "id": "df6eedf64e"
+  },
+  {
+   "title": "Netflix’s ‘The Body’ Is The Most Fun Teen Drama We’ve Had In Years",
+   "url": "https://www.vogue.com/article/the-body-netflix-review",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "Part “Mean Girls,” part “Cruel Intentions,” this 2004-set high school drama just blew “Off Campus” out of the water.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "6eb2520921"
+  },
+  {
+   "title": "8 Great Airbnbs in Marfa to Book for a Design-Forward Vacation",
+   "url": "https://www.vogue.com/article/airbnbs-in-marfa",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "Add these Airbnbs in Marfa to your West Texas vacation—from glass houses to minimalist retreats, these stylish stays are sure to inspire.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "1f87bf9081"
+  },
+  {
+   "title": "The Vogue Business AI Tracker",
+   "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "cb9ba10222"
+  },
+  {
+   "title": "The Fashion Lover’s 2026 IYKYK Gift Guide",
+   "url": "https://www.vogue.com/article/the-fashion-lovers-2026-iykyk-gift-guide",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "Here, we’ve compiled a list of “if you know you know” fashion, beauty, and lifestyle gifts that won’t just satisfy but impress the fashion lover in your life.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "4e67223f78"
+  },
+  {
+   "title": "On the Podcast: How Richard Avedon Redefined Fashion Photography",
+   "url": "https://www.vogue.com/article/on-the-podcast-how-richard-avedon-redefined-fashion-photography",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "Richard Avedon spent decades shooting for magazines like Vogue and The New Yorker before his death in 2004. Now his life and work are the subjects of a new documentary, “Avedon,” directed by Ron Howard.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "b4daab2d95"
+  },
+  {
+   "title": "Daydream’s New AI Agent Can Shop for You While You Sleep",
+   "url": "https://www.vogue.com/article/daydreams-new-ai-agent-can-shop-for-you-while-you-sleep",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "The platform is launching a 24/7 personal stylist that learns shoppers’ preferences, assembles outfits and buys products on their behalf. Co-founders Julie Bornstein and Lisa Yamner explain why they believe fashion needs its own…",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8061a74cae"
+  },
+  {
+   "title": "Is Zalando’s New AI Agent a Blueprint for the Future of Retail?",
+   "url": "https://www.vogue.com/article/is-zalandos-new-ai-agent-a-blueprint-for-the-future-of-retail",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "As the race to build AI shopping agents heats up, Zalando is preparing to sell products from rival retailers. CTO Graeme Smith explains why Zalando wants to be both a shopping destination and an agent — and why he isn’t convinced…",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ff58ab18d7"
+  },
+  {
+   "title": "What’s It Like to Be Tennis’s World Number One? Daniil Medvedev Lets Us Into the Club",
+   "url": "https://www.vogue.com/article/atp-finals-no-1-club-book",
+   "date": "2026-11-17T11:00:00+00:00",
+   "excerpt": "As Medvedev—and Carlos Alcaraz, Jannik Sinner, Ben Shelton, and the other top men—square off in Turin, a new book celebrates the players to achieve tennis’s highest ranking.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "56827e22e8"
+  },
+  {
+   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time?",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
+   "date": "2026-11-17T10:33:41+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Trade"
+   ],
+   "id": "012a60316c"
+  },
+  {
+   "title": "Jaden Smith and the Archaeology of Swag",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdEE4X2pmTUlYYjl3SklxT00yMUNSaU0xcHpjdmZxQzNLYTIxdXNaN05idFRmMEFzNnpkLVZUc0I0eVdISFlzRUo5LXdJMXhyRFIxTm95SGVIMjFna1QzTGc0LWJ2NGhqY1hhNmNDeG5iaGtKVm9PLTM3ZzIxU0xnRk9udENDeHo3YUE?oc=5",
+   "date": "2026-11-17T10:00:48+00:00",
+   "excerpt": "",
+   "source": "Esquire Singapore",
+   "tags": [
+    "Culture"
+   ],
+   "id": "18a2c2f8d8"
+  },
+  {
+   "title": "Lululemon puts a sustainable spin on running shorts",
+   "url": "https://www.just-style.com/news/lululemon-running-shorts-recycled-fabrics/",
+   "date": "2026-11-17T09:58:50+00:00",
+   "excerpt": "Lululemon has launched a limited collection of running shorts made with enzymatically recycled polyester in Australia and New Zealand.",
    "source": "Just Style",
    "tags": [
-    "Trade"
+    "Sustainability",
+    "Designers"
    ],
-   "id": "a3b2b2248b"
+   "id": "1057201842"
   },
   {
-   "title": "US Fashion Resists Tariff Hikes: Only 10% Boosts Local Output",
-   "url": "https://www.modaes.com/global/markets/only-10-of-the-us-fashion-industry-is-increasing-local-production-despite-the-tariff-escalation",
-   "date": "2026-11-10T08:00:00+00:00",
+   "title": "TOI Fashion & Beauty Awards 2026: Meet the jury bringing expertise, creativity and industry insight",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxON3dHMW1OclRKZ0NGU1B6OThVOFJ3VTQ3alc2MWRHRHZHOXl1b1d4MEpTaEo5NG4weDV6d0NfMWx1V2tMLTlET2NfMmVKWHlrZm05NDNWNWQ2RGdYdzlleE5lb3dLNG5uSGNDYVBzMkdfVjZQaVNyVk9ZWWZfTWFHT0FLbHRNdDhjRkR2Sm9tckVieEhmYjlBbkljaEtGTmtrYVlGLUR0bXhhUXJoY2NqeklPbFBJRjd0TEZOTjhGVjgwVHBISkNROWxDSDM1XzhMUUlsQms2RURYamVOenVKSVp3ZFh4dzRnQVdXZ3dCWm1vN0pyZ3JESUp6VENBOXhUU2FRVjh30gGLAkFVX3lxTE9zSHByb1pyQ3N4S3JaYWpRT3U3UFhRdU5zc1hoWTRRTmVYdy1mQkVsNk41Z1F6Ym5HZGx2R2w2cDRsLUVHVW1DRkZqTkNDMkdUY2o5TDVDYWVsS0MyeWJWVzhQRkkwY2lXWDhzSV9hLWR0TGhKWHBOT252TVJab2pYdlE4SFRXeHpaWlM1QTNVMkZsZFhJWG5PVzlrQ2RsQXU3UDIzaGNpdzJKVnVwMk94S201U3Z5VFlRaHphVDRkYWc2OFlmUjA0eFpJZ2pGT0s0NjJjcE9yRUM3ZF8tYkUxcjJRWl9NYnlGNzlQd0RCUlZ5UjJYMlE5Smg3QXprdHE0bFVxWllWTnZNVQ?oc=5",
+   "date": "2026-11-17T09:28:00+00:00",
    "excerpt": "",
-   "source": "Modaes",
-   "tags": [
-    "Trade"
-   ],
-   "id": "6f08a1860e"
-  },
-  {
-   "title": "Lagos Fashion Week returns for 15th edition with a commitment to sustainability",
-   "url": "https://www.africanews.com/2026/10/30/lagos-fashion-week-returns-for-15th-edition-with-a-commitment-to-sustainability/",
-   "date": "2026-10-30T08:00:00+00:00",
-   "excerpt": "",
-   "source": "Africanews",
-   "tags": [
-    "Africa",
-    "Sustainability"
-   ],
-   "id": "9388c1264a"
-  },
-  {
-   "title": "DRC: Government reaffirms its commitment to structuring the fashion sector",
-   "url": "https://acp.cd/anglais/drc-government-reaffirms-its-commitment-to-structuring-the-fashion-sector/",
-   "date": "2026-08-20T08:00:00+00:00",
-   "excerpt": "",
-   "source": "ACP",
+   "source": "The Times of India",
    "tags": [
     "Culture"
    ],
-   "id": "95dd4c977b"
+   "id": "6d2299ead3"
+  },
+  {
+   "title": "Opaque George reporting fuels doubts over Asda’s clothing growth",
+   "url": "https://www.just-style.com/news/opaque-george-reporting-fuels-doubts-over-asdas-clothing-growth/",
+   "date": "2026-11-17T09:24:41+00:00",
+   "excerpt": "Asda reported a flat Q3, but industry onlookers were quick to spot the omission of any mention of George's performance.",
+   "source": "Just Style",
+   "tags": [
+    "Culture"
+   ],
+   "id": "fc0cdf8b45"
+  },
+  {
+   "title": "adidas’ Floral Mary Jane Sneaker Is a Work of Balletcore Art",
+   "url": "https://www.highsnobiety.com/p/adidas-anfu-mary-jane-shoes/",
+   "date": "2026-11-17T09:21:38+00:00",
+   "excerpt": "adidas releases a new Anfu Mary Jane covered in floral details. It's the most crafty version of the balletcore shoe yet.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "d3b0c0db64"
+  },
+  {
+   "title": "adidas' 3D-Printed Runner Is a Nod to the Future",
+   "url": "https://www.highsnobiety.com/p/adidas-futurecool-off-white/",
+   "date": "2026-11-17T09:20:37+00:00",
+   "excerpt": "With the release of the adidas Futurecool Off White, the Three Stripes might be giving us an insight into what's to come.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "63a65a5210"
+  },
+  {
+   "title": "adidas’ Brand-New Loafer Is in an (Ivy) League of Its Own",
+   "url": "https://www.highsnobiety.com/p/beams-adidas-loafer/",
+   "date": "2026-11-17T09:17:41+00:00",
+   "excerpt": "BEAMS debuts an adidas Loafer collaboration for its 50th anniversary. Here's everything on the classy birthday release.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ff477c0e34"
+  },
+  {
+   "title": "Electric barge launched for Nike cargo route in Vietnam",
+   "url": "https://www.just-style.com/news/nike-electric-barge-vietnam/",
+   "date": "2026-11-17T09:15:51+00:00",
+   "excerpt": "Nike and its logistics partners CMA CGM and Gemadept have launched a fully electric barge service in Vietnam intended to reduce emissions from inland cargo transport.",
+   "source": "Just Style",
+   "tags": [
+    "Sustainability"
+   ],
+   "id": "12fd26d157"
+  },
+  {
+   "title": "Vans UGG-ified Its Skate-able Boat Shoes",
+   "url": "https://www.highsnobiety.com/p/vans-2-eyelet-boat-shoes/",
+   "date": "2026-11-17T09:15:16+00:00",
+   "excerpt": "Vans drops a new sherpa version of its 2-Eyeley Boat Shoe, resulting in an fluffy winter-ready version of the hybrid model.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "996da44e6a"
+  },
+  {
+   "title": "TJX among companies using tariff refunds for executive bonuses",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFB2aHh3Rm5wcG9FV29xRi1mVVRmdXd0MEpoYnN6Ym45VWZibjg1M0F3dmxsekVHai1PUjF3VWc3R09kLU9hd2VIdkQ1UWgtZENZVzlxc3B5b0ZodmNJR25SbG54MHhLSTlQWVNpQWNXcW9PTVNwb21fMGdPcE5iUjR6RWNsRS1aUGtJQlotdEZtZUxMVGpuWTd5QnYtUEdITndwS1l1UVZWemNfdF9EdUJqaHU4QQ?oc=5",
+   "date": "2026-11-17T09:14:16+00:00",
+   "excerpt": "",
+   "source": "Fashion United",
+   "tags": [
+    "Trade"
+   ],
+   "id": "7cbae33191"
+  },
+  {
+   "title": "Finding textile-to-textile recycling’s ‘missing middle’",
+   "url": "https://www.just-style.com/features/finding-textile-to-textile-recyclings-missing-middle/",
+   "date": "2026-11-17T09:13:00+00:00",
+   "excerpt": "An Accelerating Circularity report argues that textile-to-textile recycling is stuck in a “missing middle” due to a lack of financial support",
+   "source": "Just Style",
+   "tags": [
+    "Sustainability"
+   ],
+   "id": "c5a6eada9d"
+  },
+  {
+   "title": "Even in Camo, Nike’s Split-Toe Sneaker Refuses to Blend In",
+   "url": "https://www.highsnobiety.com/p/nike-air-rift-hemp-camo/",
+   "date": "2026-11-17T09:12:14+00:00",
+   "excerpt": "Nike rereleases its camouflage Air Rift sneaker-sandal for the fall. Here's everything on the drop that's anything but hidden.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "027c994c9a"
+  },
+  {
+   "title": "Jordan’s Sporty-Casual Sneaker Belongs in the Skate Park",
+   "url": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
+   "date": "2026-11-17T09:10:09+00:00",
+   "excerpt": "The new Jordan Strada is a skate shoe dressed in casual clothes, complete with Nike Air tech & stylish colorways.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "61723c097c"
+  },
+  {
+   "title": "Nike Should Be Much Weirder",
+   "url": "https://www.highsnobiety.com/p/nike-performance-air-rift-new-shoes/",
+   "date": "2026-11-17T09:07:48+00:00",
+   "excerpt": "Nike is a leader in sportswear brands, that’s not up for debate. But, in the modern age, what keeps it at the fore is a dedication to getting freaky.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "6c43849a7f"
+  },
+  {
+   "title": "Lights, Camera, Action! An Exclusive Look Inside ELLE’s 2026 Women in Hollywood Celebration",
+   "url": "https://www.elle.com/elleextra/events/a74445861/elle-women-in-hollywood-2026-recap/",
+   "date": "2026-11-17T08:50:07+00:00",
+   "excerpt": "Florence Pugh, Julianne Moore, Penélope Cruz, and more were honored at our annual event.",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "0009753bdc"
+  },
+  {
+   "title": "EXCLUSIVE: Jaeger-LeCoultre Turns to Video Games for Latest Made of Makers Collaboration",
+   "url": "https://wwd.com/accessories-news/watches/jaeger-lecoultre-zain-memon-video-game-made-of-makers-1239420008/",
+   "date": "2026-11-17T08:48:55+00:00",
+   "excerpt": "Game designer Zain Memon has created an interactive puzzle game introducing players to the watchmaker’s history and craft, extending from digital devices to in-person sessions.",
+   "source": "WWD",
+   "tags": [
+    "Designers"
+   ],
+   "id": "b03b1b575f"
+  },
+  {
+   "title": "A job that changed me: Washing hands at a luxury skincare brand, I learned how fascism could feel ‘aesthetic’",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQk5xdnlYanpaSHIyREZ5cEFmZUloaVk3RXpDWm1KZVZueXdCdFVsQzJiNEVrNXg1Q291NXdvZktYaGxEVmdPVTdPejhBZVlPUF9kNWZqVkxFcGl2LUJvQnI4WGxBT0hpTFN5STZONUZwYkRtakpTVWtkT0tKQlI0alg0eFUyYU4yMWY1OWxGVzk4dVNzV2VjSDJtOGRBSU1KSjQ0U2dtc2VtTVNUX09Fb0pqOVVUQlMzaE1QT2lfVERmeEpXZHNmSTNLRjFucU5jTXE4aktMckhaMDlLSXdkWmx5Z3EzX1FDbXJlb21mRQ?oc=5",
+   "date": "2026-11-17T07:22:00+00:00",
+   "excerpt": "",
+   "source": "The Guardian",
+   "tags": [
+    "Trends"
+   ],
+   "id": "e7bcad4f3a"
+  },
+  {
+   "title": "Pisces Daily Horoscope",
+   "url": "https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/",
+   "date": "2026-11-17T07:00:10+00:00",
+   "excerpt": "(February 19 - March 20)",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "4e51e484b2"
+  },
+  {
+   "title": "GTA VI Is Launching This Week. How Can Fashion Tap In?",
+   "url": "https://www.vogue.com/article/gta-vi-is-launching-this-week-how-can-fashion-tap-in",
+   "date": "2026-11-17T05:30:00+00:00",
+   "excerpt": "After 13 years, the much-anticipated GTA VI is being released this week. With a Selfridges pop-up and a Nike collab already under its belt, who else will seize the opportunity?",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ab3756c175"
+  },
+  {
+   "title": "Holiday Campaigns: Can Luxury’s Hand-Drawn Holiday Campaigns Really Rebuff AI?",
+   "url": "https://www.vogue.com/article/can-luxurys-hand-drawn-holiday-campaigns-really-rebuff-ai",
+   "date": "2026-11-17T05:30:00+00:00",
+   "excerpt": "Brands from Prada to Loewe are leaning into handmade content ahead of the holidays, in a very anti-AI end to 2026. Brands and illustrators weigh in.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "deb921a4e9"
+  },
+  {
+   "title": "How Tecovas Is Taking Western Mainstream",
+   "url": "https://www.vogue.com/article/no-concrete-cowboys-how-tecovas-is-taking-western-mainstream",
+   "date": "2026-11-17T05:30:00+00:00",
+   "excerpt": "Tecovas CEO David Lafitte breaks down how Tecovas is pushing growth with Westernwear — with the view of an exit down the line.",
+   "source": "Vogue",
+   "tags": [
+    "Business"
+   ],
+   "id": "3810c729e0"
+  },
+  {
+   "title": "The Real Story Behind ‘Drawing Prada’",
+   "url": "https://www.vogue.com/article/the-real-story-behind-drawing-prada",
+   "date": "2026-11-17T05:30:00+00:00",
+   "excerpt": "The creative director and longtime Prada collaborator explains why he was determined the campaign had to be handmade and the complications that came with that decision.",
+   "source": "Vogue",
+   "tags": [
+    "Designers"
+   ],
+   "id": "ffdc72dcdb"
   }
  ],
  "fabric": {
-  "title": "Kuba textiles",
-  "url": "https://en.wikipedia.org/wiki/Kuba_textiles",
+  "title": "Crêpe (textile)",
+  "text": "Crêpe, also spelled crepe or crape (from the French crêpe), is a silk, wool, or synthetic fiber fabric with a distinctively crisp and crimped appearance. The term \"crape\" typically refers to a form of the fabric associated specifically with mourning. Crêpe was also historically called \"crespe\" or \"crisp\". It is woven of hard-spun yarn, originally silk \"in the gum\" (silk from which the sericin had not been removed).",
+  "url": "https://en.wikipedia.org/wiki/Cr%C3%AApe_(textile)",
   "textLicense": "Text from Wikipedia, CC BY-SA 4.0",
-  "text": "Kuba textiles are a type of raffia cloth unique to the Democratic Republic of the Congo, formerly Zaire, and noted for their elaboration and complexity of design and surface decoration. Most textiles are a variation on rectangular or square pieces of woven palm leaf fiber enhanced by geometric designs executed in linear embroidery and other stitches, which are cut to form pile surfaces resembling velvet. Traditionally, men weave the raffia cloth, and women are responsible for transforming it into various forms of textiles, including ceremonial skirts, ‘velvet’ tribute cloths, headdresses and basketry.",
   "image": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Raffia_cloth%2C_Kuba_kingdom%2C_c._1909%2C_HMA.JPG/960px-Raffia_cloth%2C_Kuba_kingdom%2C_c._1909%2C_HMA.JPG",
-   "page": "https://commons.wikimedia.org/wiki/File:Raffia_cloth,_Kuba_kingdom,_c._1909,_HMA.JPG",
-   "author": "Hiart",
-   "license": "CC0"
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Woman%27s_Bonnet_%28Mourning%29_LACMA_41.11.8.jpg/1280px-Woman%27s_Bonnet_%28Mourning%29_LACMA_41.11.8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:Woman%27s_Bonnet_(Mourning)_LACMA_41.11.8.jpg",
+   "author": "Unknown",
+   "license": "Public domain"
   }
  },
  "term": {
-  "title": "Cruise collection",
-  "url": "https://en.wikipedia.org/wiki/Cruise_collection",
+  "title": "Haute couture",
+  "text": "Haute couture is the creation of exclusive custom-fitted high-end fashion design. The term haute couture generally refers to a specific type of upper garment common in Europe during the 16th to the 18th century or to the upper portion of a modern dress to distinguish it from the skirt and sleeves. Beginning in the mid-nineteenth century, Paris became the centre of a growing industry that focused on making outfits from high-quality, expensive, and often unusual fabric, sewn with extreme attention to detail and finished by the most experienced and capable of sewers, often using time-consuming, hand-executed techniques. Couture is also commonly used on its own as an abbreviation of haute couture, referring to the same concept in spirit.",
+  "url": "https://en.wikipedia.org/wiki/Haute_couture",
   "textLicense": "Text from Wikipedia, CC BY-SA 4.0",
-  "text": "A cruise collection or resort collection or resort wear sometimes also holiday or travel collection (collection croisière in French), is an inter-season or pre-season line of ready-to-wear clothing produced by a fashion house or fashion brand in addition to the recurrent biannual seasonal collections — spring/summer and autumn (or fall)/winter — heralded at the fashion shows in New York, London, Paris, and Milan.",
-  "image": null
+  "image": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Pierre_Balmain_and_Ruth_Ford%2C_photographed_by_Carl_Van_Vechten%2C_November_9%2C_1947.jpg/1280px-Pierre_Balmain_and_Ruth_Ford%2C_photographed_by_Carl_Van_Vechten%2C_November_9%2C_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:Pierre_Balmain_and_Ruth_Ford,_photographed_by_Carl_Van_Vechten,_November_9,_1947.jpg",
+   "author": "Carl Van Vechten",
+   "license": "Public domain"
+  }
  },
  "events": {
   "upcoming": [
@@ -329,8 +874,37 @@
  },
  "log": {
   "ok": [
-   "seed: verified by hand on 2026-11-17"
+   "feed:The Guardian",
+   "feed:Vogue",
+   "feed:Harper's Bazaar",
+   "feed:Elle",
+   "feed:WWD",
+   "feed:Dazed",
+   "feed:Just Style",
+   "feed:Glossy",
+   "feed:BellaNaija",
+   "feed:Fashionista",
+   "feed:Highsnobiety",
+   "feed:Hypebeast",
+   "gnews:fashion industry",
+   "gnews:fashion creative director",
+   "gnews:luxury fashion house",
+   "gnews:fashion week",
+   "gnews:African fashion designer",
+   "gnews:Lagos fashion",
+   "gnews:South African fashion",
+   "gnews:Congo fashion",
+   "gnews:fashion tariffs",
+   "gnews:textile industry",
+   "gnews:fashion sustainability law",
+   "gnews:fashion retail sales",
+   "met: scanned 120, pool 17",
+   "wikipedia:Crêpe (textile)",
+   "wikipedia:Haute couture"
   ],
-  "failed": []
+  "failed": [
+   "feed:The Business of Fashion: HTTPError HTTP Error 403: Forbidden",
+   "met:search"
+  ]
  }
 }
