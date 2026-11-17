@@ -1,0 +1,336 @@
+{
+ "generated": "2026-11-17T10:00+00:00",
+ "date": "2026-11-17",
+ "hero": {
+  "kind": "met",
+  "id": 96434,
+  "title": "Dress",
+  "date": "ca. 1872",
+  "culture": "French",
+  "artist": "",
+  "medium": "a) cotton, porcelain; b) cotton",
+  "img": "https://images.metmuseum.org/CRDImages/ci/original/DT5639.jpg",
+  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/DT5639.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/96434",
+  "credit": "Purchase, Irene Lewisohn Bequest, 2003"
+ },
+ "news": [
+  {
+   "title": "Martine Rose is the new creative director of Balenciaga",
+   "url": "https://www.voguescandinavia.com/articles/martine-rose-is-the-new-creative-director-of-balenciaga",
+   "date": "2026-11-06T08:00:00+00:00",
+   "excerpt": "",
+   "source": "Vogue Scandinavia",
+   "tags": [
+    "Designers"
+   ],
+   "id": "a2de17db33"
+  },
+  {
+   "title": "New Boss at Hugo Boss: Frasers installs David Epstein as Grieder steps down",
+   "url": "https://fashionunited.uk/news/people/new-boss-at-hugo-boss-frasers-installs-david-epstein-as-grieder-steps-down/2026111291370",
+   "date": "2026-11-12T08:00:00+00:00",
+   "excerpt": "",
+   "source": "FashionUnited",
+   "tags": [
+    "Culture"
+   ],
+   "id": "3dddf14ed8"
+  },
+  {
+   "title": "David Beckham Sues Coty After Fragrances Found in Discount Store",
+   "url": "https://www.businessoffashion.com/latest/",
+   "date": "2026-11-16T08:00:00+00:00",
+   "excerpt": "DB Ventures is seeking $41 million in damages from fragrance partner Coty, alleging David Beckham-branded scents were sold at UK budget chain Poundland and a petrol station without approval.",
+   "source": "The Business of Fashion",
+   "tags": [
+    "Business"
+   ],
+   "id": "e882d5f9fa"
+  },
+  {
+   "title": "Gucci to Stage Cruise Show in Shanghai",
+   "url": "https://www.businessoffashion.com/latest/",
+   "date": "2026-11-16T08:00:00+00:00",
+   "excerpt": "",
+   "source": "The Business of Fashion",
+   "tags": [
+    "Designers"
+   ],
+   "id": "1cab1d7693"
+  },
+  {
+   "title": "Republic Brands Group Acquires Rebecca Minkoff",
+   "url": "https://www.businessoffashion.com/latest/",
+   "date": "2026-11-16T08:00:00+00:00",
+   "excerpt": "",
+   "source": "The Business of Fashion",
+   "tags": [
+    "Business"
+   ],
+   "id": "9c54dbec23"
+  },
+  {
+   "title": "What To Listen for at Nike's High-Stakes Investor Day",
+   "url": "https://www.businessoffashion.com/topics/retail/",
+   "date": "2026-11-15T08:00:00+00:00",
+   "excerpt": "CEO Elliott Hill will explain how he plans to reverse years of decline as the Beaverton, Oregon-based sportswear label hosts its first investor day in nearly a decade. BoF has teed up five questions.",
+   "source": "The Business of Fashion",
+   "tags": [
+    "Business"
+   ],
+   "id": "e6f60b193e"
+  },
+  {
+   "title": "Inside Zara's Brand Makeover",
+   "url": "https://www.businessoffashion.com/topics/retail/",
+   "date": "2026-11-09T08:00:00+00:00",
+   "excerpt": "How did fashion's original disruptor defend itself from disruption as lower-priced, ultra-fast rivals gained ground?",
+   "source": "The Business of Fashion",
+   "tags": [
+    "Culture"
+   ],
+   "id": "489ded20ad"
+  },
+  {
+   "title": "US apparel import demand dips amid high tariffs, inflation",
+   "url": "https://www.just-style.com/newsletters/us-apparel-import-demand-dips-amid-high-tariffs-inflation",
+   "date": "2026-11-11T08:00:00+00:00",
+   "excerpt": "",
+   "source": "Just Style",
+   "tags": [
+    "Trade"
+   ],
+   "id": "a3b2b2248b"
+  },
+  {
+   "title": "US Fashion Resists Tariff Hikes: Only 10% Boosts Local Output",
+   "url": "https://www.modaes.com/global/markets/only-10-of-the-us-fashion-industry-is-increasing-local-production-despite-the-tariff-escalation",
+   "date": "2026-11-10T08:00:00+00:00",
+   "excerpt": "",
+   "source": "Modaes",
+   "tags": [
+    "Trade"
+   ],
+   "id": "6f08a1860e"
+  },
+  {
+   "title": "Lagos Fashion Week returns for 15th edition with a commitment to sustainability",
+   "url": "https://www.africanews.com/2026/10/30/lagos-fashion-week-returns-for-15th-edition-with-a-commitment-to-sustainability/",
+   "date": "2026-10-30T08:00:00+00:00",
+   "excerpt": "",
+   "source": "Africanews",
+   "tags": [
+    "Africa",
+    "Sustainability"
+   ],
+   "id": "9388c1264a"
+  },
+  {
+   "title": "DRC: Government reaffirms its commitment to structuring the fashion sector",
+   "url": "https://acp.cd/anglais/drc-government-reaffirms-its-commitment-to-structuring-the-fashion-sector/",
+   "date": "2026-08-20T08:00:00+00:00",
+   "excerpt": "",
+   "source": "ACP",
+   "tags": [
+    "Culture"
+   ],
+   "id": "95dd4c977b"
+  }
+ ],
+ "fabric": {
+  "title": "Kuba textiles",
+  "url": "https://en.wikipedia.org/wiki/Kuba_textiles",
+  "textLicense": "Text from Wikipedia, CC BY-SA 4.0",
+  "text": "Kuba textiles are a type of raffia cloth unique to the Democratic Republic of the Congo, formerly Zaire, and noted for their elaboration and complexity of design and surface decoration. Most textiles are a variation on rectangular or square pieces of woven palm leaf fiber enhanced by geometric designs executed in linear embroidery and other stitches, which are cut to form pile surfaces resembling velvet. Traditionally, men weave the raffia cloth, and women are responsible for transforming it into various forms of textiles, including ceremonial skirts, ‘velvet’ tribute cloths, headdresses and basketry.",
+  "image": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Raffia_cloth%2C_Kuba_kingdom%2C_c._1909%2C_HMA.JPG/960px-Raffia_cloth%2C_Kuba_kingdom%2C_c._1909%2C_HMA.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Raffia_cloth,_Kuba_kingdom,_c._1909,_HMA.JPG",
+   "author": "Hiart",
+   "license": "CC0"
+  }
+ },
+ "term": {
+  "title": "Cruise collection",
+  "url": "https://en.wikipedia.org/wiki/Cruise_collection",
+  "textLicense": "Text from Wikipedia, CC BY-SA 4.0",
+  "text": "A cruise collection or resort collection or resort wear sometimes also holiday or travel collection (collection croisière in French), is an inter-season or pre-season line of ready-to-wear clothing produced by a fashion house or fashion brand in addition to the recurrent biannual seasonal collections — spring/summer and autumn (or fall)/winter — heralded at the fashion shows in New York, London, Paris, and Milan.",
+  "image": null
+ },
+ "events": {
+  "upcoming": [
+   {
+    "s": "2026-11-27",
+    "e": "2026-11-27",
+    "n": "Fashion Rave",
+    "w": "Muri Okunola Park, Victoria Island, Lagos",
+    "r": "Africa",
+    "src": "The Guardian Nigeria",
+    "u": "https://guardian.ng/?p=2922667"
+   },
+   {
+    "s": "2026-12-12",
+    "e": "2026-12-13",
+    "n": "Africa Fashion Week Nigeria",
+    "w": "JRandle Centre for Yoruba Culture and History, Lagos",
+    "r": "Africa",
+    "src": "ThisDay",
+    "u": "https://www.thisdaylive.com/2026/09/07/africa-fashion-week-nigeria-returns-for-its-12th-edition"
+   },
+   {
+    "s": "2027-01-15",
+    "e": "2027-01-19",
+    "n": "Milano Moda Uomo, Autumn/Winter 2027",
+    "w": "Milan, men's collections",
+    "r": "Europe",
+    "src": "Camera Nazionale della Moda Italiana",
+    "u": "https://www.cameramoda.it/en/milano-moda-donna/"
+   },
+   {
+    "s": "2027-01-19",
+    "e": "2027-01-24",
+    "n": "Paris Fashion Week Men's, Fall/Winter 2027",
+    "w": "Paris",
+    "r": "Europe",
+    "src": "FHCM",
+    "u": "https://www.fhcm.paris/en/next-dates"
+   },
+   {
+    "s": "2027-01-25",
+    "e": "2027-01-28",
+    "n": "Paris Haute Couture Week, Spring/Summer 2027",
+    "w": "Paris",
+    "r": "Europe",
+    "src": "FHCM",
+    "u": "https://www.fhcm.paris/en/next-dates"
+   },
+   {
+    "s": "2027-02-01",
+    "e": "2027-02-05",
+    "n": "Copenhagen Fashion Week, Autumn/Winter 2027",
+    "w": "Copenhagen",
+    "r": "Europe",
+    "src": "CFDA Fashion Calendar",
+    "u": "https://fashioncalendar.com/important-dates/2027"
+   },
+   {
+    "s": "2027-02-09",
+    "e": "2027-02-16",
+    "n": "New York Fashion Week, Fall/Winter 2027",
+    "w": "New York",
+    "r": "Americas",
+    "src": "CFDA Fashion Calendar",
+    "u": "https://fashioncalendar.com/important-dates/2027"
+   },
+   {
+    "s": "2027-02-18",
+    "e": "2027-02-22",
+    "n": "London Fashion Week, February 2027",
+    "w": "London",
+    "r": "Europe",
+    "prov": true,
+    "src": "Provisional; not yet confirmed by the British Fashion Council",
+    "u": "https://www.britishfashioncouncil.co.uk/GLOBAL-PLATFORMS/London-Fashion-Week"
+   },
+   {
+    "s": "2027-02-23",
+    "e": "2027-03-01",
+    "n": "Milan Fashion Week Women's, Autumn/Winter 2027",
+    "w": "Milan",
+    "r": "Europe",
+    "src": "Camera Nazionale della Moda Italiana",
+    "u": "https://www.cameramoda.it/en/milano-moda-donna/"
+   },
+   {
+    "s": "2027-03-01",
+    "e": "2027-03-09",
+    "n": "Paris Fashion Week Women's, Fall/Winter 2027",
+    "w": "Paris",
+    "r": "Europe",
+    "src": "FHCM",
+    "u": "https://www.fhcm.paris/en/next-dates"
+   },
+   {
+    "s": "2027-06-22",
+    "e": "2027-06-27",
+    "n": "Paris Fashion Week Men's, Spring/Summer 2028",
+    "w": "Paris",
+    "r": "Europe",
+    "src": "FHCM",
+    "u": "https://www.fhcm.paris/en/next-dates"
+   },
+   {
+    "s": "2027-07-05",
+    "e": "2027-07-08",
+    "n": "Paris Haute Couture Week, Fall/Winter 2027",
+    "w": "Paris",
+    "r": "Europe",
+    "src": "FHCM",
+    "u": "https://www.fhcm.paris/en/next-dates"
+   },
+   {
+    "s": "2027-09-27",
+    "e": "2027-10-05",
+    "n": "Paris Fashion Week Women's, Spring/Summer 2028",
+    "w": "Paris",
+    "r": "Europe",
+    "src": "FHCM",
+    "u": "https://www.fhcm.paris/en/next-dates"
+   }
+  ],
+  "recent": [
+   {
+    "s": "2026-11-05",
+    "e": "2026-11-07",
+    "n": "Soweto Fashion Week",
+    "w": "Blue Theatre, Soweto Theatre, Jabulani",
+    "r": "Africa",
+    "src": "Gauteng Tourism",
+    "u": "https://www.gauteng.net/whats-on-g/?p=44021"
+   },
+   {
+    "s": "2026-10-28",
+    "e": "2026-11-01",
+    "n": "Lagos Fashion Week",
+    "w": "Federal Palace Hotel, Victoria Island, Lagos",
+    "r": "Africa",
+    "src": "BellaNaija",
+    "u": "https://www.bellanaija.com/?p=1788907"
+   },
+   {
+    "s": "2026-10-20",
+    "e": "2026-10-25",
+    "n": "South African Fashion Week, AW27",
+    "w": "The Forum, Hyde Park Corner, Johannesburg",
+    "r": "Africa",
+    "src": "Gauteng Tourism",
+    "u": "https://www.gauteng.net/whats-on-g/south-african-fashion-week-2027/"
+   },
+   {
+    "s": "2026-10-18",
+    "e": "2026-10-25",
+    "n": "Design Week Lagos",
+    "w": "Venues across Lagos",
+    "r": "Africa",
+    "src": "Dezeen",
+    "u": "https://www.dezeen.com/eventsguide/2026/10/design-week-lagos-2026/"
+   },
+   {
+    "s": "2026-08-15",
+    "e": "2026-08-15",
+    "n": "DRC Fashion Week, 6th edition",
+    "w": "Galerie La Fontaine, Gombe, Kinshasa",
+    "r": "Africa",
+    "src": "ACP",
+    "u": "https://acp.cd/anglais/drc-government-reaffirms-its-commitment-to-structuring-the-fashion-sector/"
+   }
+  ],
+  "checked": "2026-11-17"
+ },
+ "log": {
+  "ok": [
+   "seed: verified by hand on 2026-11-17"
+  ],
+  "failed": []
+ }
+}

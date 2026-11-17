@@ -1,0 +1,24 @@
+{
+  "note": "Curated list. Dates checked against organisers or reputable press on 2026-11-17. Past events move to 'Recently held' automatically.",
+  "checked": "2026-11-17",
+  "events": [
+    {"s":"2026-11-27","e":"2026-11-27","n":"Fashion Rave","w":"Muri Okunola Park, Victoria Island, Lagos","r":"Africa","src":"The Guardian Nigeria","u":"https://guardian.ng/?p=2922667"},
+    {"s":"2026-12-12","e":"2026-12-13","n":"Africa Fashion Week Nigeria","w":"JRandle Centre for Yoruba Culture and History, Lagos","r":"Africa","src":"ThisDay","u":"https://www.thisdaylive.com/2026/09/07/africa-fashion-week-nigeria-returns-for-its-12th-edition"},
+    {"s":"2027-01-15","e":"2027-01-19","n":"Milano Moda Uomo, Autumn/Winter 2027","w":"Milan, men's collections","r":"Europe","src":"Camera Nazionale della Moda Italiana","u":"https://www.cameramoda.it/en/milano-moda-donna/"},
+    {"s":"2027-01-19","e":"2027-01-24","n":"Paris Fashion Week Men's, Fall/Winter 2027","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates"},
+    {"s":"2027-01-25","e":"2027-01-28","n":"Paris Haute Couture Week, Spring/Summer 2027","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates"},
+    {"s":"2027-02-01","e":"2027-02-05","n":"Copenhagen Fashion Week, Autumn/Winter 2027","w":"Copenhagen","r":"Europe","src":"CFDA Fashion Calendar","u":"https://fashioncalendar.com/important-dates/2027"},
+    {"s":"2027-02-09","e":"2027-02-16","n":"New York Fashion Week, Fall/Winter 2027","w":"New York","r":"Americas","src":"CFDA Fashion Calendar","u":"https://fashioncalendar.com/important-dates/2027"},
+    {"s":"2027-02-18","e":"2027-02-22","n":"London Fashion Week, February 2027","w":"London","r":"Europe","prov":true,"src":"Provisional; not yet confirmed by the British Fashion Council","u":"https://www.britishfashioncouncil.co.uk/GLOBAL-PLATFORMS/London-Fashion-Week"},
+    {"s":"2027-02-23","e":"2027-03-01","n":"Milan Fashion Week Women's, Autumn/Winter 2027","w":"Milan","r":"Europe","src":"Camera Nazionale della Moda Italiana","u":"https://www.cameramoda.it/en/milano-moda-donna/"},
+    {"s":"2027-03-01","e":"2027-03-09","n":"Paris Fashion Week Women's, Fall/Winter 2027","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates"},
+    {"s":"2027-06-22","e":"2027-06-27","n":"Paris Fashion Week Men's, Spring/Summer 2028","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates"},
+    {"s":"2027-07-05","e":"2027-07-08","n":"Paris Haute Couture Week, Fall/Winter 2027","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates"},
+    {"s":"2027-09-27","e":"2027-10-05","n":"Paris Fashion Week Women's, Spring/Summer 2028","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates"},
+    {"s":"2026-11-05","e":"2026-11-07","n":"Soweto Fashion Week","w":"Blue Theatre, Soweto Theatre, Jabulani","r":"Africa","src":"Gauteng Tourism","u":"https://www.gauteng.net/whats-on-g/?p=44021"},
+    {"s":"2026-10-28","e":"2026-11-01","n":"Lagos Fashion Week","w":"Federal Palace Hotel, Victoria Island, Lagos","r":"Africa","src":"BellaNaija","u":"https://www.bellanaija.com/?p=1788907"},
+    {"s":"2026-10-20","e":"2026-10-25","n":"South African Fashion Week, AW27","w":"The Forum, Hyde Park Corner, Johannesburg","r":"Africa","src":"Gauteng Tourism","u":"https://www.gauteng.net/whats-on-g/south-african-fashion-week-2027/"},
+    {"s":"2026-10-18","e":"2026-10-25","n":"Design Week Lagos","w":"Venues across Lagos","r":"Africa","src":"Dezeen","u":"https://www.dezeen.com/eventsguide/2026/10/design-week-lagos-2026/"},
+    {"s":"2026-08-15","e":"2026-08-15","n":"DRC Fashion Week, 6th edition","w":"Galerie La Fontaine, Gombe, Kinshasa","r":"Africa","src":"ACP","u":"https://acp.cd/anglais/drc-government-reaffirms-its-commitment-to-structuring-the-fashion-sector/"}
+  ]
+}

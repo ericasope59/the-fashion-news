@@ -1,0 +1,18 @@
+{
+  "note": "Wikipedia article titles. The daily job pulls each day's text and image from Wikipedia, so wording is the source's own (CC BY-SA 4.0).",
+  "fabrics": [
+    "Kuba textiles", "Linen", "Silk", "Kente cloth", "Denim", "Aso oke", "Cashmere wool", "Bògòlanfini",
+    "Velvet", "Batik", "Tweed", "African wax prints", "Organza", "Shibori", "Mohair", "Seshoeshoe",
+    "Brocade", "Ikat", "Cotton", "Kitenge", "Satin", "Jamdani", "Wool", "Kanga (garment)",
+    "Damask", "Khadi", "Harris tweed", "Piña", "Chiffon (fabric)", "Muslin", "Lyocell", "Taffeta",
+    "Alpaca fiber", "Lace", "Seersucker", "Hemp", "Tartan", "Crêpe (textile)", "Bouclé", "Gingham",
+    "Ramie", "Corduroy", "Jersey (fabric)", "Madras (cloth)", "Tulle (netting)", "Calico", "Georgette (fabric)",
+    "Poplin", "Rayon", "Banarasi sari"
+  ],
+  "terms": [
+    "Haute couture", "Ready-to-wear", "Cruise collection", "Fashion week", "Lookbook", "Trunk show",
+    "Slow fashion", "Circular fashion", "Greenwashing", "Bespoke tailoring", "Made-to-measure", "Capsule wardrobe",
+    "Visual merchandising", "Private label", "Direct-to-consumer", "Diffusion line", "Sustainable fashion", "Upcycling",
+    "Vintage clothing", "Streetwear", "Fashion merchandising", "Pattern grading", "Sample sale", "Fashion design copyright"
+  ]
+}
