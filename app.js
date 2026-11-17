@@ -47,7 +47,7 @@ function chips(el, list, cb, start) {
 /* ------------------------------------------------------------ data */
 async function loadData(force) {
   try {
-    const r = await fetch('data/today.json?t=' + (force ? Date.now() : todayISO()), { cache: force ? 'no-store' : 'default' });
+    const r = await fetch('today.json?t=' + (force ? Date.now() : todayISO()), { cache: force ? 'no-store' : 'default' });
     if (!r.ok) throw new Error(r.status);
     DATA = await r.json();
     store.set('lastData', DATA);
@@ -130,7 +130,7 @@ function renderLearn() {
 
 let LIB = null;
 async function loadLibrary() {
-  try { LIB = await fetch('data/library.json').then(r => r.json()); } catch { return; }
+  try { LIB = await fetch('library.json').then(r => r.json()); } catch { return; }
   const mk = (el, list) => { el.innerHTML = list.map(x => `<button class="chip" data-w="${esc(x)}">${esc(x.replace(/\s*\(.*\)/, ''))}</button>`).join(''); };
   mk($('#library'), LIB.fabrics); mk($('#terms'), LIB.terms);
 }
@@ -334,7 +334,7 @@ chips($('#ifilters'), CATS, c => { if (c === cat && $('#c0').children.length) re
 $('#count').textContent = shown.toLocaleString('en-GB');
 
 /* ------------------------------------------------------------ start */
-fetch('data/met_pool.json').then(r => r.json()).then(p => { metPool = shuffle(p); }).catch(() => {});
+fetch('met_pool.json').then(r => r.json()).then(p => { metPool = shuffle(p); }).catch(() => {});
 show(); loadData(false); loadLibrary(); loadStrip();
 document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && DATA && DATA.date !== todayISO()) loadData(true); });
 if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});

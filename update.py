@@ -24,8 +24,9 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA = os.path.join(ROOT, "data")
+HERE = os.path.dirname(os.path.abspath(__file__))
+# Works whether files sit in a data/ folder or loose next to this script.
+DATA = os.path.join(HERE, "data") if os.path.isdir(os.path.join(HERE, "data")) else HERE
 UA = "TheFashionNewsBot/1.0 (personal news app; GitHub Actions)"
 NOW = dt.datetime.now(dt.timezone.utc)
 TODAY = NOW.date()
