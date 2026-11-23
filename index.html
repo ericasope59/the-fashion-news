@@ -96,6 +96,12 @@ img.fade.in{opacity:1}
 .ev .act{margin-top:8px;font-size:14px}
 .ev .act button{text-decoration:underline;text-underline-offset:3px;min-height:32px}
 .flag{display:inline-block;font-size:12px;border:1px solid var(--ink);padding:1px 7px;border-radius:999px;margin-left:6px;vertical-align:2px;font-family:Jost,sans-serif}
+.evt{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);display:flex;gap:8px;align-items:center;margin-top:0}
+.evt .new{text-transform:none;letter-spacing:0}
+.evnew{font-size:14px;margin-top:10px}
+.evnew:empty{display:none}
+nav button.dot span{position:relative}
+nav button.dot span::after{content:"";position:absolute;top:-2px;right:-9px;width:7px;height:7px;border-radius:50%;background:var(--ink)}
 .month{font-family:"Bodoni Moda",serif;font-style:italic;font-size:20px;margin-top:26px;padding-bottom:6px;border-bottom:1px solid var(--ink)}
 nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:440px;background:rgba(251,248,241,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(4,1fr);padding:8px 6px calc(8px + env(safe-area-inset-bottom));z-index:6}
 @media(min-width:520px){nav{bottom:28px;border-radius:0 0 28px 28px}}
@@ -187,8 +193,10 @@ nav button[aria-current=page] span{border-bottom:1px solid var(--ink)}
 </section>
 
 <section id="events-v" aria-label="Events">
-  <div class="kicker"><b>Calendar</b><span>Fashion weeks and networking</span></div>
-  <div class="chips" id="efilters" role="group" aria-label="Filter events"></div>
+  <div class="kicker"><b>Calendar</b><span>Shows, fairs, conferences and exhibitions</span></div>
+  <div class="chips" id="efilters" role="group" aria-label="Filter events by region"></div>
+  <div class="chips" id="etypes" role="group" aria-label="Filter events by type" style="margin-top:6px"></div>
+  <p class="evnew" id="evnew" role="status"></p>
   <div id="evlist"></div>
   <div class="month">Recently held</div>
   <div id="past"></div>

@@ -150,27 +150,45 @@ async function openWiki(title) {
 document.addEventListener('click', e => { const b = e.target.closest('[data-w]'); if (b) openWiki(b.dataset.w); });
 
 /* ------------------------------------------------------------ events */
-let evRegion = 'All';
+let evRegion = 'All', evType = 'All types';
+const EV_TYPES = { 'All types': null, 'Fashion weeks': ['Fashion week'], 'Runway shows': ['Runway show'],
+  'Trade fairs & conferences': ['Trade fair', 'Conference'], 'Exhibitions & networking': ['Exhibition', 'Awards', 'Gala'] };
+const evId = ev => ev.s + '|' + ev.n;
+const seenEvBefore = new Set(store.get('seenEv', []));
+// New = not seen on this device before. On a device's first visit, only events added in the last 2 days count as new.
+const evIsNew = ev => !seenEvBefore.has(evId(ev)) && (seenEvBefore.size ? true : !!ev.added && (Date.now() - new Date(ev.added + 'T00:00:00')) / 864e5 <= 2);
 const pd = s => { const [y, m, d] = s.split('-').map(Number); return { y, m: m - 1, d }; };
 const range = ev => { const a = pd(ev.s), b = pd(ev.e); return a.d === b.d && a.m === b.m ? `${a.d} ${MO[a.m]}` : a.m === b.m ? `${a.d}–${b.d} ${MO[a.m]}` : `${a.d} ${MO[a.m]} – ${b.d} ${MO[b.m]}`; };
 const evRow = (ev, past) => { const a = pd(ev.s), b = pd(ev.e);
   const big = a.m === b.m ? (a.d === b.d ? a.d : `${a.d}–${b.d}`) : a.d;
-  return `<div class="ev"><div class="d"><b>${big}</b><small>${a.m === b.m ? MO[a.m] + ' ' + a.y : MO[a.m] + ' – ' + b.d + ' ' + MO[b.m]}</small></div><div>
-  <h3>${esc(ev.n)}${ev.prov ? '<span class="flag">Provisional</span>' : ''}</h3><p>${esc(ev.w)} · ${range(ev)} ${a.y}</p>
+  const yrs = a.y === b.y ? `${range(ev)} ${a.y}` : `${a.d} ${MO[a.m]} ${a.y} – ${b.d} ${MO[b.m]} ${b.y}`;
+  const small = a.y !== b.y ? MO[a.m] + ' ' + a.y : a.m === b.m ? MO[a.m] + ' ' + a.y : MO[a.m] + ' – ' + b.d + ' ' + MO[b.m];
+  return `<div class="ev"><div class="d"><b>${big}</b><small>${small}</small></div><div>
+  <p class="evt">${esc(ev.t || 'Event')}${!past && evIsNew(ev) ? '<span class="new">New</span>' : ''}</p>
+  <h3>${esc(ev.n)}${ev.prov ? '<span class="flag">Provisional</span>' : ''}</h3><p>${esc(ev.w)} · ${yrs}</p>
+  ${ev.note ? `<p>${esc(ev.note)}</p>` : ''}
   <p>Source: <a href="${esc(ev.u)}" target="_blank" rel="noopener">${esc(ev.src)}</a></p>
   ${past ? '<p>Next dates not yet announced.</p>' : `<div class="act"><button data-ics='${esc(JSON.stringify(ev))}'>Add to calendar</button></div>`}</div></div>`; };
 function renderEvents() {
   const iso = todayISO(), all = [...DATA.events.upcoming, ...DATA.events.recent];
   const up = all.filter(e => e.e >= iso).sort((a, b) => a.s.localeCompare(b.s));
   const past = all.filter(e => e.e < iso).sort((a, b) => b.s.localeCompare(a.s)).slice(0, 8);
-  const draw = r => {
-    evRegion = r; let m = '', h = '';
-    up.filter(e => r === 'All' || e.r === r).forEach(e => { const a = pd(e.s), k = MF[a.m] + ' ' + a.y; if (k !== m) { h += `<div class="month">${k}</div>`; m = k; } h += evRow(e); });
-    $('#evlist').innerHTML = h || '<p class="empty">No upcoming events in this region yet.</p>';
-    $('#past').innerHTML = past.filter(e => r === 'All' || e.r === r).map(e => evRow(e, true)).join('') || '<p class="empty">None in this region.</p>';
+  const ok = e => (evRegion === 'All' || e.r === evRegion) && (!EV_TYPES[evType] || EV_TYPES[evType].includes(e.t));
+  const draw = () => {
+    let m = '', h = '';
+    const list = up.filter(ok), now = list.filter(e => e.s <= iso), next = list.filter(e => e.s > iso);
+    if (now.length) h += '<div class="month">Happening now</div>' + now.map(e => evRow(e)).join('');
+    next.forEach(e => { const a = pd(e.s), k = MF[a.m] + ' ' + a.y; if (k !== m) { h += `<div class="month">${k}</div>`; m = k; } h += evRow(e); });
+    $('#evlist').innerHTML = h || '<p class="empty">No upcoming events for this filter yet.</p>';
+    $('#past').innerHTML = past.filter(ok).map(e => evRow(e, true)).join('') || '<p class="empty">None for this filter.</p>';
   };
-  chips($('#efilters'), ['All', 'Africa', 'Europe', 'Americas'], draw, evRegion);
-  $('#evfoot').textContent = `Dates checked against organisers or reputable press${DATA.events.checked ? ' on ' + DATA.events.checked : ''}. Always confirm with the organiser before booking travel.`;
+  chips($('#efilters'), ['All', 'Africa', 'Europe', 'Americas', 'Asia'], r => { evRegion = r; draw(); }, evRegion);
+  chips($('#etypes'), Object.keys(EV_TYPES), t => { evType = t; draw(); }, evType);
+  const fresh = up.filter(evIsNew).length;
+  document.querySelector('nav [data-v="events"]').classList.toggle('dot', fresh > 0 && location.hash.slice(1) !== 'events');
+  $('#evnew').textContent = fresh ? `${fresh} new event${fresh > 1 ? 's' : ''} added since your last visit.` : '';
+  store.set('seenEv', [...new Set([...seenEvBefore, ...all.map(evId)])].slice(-600));
+  $('#evfoot').textContent = `Checked every morning. An event is listed only when the organiser confirms it or two credible outlets report the same dates; single-source events are marked Provisional.${DATA.events.checked ? ' Last checked ' + DATA.events.checked + '.' : ''} Always confirm with the organiser before booking travel.`;
 }
 document.addEventListener('click', e => {
   const b = e.target.closest('[data-ics]'); if (!b) return;
@@ -326,6 +344,7 @@ function show() {
   document.querySelectorAll('nav button').forEach(b => b.dataset.v === v ? b.setAttribute('aria-current', 'page') : b.removeAttribute('aria-current'));
   scrollTo(0, 0);
   if (v === 'inspire' && !$('#c0').children.length) loadBatch();
+  if (v === 'events') document.querySelector('nav [data-v="events"]').classList.remove('dot');
 }
 document.querySelector('nav').onclick = e => { const b = e.target.closest('button'); if (b) location.hash = b.dataset.v; };
 $('#toInspire').onclick = () => { location.hash = 'inspire'; };
