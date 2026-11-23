@@ -1,30 +1,305 @@
 {
- "generated": "2026-11-23T05:28+00:00",
+ "generated": "2026-11-23T11:14+00:00",
  "date": "2026-11-23",
  "hero": {
   "kind": "met",
-  "id": 159483,
-  "title": "Coat",
-  "date": "1882",
-  "culture": "French",
-  "artist": "",
-  "medium": "silk, cotton, shell",
-  "img": "https://images.metmuseum.org/CRDImages/ci/original/66.101.112_front_CP4.jpg",
-  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/66.101.112_front_CP4.jpg",
-  "url": "https://www.metmuseum.org/art/collection/search/159483",
-  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Amelia Beard Hollenback, 1966"
+  "id": 158424,
+  "title": "Shoes",
+  "date": "ca. 1848",
+  "culture": "American",
+  "artist": "John Golden",
+  "medium": "leather",
+  "img": "https://images.metmuseum.org/CRDImages/ci/original/48.125.144a-b_CP4.jpg",
+  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/48.125.144a-b_CP4.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/158424",
+  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. James McF. Baker, 1948"
  },
  "news": [
   {
-   "title": "Luxury Pajama-Maker Derek Rose Steps Out of the Bedroom, and Onto the Street, With a New Collection",
-   "url": "https://wwd.com/menswear-news/mens-lifestyle/luxury-pajama-maker-derek-rose-new-collection-menswear-soft-1239429258/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "Derek Rose, which is marking 100 years in business, is broadening its reach with a new ready-to-wear collection for men that joins its luxury pajamas.",
+   "title": "The 16 Best Airbnbs in Palm Springs for Mid-Century Modern Devotees",
+   "url": "https://www.vogue.com/article/best-airbnbs-palm-springs",
+   "date": "2026-11-23T11:00:00+00:00",
+   "excerpt": "Need a desert getaway? Bookmark the 16 best Airbnbs in Palm Springs for a design-forward vacation complete with pools, palm trees, and plenty of sun.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "091a23c7f4"
+  },
+  {
+   "title": "The Best Items to Shop From Banana Republic’s Black Friday Sale",
+   "url": "https://www.vogue.com/article/black-friday-banana-republic-sale-11-23-2026",
+   "date": "2026-11-23T11:00:00+00:00",
+   "excerpt": "Shop the season’s top trends, at Banana Republic's Black Friday sale, including crispy white shirts, classic black wrap coats, and everyday knitwear, all for 40% off.",
+   "source": "Vogue",
+   "tags": [
+    "Trends"
+   ],
+   "id": "0db37aba06"
+  },
+  {
+   "title": "42 Bridal Clutches, Purses, and Handbags to Carry on Your Big Day",
+   "url": "https://www.vogue.com/slideshow/bridal-clutch-purse-handbag",
+   "date": "2026-11-23T11:00:00+00:00",
+   "excerpt": "Make sure every detail of your look feels special, including the bag you carry. Shop 42 of the best bridal clutches, purses, and handbags.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "c0c1878851"
+  },
+  {
+   "title": "Broke, exhausted, and rejected by chatbots: Inside the UK’s NEET crisis",
+   "url": "https://www.dazeddigital.com/life-culture/article/71400/1/inside-the-uk-neets-crisis-youth-unemployment-alan-milburn-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=broke-exhausted-and-rejected-by-chatbots-inside-the-uk-s-neet-crisis",
+   "date": "2026-11-23T11:00:00+00:00",
+   "excerpt": "Young people like me desperately want to work – there just aren’t enough jobs to go round, writes 23-year-old Kate Bevan",
+   "source": "Dazed",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8dabe29d22"
+  },
+  {
+   "title": "AAFA study highlights textile-to-textile recycling potential in CAFTA-DR",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRZkQtcXRCQW9HSXQ1S2RBdjBCZnNRQmZQTG1tTUd3d05OM3B2SGdHTjg2VEszS1ktSFVUMXR4S2xEWTZVYW9MckphNG94TzV0aFRFSlN6blZ2YlJSZFJNSzRkdzNWUGhHR1BWblM5QkpsZw?oc=5",
+   "date": "2026-11-23T10:44:11+00:00",
+   "excerpt": "",
+   "source": "Just Style",
+   "tags": [
+    "Sustainability"
+   ],
+   "id": "046d0c852a"
+  },
+  {
+   "title": "Nicole Farhi relaunches with ‘renewed creative vision’",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDR4UU9mOG5tVUh4VUwtMXpvRU5xTFM1b2x5VEZ0YVY1M2Zxc3dOTXBxOERVcjlqbzBzbFp2SjF0ZlllSTZ6VlVxbXhIdTBtVlhoMFVDVDRqMWw3VnlvenNYcnk4aUxqcGxyM0VpR0tQNENBdnJkcENvVUhVY3p6bnVnVzFyS2o4MnpwSWVB?oc=5",
+   "date": "2026-11-23T10:41:15+00:00",
+   "excerpt": "",
+   "source": "TheIndustry.fashion",
+   "tags": [
+    "Culture"
+   ],
+   "id": "800cf532ad"
+  },
+  {
+   "title": "Inside Gucci’s new Harrods boutique, an ode to Italian design",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVzVPYWctLWhaRTNtV19ZRzRJY3NRamFmeGM5b2toWUFQTmJBaFktQ1BtdDBOaVJteVNLM0tpSXNuQmh0S0xtZmNWcG1iS2hwSFluRDFrSHhMOEZob2x0RGh0TGpkUzFCX01mTU56dVExODlqMXZFYkx3?oc=5",
+   "date": "2026-11-23T10:07:07+00:00",
+   "excerpt": "",
+   "source": "Wallpaper*",
+   "tags": [
+    "Culture"
+   ],
+   "id": "feab39b5b0"
+  },
+  {
+   "title": "Brioche armchairs, butter sculptures and edible chandeliers: meet the new food artists",
+   "url": "https://www.theguardian.com/food/2026/nov/23/brioche-armchairs-butter-sculptures-and-edible-chandeliers-meet-the-new-food-artists",
+   "date": "2026-11-23T10:00:52+00:00",
+   "excerpt": "Culinary artists are turning fashion shows and design fairs into a feast for the eyes A pretty Venetian chandelier featuring delicate pink flowers and cascading blue leaves hangs from a ceiling. A hazy, warm light radiates from…",
+   "source": "The Guardian",
+   "tags": [
+    "Culture"
+   ],
+   "id": "c438c6736b"
+  },
+  {
+   "title": "Aba Fashion Week partners Risevest, Hisa to promote creative business investment",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcElMbTN5S2x3MUpjZ21ZX1VodlJSc1B3LXNhVDdZMnRrV3N6ZXlhckJmcnNXb1RyeFVXTVNNNVBnSkE0VVBySzFuVm1kUGRaLVFsMXZaWUNKYk05YU1HX00wck9zR3BKRVgtTFNqaTl3dGZHa2FSZlNrNzBWTUtqV1hEYUxFTHBlaG8ycXFudmVOd2JfX2FpU0lpTlZydXhKMjRRbzlBM2Y?oc=5",
+   "date": "2026-11-23T09:25:57+00:00",
+   "excerpt": "",
+   "source": "The Guardian Nigeria News",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ed54d2386f"
+  },
+  {
+   "title": "Vans’ Cozy Boots Are Genuinely UGG-cellent",
+   "url": "https://www.highsnobiety.com/p/vans-mid-slip-platform-light/",
+   "date": "2026-11-23T09:16:04+00:00",
+   "excerpt": "Vans' Mid Slip Platform Light shoes marries UGG-level coziness with the brand's slip-on boot design.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "4265139445"
+  },
+  {
+   "title": "adidas’ Steel-Toe Superstar Works Hard, Flexes Harder",
+   "url": "https://www.highsnobiety.com/p/nati-lopez-adidas-superstar-ii-shoes/",
+   "date": "2026-11-23T09:11:46+00:00",
+   "excerpt": "Nati Lopez treats her adidas Superstar II sneaker like a work boot, giving it \"steel toes\" & vintage-style leather.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "e881bc960a"
+  },
+  {
+   "title": "adidas' Iced-Out Samba Is Vice City-Coded",
+   "url": "https://www.highsnobiety.com/p/adidas-samba-miami/",
+   "date": "2026-11-23T09:09:50+00:00",
+   "excerpt": "The adidas Samba transforms into a tonal ice blue \"Miami\" sneaker. It's GTA VI-ready, to say the least.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "31c6843b0f"
+  },
+  {
+   "title": "adidas’ Handball Loafer Matured into a Wonderfully Elderly Moc",
+   "url": "https://www.highsnobiety.com/p/adidas-handball-loafer-freizeit/",
+   "date": "2026-11-23T09:07:21+00:00",
+   "excerpt": "adidas releases a Handball Loafer Freizeit model featuring an updated moccasin-style design. Here's everything on the debut.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Designers"
+   ],
+   "id": "3cf411562d"
+  },
+  {
+   "title": "A Weird '00s Nike Runner Returns as a Proper Sneaker-Heel",
+   "url": "https://www.highsnobiety.com/p/nike-ovolo-2-black/",
+   "date": "2026-11-23T08:50:42+00:00",
+   "excerpt": "Nike's Ovolo 2.0 is the world's latest sneaker-heel based on the brand's archival running shoe. Here's everything on the sleek debut.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Designers"
+   ],
+   "id": "5099bd897e"
+  },
+  {
+   "title": "Why On gave running shops first dibs on the Cloudsurfer 3",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YVE9XeXo3NG95MnltSDNGem1sZFlTWU44b1JhUEZzQkZ1ZUhoMVJsaDJsMXZmTFhjc2g2LS1aeUVaVGVNQWt0T2Q1aHFtcFhOYUxOZV9DQXhVTjBtMDRaMVZnY2lKLXNIaEtmbVdaS2dzQTBySElhSDV4QnU?oc=5",
+   "date": "2026-11-23T08:48:45+00:00",
+   "excerpt": "",
+   "source": "Glossy",
+   "tags": [
+    "Culture"
+   ],
+   "id": "a6cc650bdf"
+  },
+  {
+   "title": "EXCLUSIVE: Miu Miu Taps Becky Armstrong as Latest Brand Ambassador",
+   "url": "https://wwd.com/fashion-news/fashion-scoops/miu-miu-becky-armstrong-brand-ambassador-exclusive-1239429246/",
+   "date": "2026-11-23T08:01:00+00:00",
+   "excerpt": "Miu Miu said Armstrong’s “distinctive presence and evolving creative expression” reflect the spirit of the brand founded by Miuccia Prada.",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "f644d65062"
+  },
+  {
+   "title": "Chinese parcel imports surge to £5.3bn as Shein and Temu boom in UK",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVctcDlRb0dMVlJ1UkJhY2JpSFBSdVpKZ2lvZmxmLWV2ZGt6dWZ5RHQySjM0N2R5WHZ0dENOa3N6RXc5WElweWwtcjJTcF9lYUwxZ1J0MmhYTFVNaUgwVkp5d3drQmtaY0F3S2E0Q2pTZ01PTmtUTXFTcnV3THJOOU5XMktrcFpobmg1ZFhlVHJDWmJQamo5MV92TjgySmd3V1U0Q2RTQVhfYTJ3cnZPWkt3?oc=5",
+   "date": "2026-11-23T07:20:17+00:00",
+   "excerpt": "",
+   "source": "Retail Gazette",
+   "tags": [
+    "Trade"
+   ],
+   "id": "d8874e8236"
+  },
+  {
+   "title": "Pisces Daily Horoscope",
+   "url": "https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/",
+   "date": "2026-11-23T07:00:18+00:00",
+   "excerpt": "(February 19 - March 20)",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "4e51e484b2"
+  },
+  {
+   "title": "EXCLUSIVE: Louis Vuitton to Launch Experiential Flagship at Hong Kong’s K11 Musea",
+   "url": "https://wwd.com/business-news/retail/exclusive-louis-vuitton-visionary-journeys-hong-kongs-k11-musea-teaser-1239420015/",
+   "date": "2026-11-23T07:00:00+00:00",
+   "excerpt": "After Bangkok, Seoul and Shanghai, the \"Visionary Journeys\" format is set to arrive on Victoria Harbour on Dec. 12 with an 11-room exhibition, an exclusive capsule collection, a café and a chocolate shop.",
    "source": "WWD",
    "tags": [
     "Designers"
    ],
-   "id": "9e31d61459"
+   "id": "0054da886a"
+  },
+  {
+   "title": "Sheroanawe Hakihiiwe’s Tender Record of a Vanishing Amazon",
+   "url": "https://www.vogue.com/article/sheroanawe-hakihiiwe-ica-miami",
+   "date": "2026-11-23T06:56:22+00:00",
+   "excerpt": "On view through March 28, 2027, “Sheroanawe Hakihiiwe” at ICA Miami brings together more than 100 works, from his earliest experiments on handmade paper in the 1990s to breathtaking installations and a newly commissioned film…",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8babba9b9d"
+  },
+  {
+   "title": "CEO TALKS: Galeries Lafayette’s Arthur Lemoine on Luxury, Loyalty and That Christmas Tree",
+   "url": "https://wwd.com/business-news/retail/ceo-arthur-lemoine-galeries-lafayette-luxury-loyalty-christmas-tree-1239429667/",
+   "date": "2026-11-23T06:00:00+00:00",
+   "excerpt": "Having succeeded his cousin Nicolas Houzé at the helm of the family-owned retailer, the CEO is navigating geopolitical uncertainty and changing consumer habits while betting on exclusivity and human connection.",
+   "source": "WWD",
+   "tags": [
+    "Business"
+   ],
+   "id": "41bb3c6d3b"
+  },
+  {
+   "title": "Four Shifts Reshaping Fashion and What They Mean for the US Cotton Industry",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVlfNDZwTEtNMWxVTU9YbWxGWDcwVmtGSTh0RTl6S2ozMlRHNUhlNnZ5amZSdmg4QXhxNnQtMUZ6NTNDQ18yamlnOEFKVHRpU0hwZVAtbU10MENBSzZaRW1RY0l3ejhyM21Bc3V3Y3dyR3JtY2IxcGw3VDVZUC1kLUg5WlBkSTd3VUJGdmJSaTJ6b3BSb0RzYV94aVZJTmJQcWN2WGNLcUdQb2M?oc=5",
+   "date": "2026-11-23T06:00:00+00:00",
+   "excerpt": "",
+   "source": "The Business of Fashion",
+   "tags": [
+    "Culture"
+   ],
+   "id": "e770371bf8"
+  },
+  {
+   "title": "Western Brands Need a New China Playbook",
+   "url": "https://www.vogue.com/article/western-brands-need-a-new-china-playbook",
+   "date": "2026-11-23T05:30:00+00:00",
+   "excerpt": "After an almost three-year slump, China’s luxury market is showing signs of recovery. Western brands need to act quickly by rationalizing distribution, localizing output, and planning for the future to increase relevance.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "720967db76"
+  },
+  {
+   "title": "Who Will Win the Chinese Sportswear Race?",
+   "url": "https://www.vogue.com/article/who-will-win-the-chinese-sportswear-race",
+   "date": "2026-11-23T05:30:00+00:00",
+   "excerpt": "China’s sportswear market is building speed. Can domestic brands overtake their Western counterparts?",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "929616eb1d"
+  },
+  {
+   "title": "The New Rules for Selling Beauty in China",
+   "url": "https://www.vogue.com/article/the-new-rules-for-selling-beauty-in-china",
+   "date": "2026-11-23T05:30:00+00:00",
+   "excerpt": "Coinciding with changing perceptions of ‘Made in China’, the country’s beauty landscape is shifting from a period of general expansion to one that is hyper-selective and value-driven, with clear winners and losers.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "23a819bccb"
+  },
+  {
+   "title": "China’s Luxury Problem Is Bigger Than the Economy",
+   "url": "https://www.vogue.com/article/chinas-luxury-problem-is-bigger-than-the-economy",
+   "date": "2026-11-23T05:30:00+00:00",
+   "excerpt": "From changing attitudes toward exclusivity to the rise of domestic competitors, Chinese consumers are questioning what makes luxury worth paying for — and who gets to decide.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "da70c4d5c4"
   },
   {
    "title": "Ferragamo USA Acquires Direct Control of Puerto Rico Retail Operations",
@@ -38,15 +313,15 @@
    "id": "985c586ea6"
   },
   {
-   "title": "EXCLUSIVE: Maison Francis Kurkdjian Opens First West Coast Boutique at South Coast Plaza",
-   "url": "https://wwd.com/beauty-industry-news/fragrance/maison-francis-kurkdjian-south-coast-plaza-boutique-1239440286/",
+   "title": "Luxury Pajama-Maker Derek Rose Steps Out of the Bedroom, and Onto the Street, With a New Collection",
+   "url": "https://wwd.com/menswear-news/mens-lifestyle/luxury-pajama-maker-derek-rose-new-collection-menswear-soft-1239429258/",
    "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "The luxury fragrance house is expanding its U.S. retail footprint with a new California location and plans for a fifth boutique in Dallas.",
+   "excerpt": "Derek Rose, which is marking 100 years in business, is broadening its reach with a new ready-to-wear collection for men that joins its luxury pajamas.",
    "source": "WWD",
    "tags": [
-    "Culture"
+    "Designers"
    ],
-   "id": "35ab4e53e6"
+   "id": "9e31d61459"
   },
   {
    "title": "Nicole Farhi Brand Returns as a DTC Player",
@@ -60,17 +335,6 @@
    "id": "5715c812e5"
   },
   {
-   "title": "Jensen Huang’s Penchant for Leather Jackets Riles Men’s Designers",
-   "url": "https://wwd.com/menswear-news/mens-fashion/jensen-huang-leather-jacket-joseph-abboud-kidsuper-jack-carlson-1239425231/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "His affairs may have resulted in him being banished from chip giant Nvidia but menswear designers also take issue with his style — those leather jackets show a lack of fashion sophistication, no matter how expensive they may be.",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "155803cfe4"
-  },
-  {
    "title": "Bloomingdale’s Unveils the Art of Ralph Lauren for Its Holiday Windows",
    "url": "https://wwd.com/business-news/retail/bloomingdales-ralph-lauren-holiday-windows-kevin-harter-1239425790/",
    "date": "2026-11-23T05:01:00+00:00",
@@ -82,15 +346,26 @@
    "id": "11939806a1"
   },
   {
-   "title": "Why On gave running shops first dibs on the Cloudsurfer 3",
-   "url": "https://www.glossy.co/fashion/on-cloudsurfer-3-specialty-running-retail/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:00:00+00:00",
-   "excerpt": "Naperville Running Company sold through a quarter of its Cloudsurfer 3 inventory in the first week. The launch shows how On used fittings and staff recommendations to build demand ahead of a wider rollout.",
-   "source": "Glossy",
+   "title": "EXCLUSIVE: Maison Francis Kurkdjian Opens First West Coast Boutique at South Coast Plaza",
+   "url": "https://wwd.com/beauty-industry-news/fragrance/maison-francis-kurkdjian-south-coast-plaza-boutique-1239440286/",
+   "date": "2026-11-23T05:01:00+00:00",
+   "excerpt": "The luxury fragrance house is expanding its U.S. retail footprint with a new California location and plans for a fifth boutique in Dallas.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "c3b5762110"
+   "id": "35ab4e53e6"
+  },
+  {
+   "title": "Jensen Huang’s Penchant for Leather Jackets Riles Men’s Designers",
+   "url": "https://wwd.com/menswear-news/mens-fashion/jensen-huang-leather-jacket-joseph-abboud-kidsuper-jack-carlson-1239425231/",
+   "date": "2026-11-23T05:01:00+00:00",
+   "excerpt": "His affairs may have resulted in him being banished from chip giant Nvidia but menswear designers also take issue with his style — those leather jackets show a lack of fashion sophistication, no matter how expensive they may be.",
+   "source": "WWD",
+   "tags": [
+    "Designers"
+   ],
+   "id": "155803cfe4"
   },
   {
    "title": "As gifting to creators gains traction, brands worry about ROI and expectations",
@@ -148,6 +423,17 @@
    "id": "1162a95a8f"
   },
   {
+   "title": "Houston Through a Fashion and Art Lens",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWpqTE1pb2xlaHpVRzJBRWRTR1BBZzNEUmdiREV5NGJjYm1fU0M2cm0xTDRSZVJZRGwwdFd6bnVUSm5KcDRSTXI1UTVzOUdEZXlQakdZTWp5MldWOWpuWXZFZ3R6ZWZuSHhPeDVlMlQ1MDRyTUx4cmpkVGR2TmN1Wmkxemh6WUtLQ0s3RTQ2Zzd5NTJ5UDFvanV1QjRNSDAxSFJNQkhsSUo5QQ?oc=5",
+   "date": "2026-11-22T23:19:28+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "f63f61197b"
+  },
+  {
    "title": "Thom Browne and Teyana Taylor: Designer and Muse",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6b2E2YjZJTEEzQkJMNU4xOEljRFF5SmdjQmF1NW5yRWlGeDg3RGEwamw3YXdJSFViemtNUFRFMUt4Ri0tR0JldGFCUWZvLTkxZUpZNjhFby1kcW1DdDJmaTBOY3IxVExJeWhnNGRsczdDaExrbWdXNFh3?oc=5",
    "date": "2026-11-22T23:04:56+00:00",
@@ -168,94 +454,6 @@
     "Culture"
    ],
    "id": "914a622620"
-  },
-  {
-   "title": "Kim Kardashian Doubles Down on Leather with Two Complimentary Ensembles at Las Vegas Grand Prix",
-   "url": "https://wwd.com/pop-culture/celebrity-news/kim-kardashian-leather-ensembles-las-vegas-grand-prix-1239461824/",
-   "date": "2026-11-22T21:57:44+00:00",
-   "excerpt": "The reality star wore two different leather looks, one in bright red and one in black.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "a3c9d14a8d"
-  },
-  {
-   "title": "Cate Blanchett Lights Up Avenue des Champs-Élysées for Christmas",
-   "url": "https://wwd.com/business-news/retail/cate-blanchett-champs-elysees-christmas-lights-2026-1239461802/",
-   "date": "2026-11-22T21:52:00+00:00",
-   "excerpt": "The return of a Christmas market after a decade and a new immersive light show are part of a push to restore the Paris avenue's international standing, as the city seeks to reassure visitors amid continuing unrest.",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "5e20bb0b60"
-  },
-  {
-   "title": "Teyana Taylor Gets Sporty in Racer Jacket and Balenciaga Motocross Boots at Las Vegas Grand Prix",
-   "url": "https://wwd.com/footwear-news/shoe-trends/teyana-taylor-racer-jacket-balenciaga-boots-grand-prix-1239461809/",
-   "date": "2026-11-22T21:45:33+00:00",
-   "excerpt": "The “All’s Fair” actress’s ensemble gave her an edgy look completely appropriate for the event.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "5bd887b315"
-  },
-  {
-   "title": "adidas’ Steel-Toe Superstar Works Hard, Flexes Harder",
-   "url": "https://www.highsnobiety.com/p/nati-lopez-adidas-superstar-ii-shoes/",
-   "date": "2026-11-22T21:10:37+00:00",
-   "excerpt": "Nati Lopez treats her adidas Superstar II sneaker like a work boot, giving it \"steel toes\" & vintage-style leather.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "e881bc960a"
-  },
-  {
-   "title": "adidas' Iced-Out Samba Is Vice City-Coded",
-   "url": "https://www.highsnobiety.com/p/adidas-samba-miami/",
-   "date": "2026-11-22T21:08:08+00:00",
-   "excerpt": "The adidas Samba transforms into a tonal ice blue \"Miami\" sneaker. It's GTA VI-ready, to say the least.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "31c6843b0f"
-  },
-  {
-   "title": "adidas’ Handball Loafer Matured into a Wonderfully Elderly Moc",
-   "url": "https://www.highsnobiety.com/p/adidas-handball-loafer-freizeit/",
-   "date": "2026-11-22T21:06:42+00:00",
-   "excerpt": "adidas releases a Handball Loafer Freizeit model featuring an updated moccasin-style design. Here's everything on the debut.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Designers"
-   ],
-   "id": "3cf411562d"
-  },
-  {
-   "title": "Vans’ Cozy Boots Are Genuinely UGG-cellent",
-   "url": "https://www.highsnobiety.com/p/vans-mid-slip-platform-light/",
-   "date": "2026-11-22T21:04:37+00:00",
-   "excerpt": "Vans' Mid Slip Platform Light shoes marries UGG-level coziness with the brand's slip-on boot design.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "4265139445"
-  },
-  {
-   "title": "A Weird '00s Nike Runner Returns as a Proper Sneaker-Heel",
-   "url": "https://www.highsnobiety.com/p/nike-ovolo-2-black/",
-   "date": "2026-11-22T21:02:58+00:00",
-   "excerpt": "Nike's Ovolo 2.0 is the world's latest sneaker-heel based on the brand's archival running shoe. Here's everything on the sleek debut.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Designers"
-   ],
-   "id": "5099bd897e"
   },
   {
    "title": "Princess Kate Opens Up About Her Cancer Journey in a New Documentary",
@@ -476,204 +674,6 @@
     "Culture"
    ],
    "id": "64f7093ad4"
-  },
-  {
-   "title": "The Very Best Luggage Sets, According to Vogue Editors",
-   "url": "https://www.vogue.com/article/best-luggage-sets",
-   "date": "2026-11-22T11:00:00+00:00",
-   "excerpt": "Looking to invest in a new luggage set ahead of holiday travel? Vogue editors share their favorites from brands like Rimowa, Tumi, and more.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "24e2bbe72b"
-  },
-  {
-   "title": "11 Best Airbnbs Near Acadia National Park for a Nature-Filled Vacation",
-   "url": "https://www.vogue.com/article/best-airbnbs-near-acadia-national-park",
-   "date": "2026-11-22T11:00:00+00:00",
-   "excerpt": "The best Airbnbs near Acadia National Park put you right in the middle of its coastal landscape; here are our favorite ones.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "48f62de811"
-  },
-  {
-   "title": "Miley Cyrus and Maxx Morando Are Married! See the First Photos Here",
-   "url": "https://www.vogue.com/article/miley-cyrus-and-maxx-morando-are-married",
-   "date": "2026-11-22T10:58:55+00:00",
-   "excerpt": "The couple tied the knot in a poolside ceremony in Palm Springs surrounded by dramatic flowers after five years together.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "3b0eff1a42"
-  },
-  {
-   "title": "Black Friday 2026 date tracker: When every major brand and retailer starts their sale",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTJ1STMzRE5RZnBfVXpFdzZScTdtLVdNa2pveERibjEybEJNMUVMRlRjeWdPZGVlMFdYVHozMHZNcTFVaHc5bjl4X29FSVJuUVNhZ3NqdXc3ek5mN1l0Qkd1UUliSHpDZngwbWR3UGg2Sm1PcmdoSV9WOHNPTTJiT1g4aDlrU3dvNFl2bkF4MlBHMUVSVlR3NmstdTYwLXFqd1Y5T3VR?oc=5",
-   "date": "2026-11-22T09:56:00+00:00",
-   "excerpt": "",
-   "source": "The Independent",
-   "tags": [
-    "Business"
-   ],
-   "id": "f2130f6545"
-  },
-  {
-   "title": "Pisces Daily Horoscope",
-   "url": "https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/",
-   "date": "2026-11-22T07:00:07+00:00",
-   "excerpt": "(February 19 - March 20)",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "4e51e484b2"
-  },
-  {
-   "title": "Dress for the dancefloor – and go big on jewellery: 51 ways to look fabulous this party season",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-party-outfit-ideas",
-   "date": "2026-11-22T06:00:19+00:00",
-   "excerpt": "Whether it’s styling tricks that cost nothing or chic festive finds, our fashion expert takes the stress out of getting ready • The best women’s coats Oh look, how lovely – a party invitation. That’s nice of them, isn’t it? How…",
-   "source": "The Guardian",
-   "tags": [
-    "Culture"
-   ],
-   "id": "aa4badc3e2"
-  },
-  {
-   "title": "The 8 Best James Bond Films",
-   "url": "https://www.vogue.com/article/8-best-bond-films",
-   "date": "2026-11-22T02:14:41+00:00",
-   "excerpt": "From “Dr. No” to “Skyfall,” these are the best James Bond movies to date.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "608464e420"
-  },
-  {
-   "title": "Miley Cyrus and Maxx Morando Are Married",
-   "url": "https://www.elle.com/culture/celebrities/a74492329/miley-cyrus-maxx-morando-married-news/",
-   "date": "2026-11-22T01:11:22+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "2acb05ecc8"
-  },
-  {
-   "title": "Could Paul Mescal's GAA shorts craze be making its way to the Dior catwalk?",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43Z0M1YmxXVllVWWVwZC11WDlmbmVnS0xzbkx6MHdyaHNxY2hDalhUdWdxb1JlQlRkYjlIWVFSbFVaaS1RbC1WczNHT3N6aFVhSU1oY0poMWRiRHh2MGc?oc=5",
-   "date": "2026-11-22T00:01:18+00:00",
-   "excerpt": "",
-   "source": "BBC",
-   "tags": [
-    "Designers"
-   ],
-   "id": "fb63f0eb3c"
-  },
-  {
-   "title": "The Launch: November’s Must-Know Fashion News",
-   "url": "https://www.elle.com/fashion/shopping/a74336986/best-fashion-launches-november-2026/",
-   "date": "2026-11-21T22:16:43+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "829040ddab"
-  },
-  {
-   "title": "Jennifer Lawrence Slips Into Statement Slippers for an Easy Autumn Walk",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74498328/jennifer-lawrence-red-slippers-row-car-coat-nyc-street-style-photos/",
-   "date": "2026-11-21T22:11:44+00:00",
-   "excerpt": "She brightened up her porcelain car coat with a pop of red",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "212b1a5066"
-  },
-  {
-   "title": "Try some ‘notice me’ knitwear — plus more trends to know now",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd1VuVnpyRWZKMlVSRjdRckdBS3RQWlh3RVJqMjFNT0lpMjU2X0pNcFI4RGU0b2xKOEtFeUtHQ3lEeFRPaWpFNWxRbm5QNVVLY2hESUlZU3dHckZYS2djNXlBZmpQY2tqeGZ5eFNhYUkzUUxGcnc4UWJHSGpiWGZaSmhfUUpocDRGUUhYcU9DSGowaHhnOXg2LUx5bzZFTlNHNTkxQmtMTU84d3hvcG93?oc=5",
-   "date": "2026-11-21T22:00:00+00:00",
-   "excerpt": "",
-   "source": "The Times",
-   "tags": [
-    "Trends"
-   ],
-   "id": "648cfeb481"
-  },
-  {
-   "title": "adidas Took the New Balance Route With Its All-New Techy Sneaker-Loafer",
-   "url": "https://www.highsnobiety.com/p/adidas-formotion-f50-loafer/",
-   "date": "2026-11-21T21:50:10+00:00",
-   "excerpt": "adidas drops a Formotion F50 Loafer inspired by its dadcore running shoe. It's also oozing New Balance energy.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "79cb7a9511"
-  },
-  {
-   "title": "Textiles, apparel exports post combined sector growth of 17.5%",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXRBbzhaQ0hfUmkxbmIxQ1hxMnQtVm1jc2dra2tCdTdHRDFCU2Q1Y1FBdEo3Ul9aaFRmRDJlT1RjSldFQkxIc0NxU0RBNkJzTVBUQjN5U0ExeHNDdTNaaGEwOVhwemhqVlg1bXdmNk9mT3NYb0FaTWcyTWl2ejJVS1F2SHpwSHJxT2NMRzNHN0ZocUFrYTVuYWNZNV9CY2MxNmhPLTlXQy1WTVozelFjeDVUTTlDNWJlSDA0UTlPTEZyeGJKc1hMc3lsNWNJR1VoX3dF0gHYAUFVX3lxTE1aQzdKNGE5SldvNms4bmtmcDRVYVRXdExWWG5BZHVhenRNcFJYSGVnbXh1RUo2SmtLMUVfNnFsc2NUN3pwU3ZUazdqYjI0VUVUNmp1UHFDcFYzdGdQSmxwSkhQbTcyeWw0YWFINVRLZ3JoVjcxMDJHVTVGMElPY0NNdmNzand6UXlJWEp3R0ZzSE5qU2x3dzI4aTdlX0xPZW5PdjV5RUt0b2FZUUZsRkZkUkY3RksteVQzUWowTHBWcW80V09IakJSWVd3M3BDMC1uUmlBdElwVA?oc=5",
-   "date": "2026-11-21T21:49:00+00:00",
-   "excerpt": "",
-   "source": "The Times of India",
-   "tags": [
-    "Trade"
-   ],
-   "id": "dfb47cbfea"
-  },
-  {
-   "title": "All About Lana Del Rey’s Husband, Jeremy Dufrene",
-   "url": "https://www.elle.com/culture/celebrities/a62103404/who-is-lana-del-rey-boyfriend-jeremy-dufrene/",
-   "date": "2026-11-21T21:28:00+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "183804ec53"
-  },
-  {
-   "title": "Robert Pattinson and Suki Waterhouse’s Complete Relationship Timeline",
-   "url": "https://www.elle.com/culture/celebrities/a28799931/robert-pattinson-suki-waterhouse-relationship-timeline/",
-   "date": "2026-11-21T21:25:00+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "ffc6def538"
-  },
-  {
-   "title": "Olivia Dean Goes Backless in Straight-Off-the-Runway Conner Ives",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74498196/olivia-dean-backless-pink-dress-conner-ives-los40-music-awards-red-carpet-photos/",
-   "date": "2026-11-21T20:54:03+00:00",
-   "excerpt": "The pop star brought a pop of pink to the Los40 Music Awards",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Designers"
-   ],
-   "id": "8d06dbe754"
-  },
-  {
-   "title": "Everything We Know About Jennifer Lawrence and Emma Stone’s Miss Piggy Movie",
-   "url": "https://www.elle.com/culture/movies-tv/a69266952/jennifer-lawrence-emma-stone-miss-piggy-movie-date-cast-news/",
-   "date": "2026-11-21T19:54:22+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "489cf2ac07"
   }
  ],
  "fabric": {
@@ -703,122 +703,423 @@
  "events": {
   "upcoming": [
    {
+    "s": "2026-09-21",
+    "e": "2027-01-03",
+    "n": "The Burberry Trench: Crafting an Icon (exhibition)",
+    "t": "Exhibition",
+    "w": "V&A South Kensington, London",
+    "r": "Europe",
+    "src": "V&A (organiser)",
+    "u": "https://www.vam.ac.uk/exhibitions/the-burberry-trench-crafting-an-icon",
+    "note": "Free display.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2026-09-26",
+    "e": "2027-02-14",
+    "n": "A Wardrobe of One's Own: Dissident Femininities in the 19th Century (exhibition)",
+    "t": "Exhibition",
+    "w": "Palais Galliera, Paris",
+    "r": "Europe",
+    "src": "Paris.fr (City of Paris)",
+    "u": "https://www.paris.fr/evenements/un-vestiaire-a-soi-feminites-dissidentes-au-19e-siecle-117961",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2026-09-30",
+    "e": "2027-04-04",
+    "n": "Look! 40 Years of Fashion at the Museum (exhibition)",
+    "t": "Exhibition",
+    "w": "Musée des Arts Décoratifs, Paris",
+    "r": "Europe",
+    "src": "Paris je t'aime (Paris tourist office)",
+    "u": "https://parisjetaime.com/eng/article/exhibitions-and-fashion-events-in-paris-a1952",
+    "added": "2026-11-23"
+   },
+   {
     "s": "2026-11-27",
     "e": "2026-11-27",
     "n": "Fashion Rave",
+    "t": "Fashion week",
     "w": "Muri Okunola Park, Victoria Island, Lagos",
     "r": "Africa",
     "src": "The Guardian Nigeria",
-    "u": "https://guardian.ng/?p=2922667"
+    "u": "https://guardian.ng/?p=2922667",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2026-11-30",
+    "e": "2026-11-30",
+    "n": "The Fashion Awards 2026",
+    "t": "Awards",
+    "w": "Royal Albert Hall, London",
+    "r": "Europe",
+    "src": "FashionUnited; TheIndustry.fashion",
+    "u": "https://fashionunited.com/news/fashion/bfc-announces-fashion-awards-2026-nominees/2026091674673",
+    "note": "Organised by the British Fashion Council.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2026-12-01",
+    "e": "2026-12-04",
+    "n": "BoF VOICES 2026",
+    "t": "Conference",
+    "w": "Soho Farmhouse, Oxfordshire",
+    "r": "Europe",
+    "src": "The Business of Fashion (organiser)",
+    "u": "https://pages.businessoffashion.com/voices-2026/",
+    "note": "Invitation only; livestreamed for BoF Professional members.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2026-12-01",
+    "e": "2026-12-06",
+    "n": "Dakar Fashion Week, 25th edition",
+    "t": "Fashion week",
+    "w": "Blaise Diagne International Airport (AIBD), Diass",
+    "r": "Africa",
+    "prov": true,
+    "src": "Au Sénégal; only one source so far",
+    "u": "https://www.au-senegal.com/dakar-fashion-week-2026-25-ans-de-mode-africaine-celebres-a-l-aibd,18609.html",
+    "note": "Final show reported for Saturday 5 December, 17:00.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2026-12-02",
+    "e": "2026-12-02",
+    "n": "Chanel Métiers d'art 2027",
+    "t": "Runway show",
+    "w": "Rome",
+    "r": "Europe",
+    "src": "The Impression; Jing Daily",
+    "u": "https://theimpression.com/chanel-to-present-metiers-dart-2027-collection-in-rome/",
+    "note": "Designed by Matthieu Blazy. Venue not yet announced.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2026-12-04",
+    "e": "2026-12-04",
+    "n": "Dior Pre-Fall 2027",
+    "t": "Runway show",
+    "w": "Old Library, Trinity College Dublin",
+    "r": "Europe",
+    "src": "The Irish Times; Tourism Ireland",
+    "u": "https://www.irishtimes.com/life-style/fashion/2026/07/22/jonathan-anderson-to-present-dior-show-in-trinity-college/",
+    "note": "Jonathan Anderson's first show in Ireland; Dior's first ever show in Ireland.",
+    "added": "2026-11-23"
    },
    {
     "s": "2026-12-12",
     "e": "2026-12-13",
     "n": "Africa Fashion Week Nigeria",
+    "t": "Fashion week",
     "w": "JRandle Centre for Yoruba Culture and History, Lagos",
     "r": "Africa",
     "src": "ThisDay",
-    "u": "https://www.thisdaylive.com/2026/09/07/africa-fashion-week-nigeria-returns-for-its-12th-edition"
+    "u": "https://www.thisdaylive.com/2026/09/07/africa-fashion-week-nigeria-returns-for-its-12th-edition",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2026-12-12",
+    "e": "2027-10-17",
+    "n": "En volume ! (exhibition)",
+    "t": "Exhibition",
+    "w": "Palais Galliera, Paris",
+    "r": "Europe",
+    "src": "Offi; Sortir à Paris",
+    "u": "https://www.offi.fr/expositions-musees/musee-galliera-2366/en-volume-108381.html",
+    "note": "Fashion techniques that turn flat fabric into volume.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-01-12",
+    "e": "2027-01-15",
+    "n": "Pitti Immagine Uomo 111",
+    "t": "Trade fair",
+    "w": "Fortezza da Basso, Florence",
+    "r": "Europe",
+    "src": "Pitti Immagine (organiser)",
+    "u": "https://uomo.pittimmagine.com/",
+    "note": "Menswear trade fair. Dunhill is Guest Designer.",
+    "added": "2026-11-23"
    },
    {
     "s": "2027-01-15",
     "e": "2027-01-19",
     "n": "Milano Moda Uomo, Autumn/Winter 2027",
+    "t": "Fashion week",
     "w": "Milan, men's collections",
     "r": "Europe",
     "src": "Camera Nazionale della Moda Italiana",
-    "u": "https://www.cameramoda.it/en/milano-moda-donna/"
+    "u": "https://www.cameramoda.it/en/milano-moda-donna/",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2027-01-16",
+    "e": "2027-01-18",
+    "n": "Who's Next Paris",
+    "t": "Trade fair",
+    "w": "Paris Expo Porte de Versailles",
+    "r": "Europe",
+    "src": "FashionUnited; Fibre2Fashion",
+    "u": "https://fashionunited.de/veranstaltungen/whos-next",
+    "note": "Women's ready-to-wear, accessories and lifestyle trade fair.",
+    "added": "2026-11-23"
    },
    {
     "s": "2027-01-19",
     "e": "2027-01-24",
     "n": "Paris Fashion Week Men's, Fall/Winter 2027",
+    "t": "Fashion week",
     "w": "Paris",
     "r": "Europe",
     "src": "FHCM",
-    "u": "https://www.fhcm.paris/en/next-dates"
+    "u": "https://www.fhcm.paris/en/next-dates",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2027-01-20",
+    "e": "2027-01-22",
+    "n": "Pitti Immagine Filati",
+    "t": "Trade fair",
+    "w": "Fortezza da Basso, Florence",
+    "r": "Europe",
+    "src": "Pitti Immagine (organiser)",
+    "u": "https://uomo.pittimmagine.com/",
+    "note": "Yarns and knitwear trade fair.",
+    "added": "2026-11-23"
    },
    {
     "s": "2027-01-25",
     "e": "2027-01-28",
     "n": "Paris Haute Couture Week, Spring/Summer 2027",
+    "t": "Fashion week",
     "w": "Paris",
     "r": "Europe",
     "src": "FHCM",
-    "u": "https://www.fhcm.paris/en/next-dates"
+    "u": "https://www.fhcm.paris/en/next-dates",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2027-01-26",
+    "e": "2027-01-28",
+    "n": "Première Vision Paris",
+    "t": "Trade fair",
+    "w": "Paris Nord Villepinte, Halls 5 & 6",
+    "r": "Europe",
+    "src": "Première Vision (organiser)",
+    "u": "https://paris.premierevision.com/content/visit-practical-information",
+    "note": "Fabrics and materials for Spring/Summer 2028.",
+    "added": "2026-11-23"
    },
    {
     "s": "2027-02-01",
     "e": "2027-02-05",
     "n": "Copenhagen Fashion Week, Autumn/Winter 2027",
+    "t": "Fashion week",
     "w": "Copenhagen",
     "r": "Europe",
     "src": "CFDA Fashion Calendar",
-    "u": "https://fashioncalendar.com/important-dates/2027"
+    "u": "https://fashioncalendar.com/important-dates/2027",
+    "added": "2026-11-17"
    },
    {
     "s": "2027-02-09",
     "e": "2027-02-16",
     "n": "New York Fashion Week, Fall/Winter 2027",
+    "t": "Fashion week",
     "w": "New York",
     "r": "Americas",
     "src": "CFDA Fashion Calendar",
-    "u": "https://fashioncalendar.com/important-dates/2027"
+    "u": "https://fashioncalendar.com/important-dates/2027",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2027-02-16",
+    "e": "2027-02-18",
+    "n": "MAGIC Las Vegas",
+    "t": "Trade fair",
+    "w": "Las Vegas Convention Center",
+    "r": "Americas",
+    "src": "MAGIC (organiser)",
+    "u": "https://www.magicfashionevents.com/exhibit-sponsor/why-exhibit",
+    "note": "Apparel, footwear and sourcing marketplace.",
+    "added": "2026-11-23"
    },
    {
     "s": "2027-02-18",
     "e": "2027-02-22",
     "n": "London Fashion Week, February 2027",
+    "t": "Fashion week",
     "w": "London",
     "r": "Europe",
     "prov": true,
     "src": "Provisional; not yet confirmed by the British Fashion Council",
-    "u": "https://www.britishfashioncouncil.co.uk/GLOBAL-PLATFORMS/London-Fashion-Week"
+    "u": "https://www.britishfashioncouncil.co.uk/GLOBAL-PLATFORMS/London-Fashion-Week",
+    "added": "2026-11-17"
    },
    {
     "s": "2027-02-23",
     "e": "2027-03-01",
     "n": "Milan Fashion Week Women's, Autumn/Winter 2027",
+    "t": "Fashion week",
     "w": "Milan",
     "r": "Europe",
     "src": "Camera Nazionale della Moda Italiana",
-    "u": "https://www.cameramoda.it/en/milano-moda-donna/"
+    "u": "https://www.cameramoda.it/en/milano-moda-donna/",
+    "added": "2026-11-17"
    },
    {
     "s": "2027-03-01",
     "e": "2027-03-09",
     "n": "Paris Fashion Week Women's, Fall/Winter 2027",
+    "t": "Fashion week",
     "w": "Paris",
     "r": "Europe",
     "src": "FHCM",
-    "u": "https://www.fhcm.paris/en/next-dates"
+    "u": "https://www.fhcm.paris/en/next-dates",
+    "added": "2026-11-17"
+   },
+   {
+    "s": "2027-03-13",
+    "e": "2028-01-02",
+    "n": "Punk to Pop (exhibition)",
+    "t": "Exhibition",
+    "w": "V&A South Kensington, London",
+    "r": "Europe",
+    "src": "V&A; FashionUnited",
+    "u": "https://fashionunited.com/news/culture/v-a-announces-2027-exhibition-programme-spanning-punk-south-asian-fashion-and-vivienne-westwood/2026082674265",
+    "note": "Music, art and fashion, 1972–1985.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-03-26",
+    "e": "2027-03-26",
+    "n": "Vivienne Westwood & Jewellery (exhibition opens)",
+    "t": "Exhibition",
+    "w": "V&A Dundee",
+    "r": "Europe",
+    "src": "FashionUnited; Modaes",
+    "u": "https://fashionunited.uk/news/culture/v-a-to-spotlight-vivienne-westwood-jewellery-and-punk-fashion-in-2027/2026072289343",
+    "note": "Opening day. Closing date not yet announced.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-04-24",
+    "e": "2027-04-24",
+    "n": "South Asia Now: Fashion. Art. Design. (exhibition opens)",
+    "t": "Exhibition",
+    "w": "V&A East Museum, London",
+    "r": "Europe",
+    "src": "V&A (organiser)",
+    "u": "https://www.vam.ac.uk/whatson/2027/10/15/day",
+    "note": "Opening day. Closing date not yet announced.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-04-27",
+    "e": "2027-04-27",
+    "n": "Chanel Cruise 2027/28",
+    "t": "Runway show",
+    "w": "Deauville",
+    "r": "Europe",
+    "src": "FashionUnited; The Impression",
+    "u": "https://fashionunited.com/news/fashion/deauville-to-host-chanels-next-cruise-show/2026092874866",
+    "note": "Matthieu Blazy's second Cruise collection. Venue not yet announced.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-05-03",
+    "e": "2027-05-03",
+    "n": "The Met Gala",
+    "t": "Gala",
+    "w": "The Metropolitan Museum of Art, New York",
+    "r": "Americas",
+    "src": "The Met (organiser)",
+    "u": "https://www.metmuseum.org/press-releases/extraordinary",
+    "note": "Costume Institute Benefit; opens the spring exhibition.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-05-09",
+    "e": "2028-01-09",
+    "n": "extraORDINARY: Fashion and the Poetics of the Everyday (exhibition)",
+    "t": "Exhibition",
+    "w": "The Met Fifth Avenue, New York",
+    "r": "Americas",
+    "src": "The Met (organiser)",
+    "u": "https://www.metmuseum.org/press-releases/extraordinary",
+    "note": "The Costume Institute's spring 2027 exhibition. It replaces the cancelled John Galliano exhibition.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-05-14",
+    "e": "2027-05-14",
+    "n": "Dior Cruise 2028",
+    "t": "Runway show",
+    "w": "Shanghai",
+    "r": "Asia",
+    "src": "The Impression; Hypebeast",
+    "u": "https://theimpression.com/dior-cruise-2028-shanghai-jonathan-anderson/",
+    "note": "Venue not yet announced.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-05-17",
+    "e": "2027-05-17",
+    "n": "Gucci Cruise 2028",
+    "t": "Runway show",
+    "w": "Shanghai",
+    "r": "Asia",
+    "src": "Gucci (official announcement); The Impression",
+    "u": "https://theimpression.com/?p=12075140",
+    "note": "Demna's second Cruise collection for Gucci. Venue not yet announced.",
+    "added": "2026-11-23"
+   },
+   {
+    "s": "2027-05-25",
+    "e": "2027-05-27",
+    "n": "Global Fashion Summit: Copenhagen Edition 2027",
+    "t": "Conference",
+    "w": "Copenhagen Concert Hall",
+    "r": "Europe",
+    "src": "Global Fashion Agenda (organiser)",
+    "u": "https://globalfashionagenda.org/events/global-fashion-summit",
+    "note": "Sustainability forum. Pre-Summit events on 25 May, main days 26–27 May.",
+    "added": "2026-11-23"
    },
    {
     "s": "2027-06-22",
     "e": "2027-06-27",
     "n": "Paris Fashion Week Men's, Spring/Summer 2028",
+    "t": "Fashion week",
     "w": "Paris",
     "r": "Europe",
     "src": "FHCM",
-    "u": "https://www.fhcm.paris/en/next-dates"
+    "u": "https://www.fhcm.paris/en/next-dates",
+    "added": "2026-11-17"
    },
    {
     "s": "2027-07-05",
     "e": "2027-07-08",
     "n": "Paris Haute Couture Week, Fall/Winter 2027",
+    "t": "Fashion week",
     "w": "Paris",
     "r": "Europe",
     "src": "FHCM",
-    "u": "https://www.fhcm.paris/en/next-dates"
+    "u": "https://www.fhcm.paris/en/next-dates",
+    "added": "2026-11-17"
    },
    {
     "s": "2027-09-27",
     "e": "2027-10-05",
     "n": "Paris Fashion Week Women's, Spring/Summer 2028",
+    "t": "Fashion week",
     "w": "Paris",
     "r": "Europe",
     "src": "FHCM",
-    "u": "https://www.fhcm.paris/en/next-dates"
+    "u": "https://www.fhcm.paris/en/next-dates",
+    "added": "2026-11-17"
    }
   ],
   "recent": [
@@ -826,49 +1127,59 @@
     "s": "2026-11-05",
     "e": "2026-11-07",
     "n": "Soweto Fashion Week",
+    "t": "Fashion week",
     "w": "Blue Theatre, Soweto Theatre, Jabulani",
     "r": "Africa",
     "src": "Gauteng Tourism",
-    "u": "https://www.gauteng.net/whats-on-g/?p=44021"
+    "u": "https://www.gauteng.net/whats-on-g/?p=44021",
+    "added": "2026-11-17"
    },
    {
     "s": "2026-10-28",
     "e": "2026-11-01",
     "n": "Lagos Fashion Week",
+    "t": "Fashion week",
     "w": "Federal Palace Hotel, Victoria Island, Lagos",
     "r": "Africa",
     "src": "BellaNaija",
-    "u": "https://www.bellanaija.com/?p=1788907"
+    "u": "https://www.bellanaija.com/?p=1788907",
+    "added": "2026-11-17"
    },
    {
     "s": "2026-10-20",
     "e": "2026-10-25",
     "n": "South African Fashion Week, AW27",
+    "t": "Fashion week",
     "w": "The Forum, Hyde Park Corner, Johannesburg",
     "r": "Africa",
     "src": "Gauteng Tourism",
-    "u": "https://www.gauteng.net/whats-on-g/south-african-fashion-week-2027/"
+    "u": "https://www.gauteng.net/whats-on-g/south-african-fashion-week-2027/",
+    "added": "2026-11-17"
    },
    {
     "s": "2026-10-18",
     "e": "2026-10-25",
     "n": "Design Week Lagos",
+    "t": "Exhibition",
     "w": "Venues across Lagos",
     "r": "Africa",
     "src": "Dezeen",
-    "u": "https://www.dezeen.com/eventsguide/2026/10/design-week-lagos-2026/"
+    "u": "https://www.dezeen.com/eventsguide/2026/10/design-week-lagos-2026/",
+    "added": "2026-11-17"
    },
    {
     "s": "2026-08-15",
     "e": "2026-08-15",
     "n": "DRC Fashion Week, 6th edition",
+    "t": "Fashion week",
     "w": "Galerie La Fontaine, Gombe, Kinshasa",
     "r": "Africa",
     "src": "ACP",
-    "u": "https://acp.cd/anglais/drc-government-reaffirms-its-commitment-to-structuring-the-fashion-sector/"
+    "u": "https://acp.cd/anglais/drc-government-reaffirms-its-commitment-to-structuring-the-fashion-sector/",
+    "added": "2026-11-17"
    }
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-23"
  },
  "log": {
   "ok": [
@@ -896,7 +1207,7 @@
    "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 109",
+   "met: scanned 80, pool 138",
    "wikipedia:Madras (cloth)",
    "wikipedia:Slow fashion"
   ],
