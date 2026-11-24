@@ -1,6 +1,6 @@
 {
   "note": "Curated list, checked daily. An event is added only when the organiser or brand confirms it, or two credible outlets report the same dates; anything with a single source is marked Provisional. Past events move to 'Recently held' automatically.",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "types": ["Fashion week", "Runway show", "Trade fair", "Conference", "Awards", "Gala", "Exhibition"],
   "events": [
     {"s":"2026-11-27","e":"2026-11-27","n":"Fashion Rave","t":"Fashion week","w":"Muri Okunola Park, Victoria Island, Lagos","r":"Africa","src":"The Guardian Nigeria","u":"https://guardian.ng/?p=2922667","added":"2026-11-17"},
@@ -21,6 +21,8 @@
     {"s":"2027-01-20","e":"2027-01-22","n":"Pitti Immagine Filati","t":"Trade fair","w":"Fortezza da Basso, Florence","r":"Europe","src":"Pitti Immagine (organiser)","u":"https://uomo.pittimmagine.com/","note":"Yarns and knitwear trade fair.","added":"2026-11-23"},
     {"s":"2027-01-25","e":"2027-01-28","n":"Paris Haute Couture Week, Spring/Summer 2027","t":"Fashion week","w":"Paris","r":"Europe","src":"FHCM","u":"https://www.fhcm.paris/en/next-dates","added":"2026-11-17"},
     {"s":"2027-01-26","e":"2027-01-28","n":"Première Vision Paris","t":"Trade fair","w":"Paris Nord Villepinte, Halls 5 & 6","r":"Europe","src":"Première Vision (organiser)","u":"https://paris.premierevision.com/content/visit-practical-information","note":"Fabrics and materials for Spring/Summer 2028.","added":"2026-11-23"},
+    {"s":"2027-01-25","e":"2027-01-27","n":"Texworld Apparel Sourcing Paris","t":"Trade fair","w":"Parc des Expositions Paris-Le Bourget, Halls 3 & 4, Paris","r":"Europe","src":"Messe Frankfurt France (organiser); FashionUnited","u":"https://texworld-paris.fr.messefrankfurt.com/","note":"Fabrics and apparel sourcing trade fair.","added":"2026-11-24"},
+    {"s":"2027-01-29","e":"2027-02-01","n":"Berlin Fashion Week, Winter edition 2027","t":"Fashion week","w":"Station Berlin and other venues, Berlin","r":"Europe","src":"berlin.de (City of Berlin); visitBerlin (official tourism board); FashionUnited","u":"https://www.berlin.de/en/events/8279442-2842498-berlin-fashion-week.en.html","added":"2026-11-24"},
     {"s":"2027-02-01","e":"2027-02-05","n":"Copenhagen Fashion Week, Autumn/Winter 2027","t":"Fashion week","w":"Copenhagen","r":"Europe","src":"CFDA Fashion Calendar","u":"https://fashioncalendar.com/important-dates/2027","added":"2026-11-17"},
     {"s":"2027-02-09","e":"2027-02-16","n":"New York Fashion Week, Fall/Winter 2027","t":"Fashion week","w":"New York","r":"Americas","src":"CFDA Fashion Calendar","u":"https://fashioncalendar.com/important-dates/2027","added":"2026-11-17"},
     {"s":"2027-02-16","e":"2027-02-18","n":"MAGIC Las Vegas","t":"Trade fair","w":"Las Vegas Convention Center","r":"Americas","src":"MAGIC (organiser)","u":"https://www.magicfashionevents.com/exhibit-sponsor/why-exhibit","note":"Apparel, footwear and sourcing marketplace.","added":"2026-11-23"},
