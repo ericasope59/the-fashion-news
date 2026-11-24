@@ -1,704 +1,701 @@
 {
- "generated": "2026-11-23T11:14+00:00",
- "date": "2026-11-23",
+ "generated": "2026-11-24T05:18+00:00",
+ "date": "2026-11-24",
  "hero": {
   "kind": "met",
-  "id": 158424,
-  "title": "Shoes",
-  "date": "ca. 1848",
-  "culture": "American",
-  "artist": "John Golden",
-  "medium": "leather",
-  "img": "https://images.metmuseum.org/CRDImages/ci/original/48.125.144a-b_CP4.jpg",
-  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/48.125.144a-b_CP4.jpg",
-  "url": "https://www.metmuseum.org/art/collection/search/158424",
-  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. James McF. Baker, 1948"
+  "id": 156270,
+  "title": "Fan",
+  "date": "second quarter 18th century",
+  "culture": "probably Scottish",
+  "artist": "",
+  "medium": "ivory, mother-of-pearl, parchment, gouache",
+  "img": "https://images.metmuseum.org/CRDImages/ci/original/62.184.54_front_CP4.jpg",
+  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/62.184.54_front_CP4.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/156270",
+  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Millicent V. Hearst, 1962"
  },
  "news": [
   {
-   "title": "The 16 Best Airbnbs in Palm Springs for Mid-Century Modern Devotees",
-   "url": "https://www.vogue.com/article/best-airbnbs-palm-springs",
-   "date": "2026-11-23T11:00:00+00:00",
-   "excerpt": "Need a desert getaway? Bookmark the 16 best Airbnbs in Palm Springs for a design-forward vacation complete with pools, palm trees, and plenty of sun.",
+   "title": "Stine Goya Pre-Fall 2027",
+   "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/stine-goya",
+   "date": "2026-11-24T05:16:32+00:00",
+   "excerpt": "",
    "source": "Vogue",
    "tags": [
     "Culture"
    ],
-   "id": "091a23c7f4"
+   "id": "244b264070"
   },
   {
-   "title": "The Best Items to Shop From Banana Republic’s Black Friday Sale",
-   "url": "https://www.vogue.com/article/black-friday-banana-republic-sale-11-23-2026",
-   "date": "2026-11-23T11:00:00+00:00",
-   "excerpt": "Shop the season’s top trends, at Banana Republic's Black Friday sale, including crispy white shirts, classic black wrap coats, and everyday knitwear, all for 40% off.",
-   "source": "Vogue",
+   "title": "Bath & Body Works’ CEO Daniel Heaf and Mindy Grossman on Driving Transformation",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/bath-body-works-ceo-daniel-heaf-mindy-grossman-1239427486/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "At Beauty Inc's Catalysts, CEO Daniel Heaf and retail veteran Mindy Grossman explored how transformation, culture change, product innovation and AI are reshaping Bath & Body Works.",
+   "source": "WWD",
+   "tags": [
+    "Business"
+   ],
+   "id": "e5b4c53d0d"
+  },
+  {
+   "title": "How Peter Rahal Broke the Protein Bar Binary",
+   "url": "https://wwd.com/beauty-industry-news/wellness/david-protein-peter-rahal-disruption-bar-founder-story-1239427513/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "The David Protein founder is bringing new consumers into the protein fold with his out-of-the-box approach — and plans to bring the same magic to other categories.",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "27fdaa0276"
+  },
+  {
+   "title": "Bala Unveils Its Obsessed Vest, Expanding Into Weighted Wearables Market",
+   "url": "https://wwd.com/beauty-industry-news/wellness/bala-obsessed-vest-expanding-weighted-wearables-market-1239463109/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "Fitness brand Bala, best known for its viral bangles, enters the weighted vest category with the launch of the Obsessed Vest.",
+   "source": "WWD",
    "tags": [
     "Trends"
    ],
-   "id": "0db37aba06"
+   "id": "0461369c51"
   },
   {
-   "title": "42 Bridal Clutches, Purses, and Handbags to Carry on Your Big Day",
-   "url": "https://www.vogue.com/slideshow/bridal-clutch-purse-handbag",
-   "date": "2026-11-23T11:00:00+00:00",
-   "excerpt": "Make sure every detail of your look feels special, including the bag you carry. Shop 42 of the best bridal clutches, purses, and handbags.",
-   "source": "Vogue",
+   "title": "Aerin Glazer on Tilt Beauty and the Need for Accessible Makeup Products",
+   "url": "https://wwd.com/beauty-industry-news/products/aerin-glazer-tilt-beauty-accessible-makeup-2026-catalysts-1239428651/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "The founder and CCO reflected on her own disability journey and the importance of accommodation.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "c0c1878851"
+   "id": "41f1ac6485"
   },
   {
-   "title": "Broke, exhausted, and rejected by chatbots: Inside the UK’s NEET crisis",
-   "url": "https://www.dazeddigital.com/life-culture/article/71400/1/inside-the-uk-neets-crisis-youth-unemployment-alan-milburn-report?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=broke-exhausted-and-rejected-by-chatbots-inside-the-uk-s-neet-crisis",
-   "date": "2026-11-23T11:00:00+00:00",
-   "excerpt": "Young people like me desperately want to work – there just aren’t enough jobs to go round, writes 23-year-old Kate Bevan",
-   "source": "Dazed",
+   "title": "Mikayla Nogueira’s Plan to Build a Beauty Brand for the Ages",
+   "url": "https://wwd.com/beauty-industry-news/color-cosmetics/mikayla-nogueira-tiktok-pov-skin-prep-brand-1239428104/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "The creator-entrepreneur and her POV Beauty cofounder Ani Hadjinian took the stage at the Beauty Inc Catalysts conference to talk brand-building and the power of community.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "8dabe29d22"
+   "id": "8b5b8822da"
   },
   {
-   "title": "AAFA study highlights textile-to-textile recycling potential in CAFTA-DR",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRZkQtcXRCQW9HSXQ1S2RBdjBCZnNRQmZQTG1tTUd3d05OM3B2SGdHTjg2VEszS1ktSFVUMXR4S2xEWTZVYW9MckphNG94TzV0aFRFSlN6blZ2YlJSZFJNSzRkdzNWUGhHR1BWblM5QkpsZw?oc=5",
-   "date": "2026-11-23T10:44:11+00:00",
-   "excerpt": "",
-   "source": "Just Style",
+   "title": "Using Green Sciences and Regenerative Practices in Beauty Innovation",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/green-sciences-regenerative-practices-beauty-innovation-1239428757/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "Agatha Relota Luczo of Furtuna Skin and Erin Zoller of L’Oréal discussed sustainability, regenerative farming and how green sciences lead to innovation with Pam Alabaster, adjunct professor at Columbia.",
+   "source": "WWD",
    "tags": [
     "Sustainability"
    ],
-   "id": "046d0c852a"
+   "id": "be3e94f404"
   },
   {
-   "title": "Nicole Farhi relaunches with ‘renewed creative vision’",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDR4UU9mOG5tVUh4VUwtMXpvRU5xTFM1b2x5VEZ0YVY1M2Zxc3dOTXBxOERVcjlqbzBzbFp2SjF0ZlllSTZ6VlVxbXhIdTBtVlhoMFVDVDRqMWw3VnlvenNYcnk4aUxqcGxyM0VpR0tQNENBdnJkcENvVUhVY3p6bnVnVzFyS2o4MnpwSWVB?oc=5",
-   "date": "2026-11-23T10:41:15+00:00",
-   "excerpt": "",
-   "source": "TheIndustry.fashion",
+   "title": "How TikTok Is Helping Shape the Strategy of Beauty Brands",
+   "url": "https://wwd.com/beauty-industry-news/products/tiktok-strategy-beauty-brands-1239429559/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "The social media platform impacts consumer reach, advertising and overall techniques.",
+   "source": "WWD",
+   "tags": [
+    "Trends"
+   ],
+   "id": "c698e52f80"
+  },
+  {
+   "title": "How Sephora Always Meets the Moment",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/sephora-beauty-retail-innovation-ceo-digital-1239428694/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "excerpt": "The prestige retailer is expanding its presence online and IRL at the speed of culture.",
+   "source": "WWD",
+   "tags": [
+    "Business"
+   ],
+   "id": "3b5335bda1"
+  },
+  {
+   "title": "Scaling With Purpose: Three Founders Discuss Legacy, Innovation and the Human Touch",
+   "url": "https://wwd.com/beauty-industry-news/beauty-features/dibs-beauty-amika-ellis-brooklyn-catalysts-2026-1239428793/",
+   "date": "2026-11-24T05:00:00+00:00",
+   "excerpt": "Jeff Lee of Dibs Beauty, Chelsea Riggs of Amika and Bee Shapiro of Ellis Brooklyn swapped insider secrets with industry veteran Robin Burns-McNeill at The Catalysts.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "800cf532ad"
+   "id": "6160cd3664"
   },
   {
-   "title": "Inside Gucci’s new Harrods boutique, an ode to Italian design",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVzVPYWctLWhaRTNtV19ZRzRJY3NRamFmeGM5b2toWUFQTmJBaFktQ1BtdDBOaVJteVNLM0tpSXNuQmh0S0xtZmNWcG1iS2hwSFluRDFrSHhMOEZob2x0RGh0TGpkUzFCX01mTU56dVExODlqMXZFYkx3?oc=5",
-   "date": "2026-11-23T10:07:07+00:00",
-   "excerpt": "",
-   "source": "Wallpaper*",
+   "title": "Decoding the New Longevity Boom",
+   "url": "https://wwd.com/beauty-industry-news/wellness/longevity-movement-beauty-catalysts-2026-1239428109/",
+   "date": "2026-11-24T05:00:00+00:00",
+   "excerpt": "Jill Villa, founder of GoldHaus Wellness, talked personalized treatment plans and peptide stacking at The Catalysts in New York.",
+   "source": "WWD",
    "tags": [
     "Culture"
    ],
-   "id": "feab39b5b0"
+   "id": "121d65d628"
   },
   {
-   "title": "Brioche armchairs, butter sculptures and edible chandeliers: meet the new food artists",
-   "url": "https://www.theguardian.com/food/2026/nov/23/brioche-armchairs-butter-sculptures-and-edible-chandeliers-meet-the-new-food-artists",
-   "date": "2026-11-23T10:00:52+00:00",
-   "excerpt": "Culinary artists are turning fashion shows and design fairs into a feast for the eyes A pretty Venetian chandelier featuring delicate pink flowers and cascading blue leaves hangs from a ceiling. A hazy, warm light radiates from…",
-   "source": "The Guardian",
-   "tags": [
-    "Culture"
-   ],
-   "id": "c438c6736b"
-  },
-  {
-   "title": "Aba Fashion Week partners Risevest, Hisa to promote creative business investment",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcElMbTN5S2x3MUpjZ21ZX1VodlJSc1B3LXNhVDdZMnRrV3N6ZXlhckJmcnNXb1RyeFVXTVNNNVBnSkE0VVBySzFuVm1kUGRaLVFsMXZaWUNKYk05YU1HX00wck9zR3BKRVgtTFNqaTl3dGZHa2FSZlNrNzBWTUtqV1hEYUxFTHBlaG8ycXFudmVOd2JfX2FpU0lpTlZydXhKMjRRbzlBM2Y?oc=5",
-   "date": "2026-11-23T09:25:57+00:00",
-   "excerpt": "",
-   "source": "The Guardian Nigeria News",
-   "tags": [
-    "Culture"
-   ],
-   "id": "ed54d2386f"
-  },
-  {
-   "title": "Vans’ Cozy Boots Are Genuinely UGG-cellent",
-   "url": "https://www.highsnobiety.com/p/vans-mid-slip-platform-light/",
-   "date": "2026-11-23T09:16:04+00:00",
-   "excerpt": "Vans' Mid Slip Platform Light shoes marries UGG-level coziness with the brand's slip-on boot design.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "4265139445"
-  },
-  {
-   "title": "adidas’ Steel-Toe Superstar Works Hard, Flexes Harder",
-   "url": "https://www.highsnobiety.com/p/nati-lopez-adidas-superstar-ii-shoes/",
-   "date": "2026-11-23T09:11:46+00:00",
-   "excerpt": "Nati Lopez treats her adidas Superstar II sneaker like a work boot, giving it \"steel toes\" & vintage-style leather.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "e881bc960a"
-  },
-  {
-   "title": "adidas' Iced-Out Samba Is Vice City-Coded",
-   "url": "https://www.highsnobiety.com/p/adidas-samba-miami/",
-   "date": "2026-11-23T09:09:50+00:00",
-   "excerpt": "The adidas Samba transforms into a tonal ice blue \"Miami\" sneaker. It's GTA VI-ready, to say the least.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "31c6843b0f"
-  },
-  {
-   "title": "adidas’ Handball Loafer Matured into a Wonderfully Elderly Moc",
-   "url": "https://www.highsnobiety.com/p/adidas-handball-loafer-freizeit/",
-   "date": "2026-11-23T09:07:21+00:00",
-   "excerpt": "adidas releases a Handball Loafer Freizeit model featuring an updated moccasin-style design. Here's everything on the debut.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Designers"
-   ],
-   "id": "3cf411562d"
-  },
-  {
-   "title": "A Weird '00s Nike Runner Returns as a Proper Sneaker-Heel",
-   "url": "https://www.highsnobiety.com/p/nike-ovolo-2-black/",
-   "date": "2026-11-23T08:50:42+00:00",
-   "excerpt": "Nike's Ovolo 2.0 is the world's latest sneaker-heel based on the brand's archival running shoe. Here's everything on the sleek debut.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Designers"
-   ],
-   "id": "5099bd897e"
-  },
-  {
-   "title": "Why On gave running shops first dibs on the Cloudsurfer 3",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YVE9XeXo3NG95MnltSDNGem1sZFlTWU44b1JhUEZzQkZ1ZUhoMVJsaDJsMXZmTFhjc2g2LS1aeUVaVGVNQWt0T2Q1aHFtcFhOYUxOZV9DQXhVTjBtMDRaMVZnY2lKLXNIaEtmbVdaS2dzQTBySElhSDV4QnU?oc=5",
-   "date": "2026-11-23T08:48:45+00:00",
-   "excerpt": "",
+   "title": "Beauty Briefing: What to expect this Black Friday and Cyber Monday",
+   "url": "https://www.glossy.co/beauty/beauty-briefing-what-to-expect-this-black-friday-and-cyber-monday/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-24T05:00:00+00:00",
+   "excerpt": "This week, I checked in on early Black Friday and Cyber Monday predictions as Americans brace for a potentially chaotic travel week. Additionally, niche fragrance retailer Luckyscent hires a new CEO, and Touchland turns a viral…",
    "source": "Glossy",
    "tags": [
-    "Culture"
+    "Business",
+    "Trends"
    ],
-   "id": "a6cc650bdf"
+   "id": "6b5c857f2f"
   },
   {
-   "title": "EXCLUSIVE: Miu Miu Taps Becky Armstrong as Latest Brand Ambassador",
-   "url": "https://wwd.com/fashion-news/fashion-scoops/miu-miu-becky-armstrong-brand-ambassador-exclusive-1239429246/",
-   "date": "2026-11-23T08:01:00+00:00",
-   "excerpt": "Miu Miu said Armstrong’s “distinctive presence and evolving creative expression” reflect the spirit of the brand founded by Miuccia Prada.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "f644d65062"
-  },
-  {
-   "title": "Chinese parcel imports surge to £5.3bn as Shein and Temu boom in UK",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLVctcDlRb0dMVlJ1UkJhY2JpSFBSdVpKZ2lvZmxmLWV2ZGt6dWZ5RHQySjM0N2R5WHZ0dENOa3N6RXc5WElweWwtcjJTcF9lYUwxZ1J0MmhYTFVNaUgwVkp5d3drQmtaY0F3S2E0Q2pTZ01PTmtUTXFTcnV3THJOOU5XMktrcFpobmg1ZFhlVHJDWmJQamo5MV92TjgySmd3V1U0Q2RTQVhfYTJ3cnZPWkt3?oc=5",
-   "date": "2026-11-23T07:20:17+00:00",
-   "excerpt": "",
-   "source": "Retail Gazette",
-   "tags": [
-    "Trade"
-   ],
-   "id": "d8874e8236"
-  },
-  {
-   "title": "Pisces Daily Horoscope",
-   "url": "https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/",
-   "date": "2026-11-23T07:00:18+00:00",
-   "excerpt": "(February 19 - March 20)",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "4e51e484b2"
-  },
-  {
-   "title": "EXCLUSIVE: Louis Vuitton to Launch Experiential Flagship at Hong Kong’s K11 Musea",
-   "url": "https://wwd.com/business-news/retail/exclusive-louis-vuitton-visionary-journeys-hong-kongs-k11-musea-teaser-1239420015/",
-   "date": "2026-11-23T07:00:00+00:00",
-   "excerpt": "After Bangkok, Seoul and Shanghai, the \"Visionary Journeys\" format is set to arrive on Victoria Harbour on Dec. 12 with an 11-room exhibition, an exclusive capsule collection, a café and a chocolate shop.",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "0054da886a"
-  },
-  {
-   "title": "Sheroanawe Hakihiiwe’s Tender Record of a Vanishing Amazon",
-   "url": "https://www.vogue.com/article/sheroanawe-hakihiiwe-ica-miami",
-   "date": "2026-11-23T06:56:22+00:00",
-   "excerpt": "On view through March 28, 2027, “Sheroanawe Hakihiiwe” at ICA Miami brings together more than 100 works, from his earliest experiments on handmade paper in the 1990s to breathtaking installations and a newly commissioned film…",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "8babba9b9d"
-  },
-  {
-   "title": "CEO TALKS: Galeries Lafayette’s Arthur Lemoine on Luxury, Loyalty and That Christmas Tree",
-   "url": "https://wwd.com/business-news/retail/ceo-arthur-lemoine-galeries-lafayette-luxury-loyalty-christmas-tree-1239429667/",
-   "date": "2026-11-23T06:00:00+00:00",
-   "excerpt": "Having succeeded his cousin Nicolas Houzé at the helm of the family-owned retailer, the CEO is navigating geopolitical uncertainty and changing consumer habits while betting on exclusivity and human connection.",
-   "source": "WWD",
-   "tags": [
-    "Business"
-   ],
-   "id": "41bb3c6d3b"
-  },
-  {
-   "title": "Four Shifts Reshaping Fashion and What They Mean for the US Cotton Industry",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVlfNDZwTEtNMWxVTU9YbWxGWDcwVmtGSTh0RTl6S2ozMlRHNUhlNnZ5amZSdmg4QXhxNnQtMUZ6NTNDQ18yamlnOEFKVHRpU0hwZVAtbU10MENBSzZaRW1RY0l3ejhyM21Bc3V3Y3dyR3JtY2IxcGw3VDVZUC1kLUg5WlBkSTd3VUJGdmJSaTJ6b3BSb0RzYV94aVZJTmJQcWN2WGNLcUdQb2M?oc=5",
-   "date": "2026-11-23T06:00:00+00:00",
-   "excerpt": "",
-   "source": "The Business of Fashion",
-   "tags": [
-    "Culture"
-   ],
-   "id": "e770371bf8"
-  },
-  {
-   "title": "Western Brands Need a New China Playbook",
-   "url": "https://www.vogue.com/article/western-brands-need-a-new-china-playbook",
-   "date": "2026-11-23T05:30:00+00:00",
-   "excerpt": "After an almost three-year slump, China’s luxury market is showing signs of recovery. Western brands need to act quickly by rationalizing distribution, localizing output, and planning for the future to increase relevance.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "720967db76"
-  },
-  {
-   "title": "Who Will Win the Chinese Sportswear Race?",
-   "url": "https://www.vogue.com/article/who-will-win-the-chinese-sportswear-race",
-   "date": "2026-11-23T05:30:00+00:00",
-   "excerpt": "China’s sportswear market is building speed. Can domestic brands overtake their Western counterparts?",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "929616eb1d"
-  },
-  {
-   "title": "The New Rules for Selling Beauty in China",
-   "url": "https://www.vogue.com/article/the-new-rules-for-selling-beauty-in-china",
-   "date": "2026-11-23T05:30:00+00:00",
-   "excerpt": "Coinciding with changing perceptions of ‘Made in China’, the country’s beauty landscape is shifting from a period of general expansion to one that is hyper-selective and value-driven, with clear winners and losers.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "23a819bccb"
-  },
-  {
-   "title": "China’s Luxury Problem Is Bigger Than the Economy",
-   "url": "https://www.vogue.com/article/chinas-luxury-problem-is-bigger-than-the-economy",
-   "date": "2026-11-23T05:30:00+00:00",
-   "excerpt": "From changing attitudes toward exclusivity to the rise of domestic competitors, Chinese consumers are questioning what makes luxury worth paying for — and who gets to decide.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "da70c4d5c4"
-  },
-  {
-   "title": "Ferragamo USA Acquires Direct Control of Puerto Rico Retail Operations",
-   "url": "https://wwd.com/fashion-news/fashion-scoops/ferragamo-usa-direct-control-puerto-rico-retail-operations-1239461471/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "The luxury house established its presence in that market in 2009.",
-   "source": "WWD",
-   "tags": [
-    "Business"
-   ],
-   "id": "985c586ea6"
-  },
-  {
-   "title": "Luxury Pajama-Maker Derek Rose Steps Out of the Bedroom, and Onto the Street, With a New Collection",
-   "url": "https://wwd.com/menswear-news/mens-lifestyle/luxury-pajama-maker-derek-rose-new-collection-menswear-soft-1239429258/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "Derek Rose, which is marking 100 years in business, is broadening its reach with a new ready-to-wear collection for men that joins its luxury pajamas.",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "9e31d61459"
-  },
-  {
-   "title": "Nicole Farhi Brand Returns as a DTC Player",
-   "url": "https://wwd.com/menswear-news/mens-fashion/nicole-farhi-relaunch-maxine-hargreaves-adams-1239427236/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "Owner Maxine Hargreaves Adams has tapped Richard Biedul as co-creative director and her daughter April Adams as chief operating officer.",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "5715c812e5"
-  },
-  {
-   "title": "Bloomingdale’s Unveils the Art of Ralph Lauren for Its Holiday Windows",
-   "url": "https://wwd.com/business-news/retail/bloomingdales-ralph-lauren-holiday-windows-kevin-harter-1239425790/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "The retailer and the brand partnered to transform the flagship and its windows into \"a real piece of art.\"",
-   "source": "WWD",
-   "tags": [
-    "Business"
-   ],
-   "id": "11939806a1"
-  },
-  {
-   "title": "EXCLUSIVE: Maison Francis Kurkdjian Opens First West Coast Boutique at South Coast Plaza",
-   "url": "https://wwd.com/beauty-industry-news/fragrance/maison-francis-kurkdjian-south-coast-plaza-boutique-1239440286/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "The luxury fragrance house is expanding its U.S. retail footprint with a new California location and plans for a fifth boutique in Dallas.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "35ab4e53e6"
-  },
-  {
-   "title": "Jensen Huang’s Penchant for Leather Jackets Riles Men’s Designers",
-   "url": "https://wwd.com/menswear-news/mens-fashion/jensen-huang-leather-jacket-joseph-abboud-kidsuper-jack-carlson-1239425231/",
-   "date": "2026-11-23T05:01:00+00:00",
-   "excerpt": "His affairs may have resulted in him being banished from chip giant Nvidia but menswear designers also take issue with his style — those leather jackets show a lack of fashion sophistication, no matter how expensive they may be.",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "155803cfe4"
-  },
-  {
-   "title": "As gifting to creators gains traction, brands worry about ROI and expectations",
-   "url": "https://www.glossy.co/fashion/as-gifting-to-creators-gains-traction-brands-worry-about-roi-and-expectations/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
-   "date": "2026-11-23T05:00:00+00:00",
-   "excerpt": "Sending gifts to influencers and content creators is a great way to build buzz around a brand and generate organic social media coverage. But content creators have ever-rising standards for what kinds of gifts will make them want…",
+   "title": "How Dibs Beauty uses heat maps to optimize its Ulta Beauty presence",
+   "url": "https://www.glossy.co/beauty/how-dibs-beauty-uses-heat-maps-to-optimize-its-ulta-beauty-presence/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-24T05:00:00+00:00",
+   "excerpt": "Selling exclusively through Ulta Beauty and direct-to-consumer, Dibs Beauty has set up heat maps that track individual product sales based on where they sit on its in-store endcaps, as well as overall retail sales by U.S. region…",
    "source": "Glossy",
    "tags": [
-    "Culture"
-   ],
-   "id": "ce0ea976ea"
-  },
-  {
-   "title": "Farewell tofashion designer Raffaella Curiel - FashionNetwork",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXFZakZtaUhSWHY1R0N2RktYUy1DSlk3SjNEbmY5dGdQSFp6bVNwQVhreko0aHRDQUQ2dW9iR1AzWTB2NVBKODNyaVY3MW1SLXdDZ2xSUG1oUkNNZTA5bmlBaFk1LWdsU0lqX205NDBNbFJnUXRUandpMmVxblJadmx5NTNCMFI0c29xMFdLNEcxaTBaMzBn?oc=5",
-   "date": "2026-11-23T01:59:14+00:00",
-   "excerpt": "",
-   "source": "FashionNetwork - The World's Fashion Business News",
-   "tags": [
-    "Designers"
-   ],
-   "id": "965e63e0a1"
-  },
-  {
-   "title": "Miley Cyrus Ties the Knot in Classically Elegant Saint Laurent Gown and Matching Silk Pumps",
-   "url": "https://wwd.com/pop-culture/celebrity-news/miley-cyrus-marries-saint-laurent-gown-silk-pumps-1239461853/",
-   "date": "2026-11-22T23:34:04+00:00",
-   "excerpt": "The singer married Maxx Morando, her boyfriend of five years, in an intimate Palms Spring ceremony this Saturday.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "2d7b7ca484"
-  },
-  {
-   "title": "When the Days of Being Wild Come to an End",
-   "url": "https://www.vogue.com/article/when-the-days-of-being-wild-come-to-an-end",
-   "date": "2026-11-22T23:23:03+00:00",
-   "excerpt": "I used to romanticize being a bit of a disaster. Now, I have become a man who just...likes things to be nice.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "16240e1503"
-  },
-  {
-   "title": "Gigi Hadid Takes a Cozy Winter Walk in a Structured Topcoat and Slouchy Boots",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74501892/gigi-hadid-cozy-winter-look-guest-in-residence-reversible-beanie-photos/",
-   "date": "2026-11-22T23:21:16+00:00",
-   "excerpt": "Plus, a reversible beanie",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "1162a95a8f"
-  },
-  {
-   "title": "Houston Through a Fashion and Art Lens",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWpqTE1pb2xlaHpVRzJBRWRTR1BBZzNEUmdiREV5NGJjYm1fU0M2cm0xTDRSZVJZRGwwdFd6bnVUSm5KcDRSTXI1UTVzOUdEZXlQakdZTWp5MldWOWpuWXZFZ3R6ZWZuSHhPeDVlMlQ1MDRyTUx4cmpkVGR2TmN1Wmkxemh6WUtLQ0s3RTQ2Zzd5NTJ5UDFvanV1QjRNSDAxSFJNQkhsSUo5QQ?oc=5",
-   "date": "2026-11-22T23:19:28+00:00",
-   "excerpt": "",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "f63f61197b"
-  },
-  {
-   "title": "Thom Browne and Teyana Taylor: Designer and Muse",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6b2E2YjZJTEEzQkJMNU4xOEljRFF5SmdjQmF1NW5yRWlGeDg3RGEwamw3YXdJSFViemtNUFRFMUt4Ri0tR0JldGFCUWZvLTkxZUpZNjhFby1kcW1DdDJmaTBOY3IxVExJeWhnNGRsczdDaExrbWdXNFh3?oc=5",
-   "date": "2026-11-22T23:04:56+00:00",
-   "excerpt": "",
-   "source": "WWD",
-   "tags": [
-    "Designers"
-   ],
-   "id": "d8a6d6b6b7"
-  },
-  {
-   "title": "Kim Kardashian and Lewis Hamilton’s Full Relationship Timeline",
-   "url": "https://www.elle.com/culture/celebrities/a70234459/kim-kardashian-lewis-hamilton-relationship-timeline/",
-   "date": "2026-11-22T22:14:00+00:00",
-   "excerpt": "The two stars were friends long before any romance reports surfaced.",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "914a622620"
-  },
-  {
-   "title": "Princess Kate Opens Up About Her Cancer Journey in a New Documentary",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74501335/princess-kate-middleton-heal-documentary-cancer-journey-trailer/",
-   "date": "2026-11-22T20:57:26+00:00",
-   "excerpt": "”There’s a much, much deeper part to what a cancer diagnosis shifts in you,” she reflected on camera",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "7a2eb3a7e3"
-  },
-  {
-   "title": "Gabbriette Bechtel and Matty Healy Are Expecting Their First Baby",
-   "url": "https://www.vogue.com/article/gabbriette-bechtel-and-matty-healy-are-expecting-their-first-baby",
-   "date": "2026-11-22T19:57:01+00:00",
-   "excerpt": "First romantically linked in September 2023, Gabbriette and Matty married in July of this year at a Hollywood Hills estate.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "a446eeda3a"
-  },
-  {
-   "title": "When It Comes to Bags, Harry Styles Is Pro-Schlepping",
-   "url": "https://www.vogue.com/article/harry-styles-pro-schlep-big-bag-chanel-2026-11-22",
-   "date": "2026-11-22T19:21:12+00:00",
-   "excerpt": "Harry Styles loves a big, honking bag—and bonus points if it’s a luxurious Chanel flap. What could he be carrying around in that capacious flap bag?",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "164c4b1e55"
-  },
-  {
-   "title": "Taylor Swift Is at Travis Kelce’s Chiefs-Cardinals Game—and Made It a Family Affair",
-   "url": "https://www.elle.com/culture/celebrities/a74498529/taylor-swift-photos-travis-kelce-chiefs-cardinals-game-2026/",
-   "date": "2026-11-22T19:05:17+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "13801bda0c"
-  },
-  {
-   "title": "Miley Cyrus Turns to Saint Laurent’s Anthony Vaccarello for a Backless Wedding Dress",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74501530/miley-cyrus-saint-laurent-wedding-dress-details/",
-   "date": "2026-11-22T19:02:11+00:00",
-   "excerpt": "The star married Maxx Morando in Palm Springs",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "598d808e6d"
-  },
-  {
-   "title": "Everything We Know About Miley Cyrus and Maxx Morando’s Wedding",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74500779/miley-cyrus-maxx-morando-married-wedding-details/",
-   "date": "2026-11-22T17:58:00+00:00",
-   "excerpt": "The couple is officially wed!",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "4d3531038e"
-  },
-  {
-   "title": "Miley Cyrus Shares a First Look at Her Backless Wedding Dress",
-   "url": "https://www.elle.com/culture/celebrities/a74492478/miley-cyrus-maxx-morando-wedding-dress-photos/",
-   "date": "2026-11-22T17:52:35+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
     "Business"
    ],
-   "id": "262058e269"
+   "id": "d5bcb4c2a7"
   },
   {
-   "title": "The Best Dressed Stars of the Week Leaned Into Extra Opulence",
-   "url": "https://www.vogue.com/slideshow/10-best-dressed-stars-taylor-swift-jennifer-lawrence-olivia-dean",
-   "date": "2026-11-22T17:00:55+00:00",
-   "excerpt": "From voluminous silhouettes to feathers, it was not a week for subtlety on the red carpets.",
+   "title": "Bangladesh: textile unions consider manufacturers’ proposed pay rise to be insufficient",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHJHZTlmX2tHUVJkSzQ5SDVZMTRWYzhMUEE4cU81RUJ2YlJDbmh3NTc5QjcwRmJlMVdUZW02MDNqWGRDeXotanIwTkY5cm1UR1lOWkFhMlc5Rmp4V0NSSnQ3WnBic0V5cFN4S2laNVF5eHp2ejE3VmxxLWNQWVAwa0VnaW1GWElSWVRXbks0eUdfREI5OVFkRWIyTy1rSHZ1NHhMNUtYWTNfTjlVaGVoVjViV0o0bFhtMWQyeFEwYTZaUktDZUNBak1lUTY4dw?oc=5",
+   "date": "2026-11-24T02:33:18+00:00",
+   "excerpt": "",
+   "source": "FashionNetwork France",
+   "tags": [
+    "Culture"
+   ],
+   "id": "d26ae65a1e"
+  },
+  {
+   "title": "The Best Boots Under $500—From Everyday Classics to Seasonal Statements",
+   "url": "https://www.vogue.com/article/best-boots-under-500",
+   "date": "2026-11-24T02:23:51+00:00",
+   "excerpt": "Shop the best boots under $500, whether you want a versatile ankle boot, a chic knee-high, or a grippy, weather-proof style.",
    "source": "Vogue",
    "tags": [
     "Culture"
    ],
-   "id": "e34b314875"
+   "id": "5a693af1f6"
   },
   {
-   "title": "Will There Be Another Hunger Games Movie—and Which Character Will It Be About?",
-   "url": "https://www.elle.com/culture/movies-tv/a74412945/the-hunger-games-next-movie-prequel-theories/",
-   "date": "2026-11-22T17:00:00+00:00",
-   "excerpt": "Fans already have ideas.",
+   "title": "Everything to Know About Ariana Grande’s Upcoming Eternal Sunshine Tour Film",
+   "url": "https://www.elle.com/culture/music/a74510689/ariana-grande-eternal-sunshine-tour-film-everything-to-know/",
+   "date": "2026-11-24T00:38:42+00:00",
+   "excerpt": "",
    "source": "Elle",
    "tags": [
     "Culture"
    ],
-   "id": "473a12e3ac"
+   "id": "2bdfe89f11"
   },
   {
-   "title": "Paolo Bulgari, Architect of Jeweller’s Rise to Global Luxury Brand, Dies at 89",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XTWdOMW5Ra054VkdUV1l5MFdSWGJaSDNCLXE3QWxHSEh2U3o2akhON0lxVTlzV092WThSX1M1X19fX0N6emp0c0Zxc01yZ1RVdTF1d2RJcmtLeXo0UTRZQWNhOVA1dTdxRnB3RHVtNk5vOXFO?oc=5",
-   "date": "2026-11-22T16:35:50+00:00",
-   "excerpt": "",
-   "source": "The Business of Fashion",
+   "title": "The Loafer-fication of adidas’ Techy Dad Sneaker",
+   "url": "https://www.highsnobiety.com/p/adidas-formation-f50-loafer-brown/",
+   "date": "2026-11-23T23:49:32+00:00",
+   "excerpt": "adidas' Formotion F50 becomes a suede sneaker-loafer that mixes business with performance tech. Here's everything on the new dressy model.",
+   "source": "Highsnobiety",
    "tags": [
     "Culture"
    ],
-   "id": "08fad42bf6"
+   "id": "304304bdef"
   },
   {
-   "title": "Hailey Bieber’s 30 Best Looks in Honor of Her 30th Birthday",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/g74500941/hailey-bieber-best-looks-30th-birthday/",
-   "date": "2026-11-22T16:35:26+00:00",
-   "excerpt": "From polka dots and fur to red-carpet statements",
-   "source": "Harper's Bazaar",
+   "title": "Playa Society’s *Other* Nike Hoops Sneaker Is Even Sweeter",
+   "url": "https://www.highsnobiety.com/p/playa-society-nike-atwo-dark-russet/",
+   "date": "2026-11-23T23:47:56+00:00",
+   "excerpt": "Playa Society's Nike A'Two sneaker collab appears in a chocolate-brown colorway dubbed \"Dark Russet.\" Here's everything on the sweet release.",
+   "source": "Highsnobiety",
    "tags": [
     "Culture"
    ],
-   "id": "ca5f6b0685"
+   "id": "6dfcff9760"
   },
   {
-   "title": "Miss Grand International winner Jihan Dimack visits Lagos",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmlqOTVGXzIzY0ZDZHYtbFNmRGJhM1A2V2hRMlZpN0Fhb1lTem1qb0JpTUhnRFI1VTM2dkFxOU1mMnczTE5pVHNSUm1GRWNVS2ZRdVVqMF9sZXU5NWFIVTUwWGRQUFlYX2pfZl9PdFhCbGt3RVlqNkNlNzJqeUdmVHJqdkpsbEg3cWNwNEt2WWJfd2czdVFDUjdLaEpWVGVvMUQwQS1paWgxQkkxRV9JTUxEclFWRlU3aHVhN0hlRlpIcERnd1ow?oc=5",
-   "date": "2026-11-22T16:16:38+00:00",
-   "excerpt": "",
-   "source": "Premium Times Nigeria",
+   "title": "Nike’s Slim Suede Sneaker Proves It's the Sibling With Good Taste",
+   "url": "https://www.highsnobiety.com/p/nike-sprint-sister-flax/",
+   "date": "2026-11-23T23:46:15+00:00",
+   "excerpt": "Nike's Spring Sister sneaker continues its tasteful run with a smooth suede \"Flax\" release.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "90a7ef70a8"
+  },
+  {
+   "title": "New Balance’s Remastered 990 Dad Shoe Joins the Dark Side",
+   "url": "https://www.highsnobiety.com/p/new-balance-990v7-black/",
+   "date": "2026-11-23T23:43:12+00:00",
+   "excerpt": "The New Balance 990v7 run continues with the release of an all-black colorway. Here's everything on the newest drop.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ef09a4edcf"
+  },
+  {
+   "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
+   "url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
+   "date": "2026-11-23T23:38:54+00:00",
+   "excerpt": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "97a1e4a9ae"
+  },
+  {
+   "title": "We Tried Dolce Vita’s Fall Shoes to Find the Pairs Worth Wearing",
+   "url": "https://www.elle.com/fashion/shopping/a74509988/elle-editors-dolce-vita-shoes-review/",
+   "date": "2026-11-23T22:51:39+00:00",
+   "excerpt": "From morning commutes to evening plans, we wanted to see if these shoes keep up.",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "c07412a62e"
+  },
+  {
+   "title": "All the Best Shoes Look Like Your Grandma’s Couch",
+   "url": "https://www.highsnobiety.com/p/clarks-kith-grandma-shoes/",
+   "date": "2026-11-23T22:37:03+00:00",
+   "excerpt": "Kith and Proleta Re Art's artisanal spin on Clarks fits a trend at ASICS, Vans, and Dr. Martens towards textural footwear that looks made from an old couch.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Trends"
+   ],
+   "id": "6c3e17ac90"
+  },
+  {
+   "title": "Danielle Adewusi Honours Benin Kingdom Royalty in a Self-Designed National Costume at Miss Universe 2026",
+   "url": "https://www.bellanaija.com/2026/11/danielle-adewusi-miss-universe-2026-national-costume/",
+   "date": "2026-11-23T22:27:45+00:00",
+   "excerpt": "Ahead of the Miss Universe 2026 finale in Puerto Rico, Nigeria’s Danielle Adewusi presents Daughter of the Coral Throne, celebrating Edo culture and her 35-year family pageant legacy. The post Danielle Adewusi Honours Benin…",
+   "source": "BellaNaija",
    "tags": [
     "Africa"
    ],
-   "id": "b25e65730a"
+   "id": "8a9ad2dab5"
   },
   {
-   "title": "All About Maxx Morando, Miley Cyrus’s Husband",
-   "url": "https://www.elle.com/culture/celebrities/a38701583/miley-cyrus-new-boyfriend-maxx-morando/",
-   "date": "2026-11-22T15:56:00+00:00",
-   "excerpt": "",
-   "source": "Elle",
+   "title": "The Stars Brought Their Sleek Motorsport Style to the 2026 Formula One Las Vegas Grand Prix",
+   "url": "https://www.harpersbazaar.com/celebrity/latest/a74511288/every-celebrity-look-formula-one-las-vegas-grand-prix-2026/",
+   "date": "2026-11-23T22:21:19+00:00",
+   "excerpt": "Including Lisa, Kim Kardashian, and Venus Williams",
+   "source": "Harper's Bazaar",
    "tags": [
     "Culture"
    ],
-   "id": "a8e8645196"
+   "id": "0c346e9a53"
   },
   {
-   "title": "All the Celebrity Guests at Miley Cyrus and Maxx Morando’s Wedding",
-   "url": "https://www.elle.com/culture/celebrities/a74500784/miley-cyrus-maxx-morandos-wedding-celebrity-guests/",
-   "date": "2026-11-22T15:45:48+00:00",
-   "excerpt": "",
-   "source": "Elle",
+   "title": "Louisa Jacobson’s Stylist on 10 Things That Inspire Her Red Carpet Looks",
+   "url": "https://www.harpersbazaar.com/fashion/a74493479/louisa-jacobson-stylist-inspiration-red-carpet/",
+   "date": "2026-11-23T22:17:12+00:00",
+   "excerpt": "She’s been on a winning style streak—here’s a glimpse at the conversations behind the ensembles",
+   "source": "Harper's Bazaar",
    "tags": [
     "Culture"
    ],
-   "id": "4198e03e6d"
+   "id": "08d147cdae"
   },
   {
-   "title": "2027: Textile workers task politicians, parties over industrial decay",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMllXRHU5elUxUWMzS1NxSFgtSE5aZ212S0xWejhvX3JTMFo5d25WOEUzY0dSWDA2QjFfOE9jQzdmb3VQU2pMS0pYNzFqbnlUZWxUQnMxTmR5bF9DRXo3WWlwbDFXMElfS19KRC1jNkNhd1dRTmlmOGlmOE5pWHo4amJzMlV5WEt6MFBFTXRqdWRYOWtTVlBQaw?oc=5",
-   "date": "2026-11-22T13:33:01+00:00",
-   "excerpt": "",
-   "source": "The Guardian Nigeria News",
-   "tags": [
-    "Culture"
-   ],
-   "id": "4dcf4aecff"
-  },
-  {
-   "title": "Flashback to 1965: Truman Capote and the Seaside Studio He Designed for Work",
-   "url": "https://www.vogue.com/slideshow/flashback-to-1965-truman-capote-and-the-country-studio-he-designed-for-work",
-   "date": "2026-11-22T13:00:00+00:00",
-   "excerpt": "Some of Truman Capote’s soon-to-be-auctioned possessions were photographed by Vogue in the author’s home in Sagaponack, Long Island.",
+   "title": "Experts on How to Brighten Under Eyes",
+   "url": "https://www.vogue.com/article/how-to-brighten-lift-under-eyes",
+   "date": "2026-11-23T22:13:18+00:00",
+   "excerpt": "From five-minute makeup tricks to subtle ‘tweakments,’ here’s what the pros recommend for looking more awake.",
    "source": "Vogue",
    "tags": [
     "Culture"
    ],
-   "id": "d7b834aecd"
+   "id": "cc31e785df"
   },
   {
-   "title": "Black Friday Is a Big Deal for Luxury, Just Don’t Call It Black Friday",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSnhqRUpZemU0ZU9HOUxUd2ViM3U0YzVPYWd1WjhuaFAzRGViRUNncTdlQjFQY2t5RUZ1MWJoVnJfa2E3dm1uc1F6UG1ZOHZ2OVIxamI1NVB6WE9XT2QweloxbGNvZm9icjllVDkwRlV5dzd2QW9rcms3dkx4NDRlal8zenVzRFZib0ZHVUFSaF9nVkY5S3Y1ejluRlFkVGlsSjl1UFNPTGdaQnh5QW0xem9mUTVsVWt0azdocw?oc=5",
-   "date": "2026-11-22T13:00:00+00:00",
-   "excerpt": "",
-   "source": "The Business of Fashion",
+   "title": "Anthony Boyle and Julia Garner Reunited at the Paris Theater as The Altruists Hits Netflix",
+   "url": "https://www.vogue.com/slideshow/anthony-boyle-julia-garner-the-paris-theatre-the-altruists-netflix",
+   "date": "2026-11-23T22:09:40+00:00",
+   "excerpt": "“The first rule of acting is that you don’t judge your character,” Julia Garner told an enthralled audience on Thursday evening at Manhattan’s Paris Theater, moments after the credits rolled following the world premiere of The…",
+   "source": "Vogue",
    "tags": [
     "Culture"
    ],
-   "id": "9535f4b5bf"
+   "id": "d0928f98ba"
   },
   {
-   "title": "The Wedding Countdown Is On! Diana Eneje & Pascal Godwin Celebrate Their Introduction in Royal Blue",
-   "url": "https://www.bellanaija.com/2026/11/diana-eneje-pascal-godwin-introduction-ceremony-royal-blue/",
-   "date": "2026-11-22T12:42:06+00:00",
-   "excerpt": "Ahead of their traditional wedding, Diana Eneje and Pascal Godwin celebrate their Nigerian introduction ceremony in coordinated royal blue outfits by Dova Bridals and Rogue, styled by Emmanuel Goodnews Icon. The post The Wedding…",
+   "title": "Justin Jefferson’s Latest Tunnel-Walk Fit Is an Homage to Mexican Fashion",
+   "url": "https://www.vogue.com/slideshow/justin-jefferson-patricio-campillo-game-day-outfit",
+   "date": "2026-11-23T22:05:16+00:00",
+   "excerpt": "The Minnesota Vikings wide receiver tapped Patricio Campillo for his latest game-day look.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "d4a4ee3594"
+  },
+  {
+   "title": "Van Cleef & Arpels Explores the Secrets and Mysteries of Ancient Egypt",
+   "url": "https://www.harpersbazaar.com/fashion/a74326400/van-cleef-arpels-fascinating-egypt/",
+   "date": "2026-11-23T21:59:57+00:00",
+   "excerpt": "The maison’s latest high jewelry collection taps into the mystique of the Valley of the Kings",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Africa",
+    "Designers"
+   ],
+   "id": "5c2d39927f"
+  },
+  {
+   "title": "The Biggest Spring 2027 Trends Celebrate Glamour and Individual Style",
+   "url": "https://www.harpersbazaar.com/fashion/trends/a74425877/spring-2027-fashion-trends/",
+   "date": "2026-11-23T21:53:06+00:00",
+   "excerpt": "Get ready to wear tuxedo pants to brunch and sport a boa for the office",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Trends"
+   ],
+   "id": "8e3d179d73"
+  },
+  {
+   "title": "74 Thoughts I Had While Watching Clashing ‘Through the Snow’",
+   "url": "https://www.vogue.com/article/74-thoughts-i-had-while-watching-clashing-through-the-snow",
+   "date": "2026-11-23T21:50:21+00:00",
+   "excerpt": "Briney and Vespa are those coworkers who think they’re Jim and Pam, but they’re actualy the subject of many hateful office group chats.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "6ef388d45f"
+  },
+  {
+   "title": "What Wage Unrest Has Cost Bangladesh’s Garment Industry",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORF93ZmVqdFdzZlFtMnhLdlF4X1FaLW40OHZNSzhwVEYzb0V2cGhIMlNOamNmbFNEMmV5MGtpcmFkUDdnaVo5dGJpZWQ0NG9EaHFnTExxMFctTkVoR3FhYlZVWW1ZMVBxQnBYb0tiRDV2d2R5LURocUdjSm5raVRsRFBHWXNLcloxWUdVQ1M5aE9NWGVjS0V2bXhJMkczSTFEbldDanhYWQ?oc=5",
+   "date": "2026-11-23T21:41:03+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "5b6f96fa10"
+  },
+  {
+   "title": "The Best Black Friday Sales to Shop Right Now",
+   "url": "https://www.harpersbazaar.com/fashion/trends/a74443888/best-black-friday-sales-deals-2026/",
+   "date": "2026-11-23T21:32:37+00:00",
+   "excerpt": "A one-stop shop for the best fashion and beauty sales on the web",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Business"
+   ],
+   "id": "b07d39633e"
+  },
+  {
+   "title": "10+ Winter Looks to Re-create From Fashion’s Beloved Style Icons",
+   "url": "https://www.vogue.com/article/style-icons-winter-outfit-ideas",
+   "date": "2026-11-23T21:31:56+00:00",
+   "excerpt": "From Lee Radziwill to Carolyn Bessette-Kennedy and Audrey Hepburn, 5+ winter outfit ideas to steal from fashion’s favorite muses.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "04c3d23a75"
+  },
+  {
+   "title": "Rihanna and A$AP Rocky Are in Physical and Sartorial Lockstep",
+   "url": "https://www.vogue.com/article/rihanna-asap-rocky-outfit-formula-2026-11-23",
+   "date": "2026-11-23T21:29:14+00:00",
+   "excerpt": "Today in Beverly Hills, Rihanna and A$AP Rocky showed us that time apart didn’t keep them from dressing in sync.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ad4f2d63e0"
+  },
+  {
+   "title": "The Menswear Store That Only Wants to Sell You a Good Time",
+   "url": "https://www.highsnobiety.com/p/million-goods-store-interview/",
+   "date": "2026-11-23T21:20:37+00:00",
+   "excerpt": "Million Goods' new store in Fort Greene is the epitome of a tasteful menswear retail experience, down to the fact that it's vibes before clothes.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8e3efc3ac3"
+  },
+  {
+   "title": "Inside the Season’s Best Friendsgiving Parties",
+   "url": "https://www.vogue.com/article/friendsgiving-parties-november-2026",
+   "date": "2026-11-23T21:04:47+00:00",
+   "excerpt": "Somewhere between Halloween and the holiday party bonanza, Friendsgiving has become fashion’s favorite excuse for a long and unhurried soirée. This year, hosts went all out with candlelit suppers, art gallery takeovers, and…",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "2722c71eb7"
+  },
+  {
+   "title": "Baby News and Beautiful Blue! Mitchel Ukachukwu Is Expecting Her First Child",
+   "url": "https://www.bellanaija.com/2026/11/mitchel-ukachukwu-pregnancy-maternity-shoot/",
+   "date": "2026-11-23T21:00:20+00:00",
+   "excerpt": "Former Miss Universe Nigeria Mitchel Ukachukwu (née Ihezue) is expecting her first child with husband Nicholas Ukachukwu, announcing her pregnancy in a pleated royal blue maternity gown. The post Baby News and Beautiful Blue!…",
+   "source": "BellaNaija",
+   "tags": [
+    "Africa"
+   ],
+   "id": "408f8d0087"
+  },
+  {
+   "title": "Nicole Farhi Brand Returns as a DTC Player",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHgzSnIzRGEyRjVtbWNLRGxLRDV1X0hVdDFCZEdYcUs1TmVEeE1tNEYtRmQwaEVKTUx6Mm5MQzZYOV9pc1RxdjNqeGFzN29NRlkxTnlsRy1lLTczb3Y3eTF2QWhGT2c4WG5wbUZuWXNsS3Rudk9JbmxmX05nSFR0UWFWRkxQeV83WkY0T1IyYmdMdlNSTXI2VG81M0xUejFaSEE?oc=5",
+   "date": "2026-11-23T20:56:33+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8089efe1ab"
+  },
+  {
+   "title": "How the Holy Is Revered and Corrupted in The Body",
+   "url": "https://www.harpersbazaar.com/culture/film-tv/a74511471/netflix-quinn-shepherd-the-body-catholicism/",
+   "date": "2026-11-23T20:54:46+00:00",
+   "excerpt": "Netflix’s buzzy new show, created by Quinn Shephard, examines guilt, God, and control through the eyes of teen girls attending a Catholic high school",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Designers"
+   ],
+   "id": "7e6b86d0c8"
+  },
+  {
+   "title": "The Best Sunscreens for Mature Skin Are Your First Line of Defense Against Aging",
+   "url": "https://www.vogue.com/article/sunscreens-for-mature-skin",
+   "date": "2026-11-23T20:34:19+00:00",
+   "excerpt": "What to look for in the best sunscreen for mature skin and how to choose a formula for smooth, protected skin at any age.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8f4b9290fc"
+  },
+  {
+   "title": "Gabbriette’s Maternity Style Is Off to a Gothic Start",
+   "url": "https://www.harpersbazaar.com/celebrity/latest/a74508370/gabbriette-baby-bump-first-child-goth-maternity-style-black-dress-photos/",
+   "date": "2026-11-23T20:15:49+00:00",
+   "excerpt": "She was seen cradling her baby bump on an outing with husband Matty Healy",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Culture"
+   ],
+   "id": "aeb48d65ae"
+  },
+  {
+   "title": "Who Is Miley Cyrus’s Husband, Maxx Morando?",
+   "url": "https://www.harpersbazaar.com/celebrity/latest/a74510236/who-is-maxx-morando-miley-cyrus-husband/",
+   "date": "2026-11-23T20:03:14+00:00",
+   "excerpt": "The couple officially said “I do” in Palm Springs",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Culture"
+   ],
+   "id": "c912a6d9c6"
+  },
+  {
+   "title": "The New Rules of Electric Vehicle Ownership",
+   "url": "https://www.elle.com/videos/a73836967/the-new-rules-of-electric-vehicle-ownership/",
+   "date": "2026-11-23T20:00:00+00:00",
+   "excerpt": "It’s not just a car, it’s a lifestyle.",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "2923d3d6b5"
+  },
+  {
+   "title": "Levi’s and NBA Star Shai Gilgeous-Alexander Put Student Designers in the Spotlight",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeGQzLUhyTjVfMHpLOHVMdHl1ejFoYnA4cndMRHZrT2tsXzJXUGhZM3k1Y2pIOHlyRUozWHBOdzA2NTBUU2NCdXFjN25wSklMejVJMTBrdEpKQVpsV04wNHR2VjRzaUw3c0pFMVZMY3dRRjhaVHRCWkM3RjhpS3J4a0ZvMExVeHlaWGg2Q2FVaW9uTXk0N3NKandwOE85czVMVnNWX1VocThMNEQ1RUQ1bjN3?oc=5",
+   "date": "2026-11-23T19:52:30+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "9bb5f23c46"
+  },
+  {
+   "title": "The Most Stylish Sneakers to Shop This Black Friday",
+   "url": "https://www.harpersbazaar.com/fashion/trends/a74491705/black-friday-sneaker-deals-2026/",
+   "date": "2026-11-23T19:50:46+00:00",
+   "excerpt": "From Dries Van Noten to Toteme",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Culture"
+   ],
+   "id": "e37c45ff41"
+  },
+  {
+   "title": "Gwyneth Paltrow Gave Us Two Holiday Outfits for the Price of One",
+   "url": "https://www.vogue.com/article/gwyneth-paltrow-two-holiday-outfits-2026-11-23",
+   "date": "2026-11-23T19:43:03+00:00",
+   "excerpt": "Whether it’s adding a little sparkle or feathers to your New Year’s Eve outfit, or dressing up a comfy Thanksgiving ’fit with a statement leather jacket, Gwyneth Paltrow has all the answers to our holiday dressing woes.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "36dfedad36"
+  },
+  {
+   "title": "Miley Cyrus and Maxx Morando Are Married! See All the Photos Here",
+   "url": "https://www.vogue.com/article/miley-cyrus-and-maxx-morando-are-married",
+   "date": "2026-11-23T19:34:53+00:00",
+   "excerpt": "Miley Cyrus just shared a new drop of photos from her wedding to Maxx Morando, including a sparkly black Saint Laurent mini dress—see all the photos here.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "3b0eff1a42"
+  },
+  {
+   "title": "AISTE HONG Is Hiring Social Media & Digital Content Producer In New York, NY",
+   "url": "https://fashionista.com/2026/11/aiste-hong-is-hiring-social-media-digital-content-producer-in-new-york-ny",
+   "date": "2026-11-23T19:33:56+00:00",
+   "excerpt": "The ideal candidate has a strong visual eye, understands fashion and luxury, and is equally comfortable developing ideas, shooting and editing content, managing day-to-day social media, and maintaining a polished digital brand…",
+   "source": "Fashionista",
+   "tags": [
+    "Culture"
+   ],
+   "id": "fa3b854e03"
+  },
+  {
+   "title": "The Best Golf Clothes Don’t Look Like Golf Clothes",
+   "url": "https://www.highsnobiety.com/p/pierre-golf-brand/",
+   "date": "2026-11-23T19:33:02+00:00",
+   "excerpt": "Pierre Golf's mission is simple: create a beautiful wardrobe of thoughtful garments that just so happen to meet the needs of a (stylish) golfer.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "62fd998b56"
+  },
+  {
+   "title": "Gigi Hadid’s “High School Curls” Are Actually Perfect for Anyone with Long Hair",
+   "url": "https://www.harpersbazaar.com/beauty/hair/a74508301/gigi-hadid-high-school-curls/",
+   "date": "2026-11-23T19:21:00+00:00",
+   "excerpt": "And proof that a little teasing can go a long way",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Culture"
+   ],
+   "id": "c8821d8ddf"
+  },
+  {
+   "title": "How Amazon is becoming a discovery platform for beauty and wellness brands",
+   "url": "https://www.glossy.co/sponsored/how-amazon-is-becoming-a-discovery-platform-for-beauty-and-wellness-brands/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss",
+   "date": "2026-11-23T19:20:29+00:00",
+   "excerpt": "Partner insights from Amazon Beauty Prestige beauty and wellness brands have historically approached online retailers cautiously, prioritizing control over the shopping experience and how consumers encounter their products. But…",
+   "source": "Glossy",
+   "tags": [
+    "Culture"
+   ],
+   "id": "cb7a3b94a9"
+  },
+  {
+   "title": "A Rare Alexander McQueen Runway Gem Is Headed to Christie’s, and It Still Has the Tag Attached",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXNSQ2dzZU1MVEY5TVJ3S2FhdmhqWWdnb0ZKT2RvRlh6eWktNmpaUnlSM2NJMHBjclY5a2dUeFIwY2E5RlZPX3dDQVc1R0FqX0Q5SHdMcXlqeU5iS2hxRWtzZ1Z6TUo3TnF4cTdrXzFZbUxzbzkwTDQ2bzhSMzBHX19NY3JLZ2F0YWZUd1hoTGlUeHZwMG8xOE1SeEtyd2lvOW05d3NWUkREa2NCbERwMndZSl8zN1U?oc=5",
+   "date": "2026-11-23T19:18:32+00:00",
+   "excerpt": "",
+   "source": "ELLE",
+   "tags": [
+    "Designers"
+   ],
+   "id": "c5da3725a1"
+  },
+  {
+   "title": "A Rare Alexander McQueen Gem Is Coming to Auction",
+   "url": "https://www.elle.com/fashion/trend-reports/a74508410/alexander-mcqueen-platos-atlantis-dress-christies-auction-2026/",
+   "date": "2026-11-23T19:10:01+00:00",
+   "excerpt": "The iconic Alexander McQueen “Plato’s Atlantis” dress is headlining Christie’s December Luxury Week.",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "a5abd5593c"
+  },
+  {
+   "title": "India Has the Yarn. Can It Win More Clothing Orders?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNEFHeGxSRHcxYVA2cmU1MF9Hc2ZZSVQxQ1lvRnk1Ym1FZWxObUNJa2tOY1UzSHBIbU1jU1Ywa0RydVE5ZFlhOHpLUk5xRzljekZDc3hNTGdSd1B2U1NTUGM3b0lfd0J0dllRTHlVaFBoS0RzQ3NOYXNLUjhLLVlPQ0RCd1RuWWZrWlZuenRzMWZRdUVyNmt1Z21VZDg2YWs?oc=5",
+   "date": "2026-11-23T19:07:28+00:00",
+   "excerpt": "",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "289786737c"
+  },
+  {
+   "title": "Who Is Miley Cyrus’s New Husband, Maxx Morando?",
+   "url": "https://www.vogue.com/article/who-is-miley-cyrus-boyfriend-2025-oscars",
+   "date": "2026-11-23T19:00:00+00:00",
+   "excerpt": "Cyrus and Morando had discussed getting engaged prior to a 2025 Japan trip, but he pulled off a surprise proposal there—and over the weekend, the two tied the knot.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "aeda69569c"
+  },
+  {
+   "title": "Last Night’s Celebrity Row at the Knicks Game Was Something to See",
+   "url": "https://www.harpersbazaar.com/celebrity/latest/a74509245/ny-knicks-celebrity-row-indiana-pacers-game-msg-attendees/",
+   "date": "2026-11-23T18:44:16+00:00",
+   "excerpt": "Star attendees included Timothée Chalamet, Katie Holmes, Sombr, Inde Navarrette, and Rachel Zegler",
+   "source": "Harper's Bazaar",
+   "tags": [
+    "Culture"
+   ],
+   "id": "50f679ecd3"
+  },
+  {
+   "title": "Author Josh Silver’s Brooch Game? It’s Strong",
+   "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards",
+   "date": "2026-11-23T18:36:25+00:00",
+   "excerpt": "“I don’t get to clean up like this very often,” says the author, who attended the National Book Awards in a snazzy Celine suit.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "b8d153de36"
+  },
+  {
+   "title": "How to Style Green Lace for Asoebi Like Mercy Aigbe",
+   "url": "https://www.bellanaija.com/2026/11/how-to-style-green-lace-asoebi-mercy-aigbe/",
+   "date": "2026-11-23T18:35:05+00:00",
+   "excerpt": "Nollywood star Mercy Aigbe shows how to style green lace for asoebi in an olive corset mermaid gown, marbled sage headtie, and deep red crystal accessories. The post How to Style Green Lace for Asoebi Like Mercy Aigbe appeared…",
    "source": "BellaNaija",
    "tags": [
     "Culture"
    ],
-   "id": "a76f8d13f8"
-  },
-  {
-   "title": "The Street Style Guide to Dressing for Thanksgiving",
-   "url": "https://www.vogue.com/article/the-street-style-guide-to-dressing-for-thanksgiving-2025",
-   "date": "2026-11-22T12:00:00+00:00",
-   "excerpt": "In these three influencer-approved trends, you’ll look as delicious as the Thanksgiving feast.",
-   "source": "Vogue",
-   "tags": [
-    "Trends"
-   ],
-   "id": "8e31b0c0db"
-  },
-  {
-   "title": "New Orleans Guide: Where to Stay, Eat, Drink, and Revel in the Big Easy",
-   "url": "https://www.vogue.com/article/new-orleans-guide",
-   "date": "2026-11-22T12:00:00+00:00",
-   "excerpt": "Vogue’s ultimate guide to the Big Easy—from cemetery tours to the best cocktails in town.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "64f7093ad4"
+   "id": "6d4d1dd51d"
   }
  ],
  "fabric": {
-  "title": "Madras (cloth)",
-  "text": "Madras is a lightweight cotton fabric with typically patterned texture and tartan design, used primarily for summer clothing such as pants, shorts, lungi, dresses, and jackets. The fabric takes its name from the former name of the city of Chennai in India.",
-  "url": "https://en.wikipedia.org/wiki/Madras_(cloth)",
+  "title": "Tulle (netting)",
+  "text": "Tulle ( TYOOL) is a form of netting that is made of small-gauge thread, netted in a hexagonal pattern with small openings, and frequently starched to provide body or stiffness. It is a finer textile than the textile referred to as \"net\".",
+  "url": "https://en.wikipedia.org/wiki/Tulle_(netting)",
   "textLicense": "Text from Wikipedia, CC BY-SA 4.0",
   "image": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Patchwork_madras_fabric%2C_made_from_Indian_cotton_madras_plaid.jpg/1280px-Patchwork_madras_fabric%2C_made_from_Indian_cotton_madras_plaid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "page": "https://commons.wikimedia.org/wiki/File:Patchwork_madras_fabric,_made_from_Indian_cotton_madras_plaid.jpg",
-   "author": "MadrasFabricPreppy",
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Stoffballen1_%28fcm%29.jpg/1280px-Stoffballen1_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File:Stoffballen1_(fcm).jpg",
+   "author": "Photograph: Frank C. Müller , Baden-Baden",
    "license": "CC BY-SA 4.0"
   }
  },
  "term": {
-  "title": "Slow fashion",
-  "text": "Slow fashion is an important concept in the sustainable fashion movement and is contemplated as the opposite of fast fashion. Slow fashion is part of the \"slow movement\", which advocates for a system of clothing and apparel manufacture that is respectful to people, the environment, and animals. Contrary to fast fashion industrial practices, slow fashion involves local artisans and the use of eco-friendly materials. The slow fashion or conscious fashion movement has risen in opposition to fast fashion, taking issue with responsibility for pollution (both in the production of clothes and in the decay of synthetic fabrics), poor workmanship, and emphasis on very brief trends over classic style.",
-  "url": "https://en.wikipedia.org/wiki/Slow_fashion",
+  "title": "Circular fashion",
+  "text": "Circular fashion is an application of circular economy to the fashion industry, where the life cycles of fashion products are extended. The aim is to create a closed-loop system where clothing items are designed, produced, used, and then recycled or repurposed in a way that minimizes waste and reduces the environmental impact of the fashion industry. It involves moving away from the traditional linear model of take-make-use-and-dispose towards a circular model of reduce-reuse-recycle-and-regenerate. This model not only helps in reducing environmental impact but also promotes economic growth through innovative business models and sustainable practices.",
+  "url": "https://en.wikipedia.org/wiki/Circular_fashion",
   "textLicense": "Text from Wikipedia, CC BY-SA 4.0",
-  "image": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Made_Slow_fashion_show_%2828096808709%29.jpg/1280px-Made_Slow_fashion_show_%2828096808709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "page": "https://commons.wikimedia.org/wiki/File:Made_Slow_fashion_show_(28096808709).jpg",
-   "author": "William Murphy from Dublin, Ireland",
-   "license": "CC BY-SA 2.0"
-  }
+  "image": null
  },
  "events": {
   "upcoming": [
@@ -1207,9 +1204,9 @@
    "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 138",
-   "wikipedia:Madras (cloth)",
-   "wikipedia:Slow fashion"
+   "met: scanned 80, pool 164",
+   "wikipedia:Tulle (netting)",
+   "wikipedia:Circular fashion"
   ],
   "failed": [
    "feed:The Business of Fashion: HTTPError HTTP Error 403: Forbidden",
