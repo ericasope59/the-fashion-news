@@ -1,30 +1,63 @@
 {
- "generated": "2026-11-24T05:18+00:00",
+ "generated": "2026-11-24T05:36+00:00",
  "date": "2026-11-24",
  "hero": {
   "kind": "met",
-  "id": 156270,
-  "title": "Fan",
-  "date": "second quarter 18th century",
-  "culture": "probably Scottish",
+  "id": 80591,
+  "title": "Jacket",
+  "date": "ca. 1785",
+  "culture": "French",
   "artist": "",
-  "medium": "ivory, mother-of-pearl, parchment, gouache",
-  "img": "https://images.metmuseum.org/CRDImages/ci/original/62.184.54_front_CP4.jpg",
-  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/62.184.54_front_CP4.jpg",
-  "url": "https://www.metmuseum.org/art/collection/search/156270",
-  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Millicent V. Hearst, 1962"
+  "medium": "silk, linen",
+  "img": "https://images.metmuseum.org/CRDImages/ci/original/DT4313.jpg",
+  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/DT4313.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/80591",
+  "credit": "Irene Lewisohn Bequest, Isabel Shults Fund and Millia Davenport and Zipporah Fleisher Fund, 1998"
  },
  "news": [
   {
    "title": "Stine Goya Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/stine-goya",
-   "date": "2026-11-24T05:16:32+00:00",
+   "date": "2026-11-24T05:34:53+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
     "Culture"
    ],
    "id": "244b264070"
+  },
+  {
+   "title": "Inside Fashion’s $276 Billion Succession Shakeup",
+   "url": "https://www.vogue.com/article/inside-fashions-dollar276-billion-succession-shakeup",
+   "date": "2026-11-24T05:30:00+00:00",
+   "excerpt": "Of the world’s 100 largest fashion companies, 46 are family-owned, and 30 of these face succession challenges, Achim Berg’s FashionSights highlights in a new report.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "aa69bd8eed"
+  },
+  {
+   "title": "Setting Up Shop in Istanbul",
+   "url": "https://www.vogue.com/article/setting-up-shop-in-istanbul",
+   "date": "2026-11-24T05:30:00+00:00",
+   "excerpt": "The burgeoning luxury retail sector in Istanbul is competitive, led by a handful of players. Consumers remain hungry for established department store retail, but they’re also craving new formats.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "11263c3ff4"
+  },
+  {
+   "title": "Is This Department Stores’ Big Comeback Christmas?",
+   "url": "https://www.vogue.com/article/is-this-department-stores-big-comeback-christmas",
+   "date": "2026-11-24T05:30:00+00:00",
+   "excerpt": "From brand collabs to amped up gifting opportunities, department stores are gearing up for a big holiday season.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "cdad88a9f9"
   },
   {
    "title": "Bath & Body Works’ CEO Daniel Heaf and Mindy Grossman on Driving Transformation",
@@ -643,39 +676,6 @@
     "Culture"
    ],
    "id": "aeda69569c"
-  },
-  {
-   "title": "Last Night’s Celebrity Row at the Knicks Game Was Something to See",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74509245/ny-knicks-celebrity-row-indiana-pacers-game-msg-attendees/",
-   "date": "2026-11-23T18:44:16+00:00",
-   "excerpt": "Star attendees included Timothée Chalamet, Katie Holmes, Sombr, Inde Navarrette, and Rachel Zegler",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "50f679ecd3"
-  },
-  {
-   "title": "Author Josh Silver’s Brooch Game? It’s Strong",
-   "url": "https://www.vogue.com/article/author-josh-silver-celine-national-book-awards",
-   "date": "2026-11-23T18:36:25+00:00",
-   "excerpt": "“I don’t get to clean up like this very often,” says the author, who attended the National Book Awards in a snazzy Celine suit.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "b8d153de36"
-  },
-  {
-   "title": "How to Style Green Lace for Asoebi Like Mercy Aigbe",
-   "url": "https://www.bellanaija.com/2026/11/how-to-style-green-lace-asoebi-mercy-aigbe/",
-   "date": "2026-11-23T18:35:05+00:00",
-   "excerpt": "Nollywood star Mercy Aigbe shows how to style green lace for asoebi in an olive corset mermaid gown, marbled sage headtie, and deep red crystal accessories. The post How to Style Green Lace for Asoebi Like Mercy Aigbe appeared…",
-   "source": "BellaNaija",
-   "tags": [
-    "Culture"
-   ],
-   "id": "6d4d1dd51d"
   }
  ],
  "fabric": {
@@ -898,6 +898,18 @@
     "added": "2026-11-17"
    },
    {
+    "s": "2027-01-25",
+    "e": "2027-01-27",
+    "n": "Texworld Apparel Sourcing Paris",
+    "t": "Trade fair",
+    "w": "Parc des Expositions Paris-Le Bourget, Halls 3 & 4, Paris",
+    "r": "Europe",
+    "src": "Messe Frankfurt France (organiser); FashionUnited",
+    "u": "https://texworld-paris.fr.messefrankfurt.com/",
+    "note": "Fabrics and apparel sourcing trade fair.",
+    "added": "2026-11-24"
+   },
+   {
     "s": "2027-01-26",
     "e": "2027-01-28",
     "n": "Première Vision Paris",
@@ -908,6 +920,17 @@
     "u": "https://paris.premierevision.com/content/visit-practical-information",
     "note": "Fabrics and materials for Spring/Summer 2028.",
     "added": "2026-11-23"
+   },
+   {
+    "s": "2027-01-29",
+    "e": "2027-02-01",
+    "n": "Berlin Fashion Week, Winter edition 2027",
+    "t": "Fashion week",
+    "w": "Station Berlin and other venues, Berlin",
+    "r": "Europe",
+    "src": "berlin.de (City of Berlin); visitBerlin (official tourism board); FashionUnited",
+    "u": "https://www.berlin.de/en/events/8279442-2842498-berlin-fashion-week.en.html",
+    "added": "2026-11-24"
    },
    {
     "s": "2027-02-01",
@@ -1176,7 +1199,7 @@
     "added": "2026-11-17"
    }
   ],
-  "checked": "2026-11-23"
+  "checked": "2026-11-24"
  },
  "log": {
   "ok": [
@@ -1204,7 +1227,7 @@
    "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 164",
+   "met: scanned 80, pool 212",
    "wikipedia:Tulle (netting)",
    "wikipedia:Circular fashion"
   ],
