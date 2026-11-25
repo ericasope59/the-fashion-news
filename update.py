@@ -9,6 +9,7 @@ Rules this script follows:
 - Only publishers on the CREDIBLE list are kept.
 - Fabric/term text is Wikipedia's own wording, credited CC BY-SA 4.0.
 - Images are public domain (The Met) or openly licensed (Wikimedia), with credit.
+- Look of the day is a pin from approved public Pinterest boards, shown only via Pinterest's embed.
 - If a source fails, it is skipped and logged; yesterday's good data is kept.
 """
 import datetime as dt
@@ -320,6 +321,46 @@ def potd():
         return None
 
 
+# ---------------------------------------------------------------- look of the day (Pinterest)
+# Same approved boards as the app. The app picks its own look live; this pick is the backup
+# used when the phone cannot reach Pinterest. Shown only through Pinterest's official embed.
+BOARDS = {
+    "current": ["infashion/haute-couture", "nosouvenirs/fashion-haute-couture-runway",
+                "maryofthesoul/haute-couture-runway", "beareyes574/a-haute-couture-runway"],
+    "archive": ["fabricistaa/90s-runway-archive", "archivesolaire/runway-archives-90s-00s",
+                "ash_curates/runway-archival"],
+}
+
+
+def pin_text(s):
+    s = html.unescape(s or "")
+    s = re.sub(r"https?://\S+", "", s or "")
+    s = re.sub(r"\s*[|#].*$", "", s)
+    s = re.sub(r"\[photos\]|\(photos\)|,?\s*(runway,?\s*)?fashion show\s*(&|and)\s*collection review|\s+-\s+(vogue|photos)$", "", s, flags=re.I)
+    s = re.sub(r"[\s,.:;-]+$", "", re.sub(r"\s+", " ", s))
+    return re.sub(r"\s+", " ", s).strip()[:140]
+
+
+def pick_pin(state):
+    import random
+    kind = "archive" if TODAY.toordinal() % 2 else "current"
+    shown = set(state.get("pins_shown", []))
+    cands = []
+    for b in BOARDS[kind]:
+        j = fetch_json(f"https://widgets.pinterest.com/v3/pidgets/boards/{b}/pins/", label=f"pinterest:{b}")
+        d = (j or {}).get("data") or {}
+        name = html.unescape((d.get("board") or {}).get("name") or "") or b.split("/")[1]
+        for p in d.get("pins") or []:
+            pid = str(p.get("id") or "")
+            if pid and p.get("images") and pid not in shown:
+                cands.append({"kind": "pin", "id": pid, "d": pin_text(p.get("description")), "b": b, "bn": name})
+    if not cands:
+        return None
+    pin = random.Random(TODAY.toordinal()).choice(cands)
+    state["pins_shown"] = (state.get("pins_shown", []) + [pin["id"]])[-5000:]
+    return pin
+
+
 # ---------------------------------------------------------------- main
 def load(name, default):
     try:
@@ -346,12 +387,9 @@ def main():
         LOG["failed"].append(f"news: only {len(news)} fresh items, kept previous")
         news = (news + prev.get("news", []))[:60]
 
-    pool = grow_met_pool(pool, state)
-    hero = None
-    if pool:
-        h = pool[TODAY.toordinal() % len(pool)]
-        hero = {"kind": "met", **h}
-    hero = hero or potd() or prev.get("hero")
+    pool = grow_met_pool(pool, state, budget=60)  # still feeds the Met tab in Inspire
+    prev_hero = prev.get("hero") if (prev.get("hero") or {}).get("kind") == "pin" else None
+    hero = pick_pin(state) or prev_hero or potd() or prev.get("hero")
 
     fabric = pick_from(library["fabrics"], 0) or prev.get("fabric")
     term = pick_from(library["terms"], 7) or prev.get("term")

@@ -1,5 +1,6 @@
 /* The Fashion News - app logic.
    Daily content comes from data/today.json (refreshed every morning by GitHub Actions).
+   Look of the day is drawn live from approved public Pinterest boards and shown with Pinterest's official embed.
    Inspire images are fetched live from Openverse, Wikimedia Commons and The Met pool. */
 (() => {
 'use strict';
@@ -63,11 +64,84 @@ function renderAll() {
   const g = new Date(DATA.generated);
   $('#dateline').textContent = new Date().toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' });
   $('#updated').textContent = isNaN(g) ? '' : 'Updated ' + (g.toDateString() === new Date().toDateString() ? 'today ' + g.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' }) : ago(DATA.generated));
-  renderHero(); renderStoriesChips(); renderLearn(); renderEvents();
+  renderLook(); renderStoriesChips(); renderLearn(); renderEvents();
   store.set('seen', [...new Set([...seenBefore, ...DATA.news.map(n => n.id)])].slice(-400));
 }
 
-/* ------------------------------------------------------------ today */
+/* ------------------------------------------------------------ today: look of the day
+   One look a day, drawn at random from public Pinterest boards curated by others and approved by Erica.
+   Shown only through Pinterest's official embed (the image stays on Pinterest, credited and linked).
+   Days alternate between current-couture boards and archive boards. Looks already shown are never repeated. */
+const BOARDS = {
+  current: ['infashion/haute-couture', 'nosouvenirs/fashion-haute-couture-runway', 'maryofthesoul/haute-couture-runway', 'beareyes574/a-haute-couture-runway'],
+  archive: ['fabricistaa/90s-runway-archive', 'archivesolaire/runway-archives-90s-00s', 'ash_curates/runway-archival']
+};
+const unent = s => { const t = document.createElement('textarea'); t.innerHTML = String(s || ''); return t.value; };
+const pinText = s => unent(s).replace(/https?:\/\/\S+/g, '').replace(/\s*[|#].*$/, '')
+  .replace(/\[photos\]|\(photos\)|,?\s*(runway,?\s*)?fashion show\s*(&|and)\s*collection review|\s+-\s+(vogue|photos)$/gi, '')
+  .replace(/\s+/g, ' ').replace(/[\s,.:;-]+$/, '').trim().slice(0, 140);
+async function boardPins(b) {
+  const r = await fetch('https://widgets.pinterest.com/v3/pidgets/boards/' + b + '/pins/');
+  if (!r.ok) throw new Error(r.status);
+  const d = (await r.json()).data || {};
+  const name = unent(d.board?.name) || b.split('/')[1];
+  return (d.pins || []).filter(p => p.id && p.images).map(p => ({ id: String(p.id), d: pinText(p.description), b, bn: name }));
+}
+async function pickLook() {
+  const day = todayISO();
+  const cached = store.get('look', null);
+  if (cached && cached.date === day) return cached;
+  const shownIds = new Set(store.get('lookShown', []));
+  const pool = store.get('lookPool', {});                       // every pin ever seen, so the pool keeps growing
+  const kind = Math.floor(Date.parse(day) / 864e5) % 2 ? 'archive' : 'current';
+  const results = await Promise.allSettled(BOARDS[kind].map(boardPins));
+  results.forEach(r => r.status === 'fulfilled' && r.value.forEach(p => { pool[p.id] = { ...p, k: kind }; }));
+  const ids = Object.keys(pool);
+  if (ids.length > 4000) ids.slice(0, ids.length - 4000).forEach(id => delete pool[id]);
+  store.set('lookPool', pool);
+  let fresh = Object.values(pool).filter(p => p.k === kind && !shownIds.has(p.id));
+  if (!fresh.length) fresh = Object.values(pool).filter(p => !shownIds.has(p.id));
+  if (!fresh.length) return cached || null;                     // offline or Pinterest unreachable: keep the last look
+  const p = pick(fresh), look = { date: day, ...p };
+  store.set('look', look);
+  store.set('lookShown', [...shownIds, p.id].slice(-5000));
+  return look;
+}
+let pinJs = null;
+// pinit.js loads Pinterest's main widget code in a second step; data-pin-build exposes its build function when ready.
+const loadPinJs = () => pinJs = pinJs || new Promise((res, rej) => {
+  const s = document.createElement('script'); s.src = 'https://assets.pinterest.com/js/pinit.js'; s.async = true;
+  s.setAttribute('data-pin-build', 'tfnPinBuild'); s.onerror = rej; document.head.appendChild(s);
+  const t0 = Date.now(), wait = () => typeof window.tfnPinBuild === 'function' ? res(window.tfnPinBuild) : Date.now() - t0 > 12000 ? rej() : setTimeout(wait, 100);
+  wait();
+});
+async function renderLook() {
+  const el = $('#hero'); el.onclick = null;
+  let look = null;
+  try { look = await pickLook(); } catch {}
+  if (!look && DATA?.hero?.kind === 'pin') look = DATA.hero;     // fallback: the pin chosen by the morning update
+  if (!look) { if (DATA?.hero) return renderHero(); el.innerHTML = '<p class="empty">Today\'s look could not load. Pull down to try again.</p>'; return; }
+  if (el.dataset.pin === look.id && el.querySelector('.pinwrap > span')) return;   // already showing today's look
+  el.dataset.pin = look.id;
+  const url = 'https://www.pinterest.com/pin/' + look.id + '/';
+  el.innerHTML = `<div class="pinwrap"><a data-pin-do="embedPin" data-pin-width="large" href="${esc(url)}"></a></div>
+    <p class="cap"><b>Look of the day.</b> ${look.d ? esc(look.d) + '.' : 'Designer and season not stated by the pinner.'}
+    Via the board <a href="https://www.pinterest.com/${esc(look.b)}/" target="_blank" rel="noopener">${esc(look.bn)}</a> on Pinterest.</p>`;
+  try {
+    const build = await loadPinJs(); build(el);
+    fitPin(el);
+  } catch { const w = el.querySelector('.pinwrap'); w.style.minHeight = '0'; w.innerHTML = `<a class="btn dark" href="${esc(url)}" target="_blank" rel="noopener">View today's look on Pinterest</a>`; }
+}
+// Pinterest's widget has a fixed width; scale it down on narrow phones so it never overflows.
+function fitPin(el) {
+  const wrap = el.querySelector('.pinwrap');
+  const fit = () => { const w = wrap.firstElementChild; if (!w || !w.offsetWidth) return;
+    w.style.transform = ''; const s = Math.min(1, wrap.clientWidth / w.offsetWidth);
+    w.style.transform = s < 1 ? `scale(${s})` : ''; w.style.transformOrigin = 'top center';
+    wrap.style.height = s < 1 ? w.offsetHeight * s + 'px' : ''; };
+  new ResizeObserver(fit).observe(wrap); [300, 1200, 3000].forEach(t => setTimeout(fit, t));
+}
+
 function renderHero() {
   const h = DATA.hero; if (!h) return;
   const el = $('#hero');
