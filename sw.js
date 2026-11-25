@@ -1,5 +1,5 @@
 // Offline shell for The Fashion News. Data is always fetched fresh when online.
-const V = 'tfn-v4';
+const V = 'tfn-v5';
 const SHELL = ['./', './index.html', './app.js', './manifest.webmanifest', './icon-192.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {

@@ -128,14 +128,17 @@ async function renderLook() {
     <p class="cap"><b>Look of the day.</b> ${look.d ? esc(look.d) + '.' : 'Designer and season not stated by the pinner.'}
     Via the board <a href="https://www.pinterest.com/${esc(look.b)}/" target="_blank" rel="noopener">${esc(look.bn)}</a> on Pinterest.</p>`;
   try {
-    const build = await loadPinJs(); build(el);
+    const build = await loadPinJs();
+    // Pinterest's script also builds embeds on its own when it first loads; build only if it has not already.
+    if (!el.querySelector('.pinwrap > span')) build(el);
     fitPin(el);
   } catch { const w = el.querySelector('.pinwrap'); w.style.minHeight = '0'; w.innerHTML = `<a class="btn dark" href="${esc(url)}" target="_blank" rel="noopener">View today's look on Pinterest</a>`; }
 }
 // Pinterest's widget has a fixed width; scale it down on narrow phones so it never overflows.
 function fitPin(el) {
   const wrap = el.querySelector('.pinwrap');
-  const fit = () => { const w = wrap.firstElementChild; if (!w || !w.offsetWidth) return;
+  const fit = () => { wrap.querySelectorAll(':scope > span ~ span').forEach(x => x.remove());   // never show the look twice
+    const w = wrap.firstElementChild; if (!w || !w.offsetWidth) return;
     w.style.transform = ''; const s = Math.min(1, wrap.clientWidth / w.offsetWidth);
     w.style.transform = s < 1 ? `scale(${s})` : ''; w.style.transformOrigin = 'top center';
     wrap.style.height = s < 1 ? w.offsetHeight * s + 'px' : ''; };
