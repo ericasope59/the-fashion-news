@@ -1,24 +1,18 @@
 {
- "generated": "2026-11-25T05:34+00:00",
+ "generated": "2026-11-25T11:27+00:00",
  "date": "2026-11-25",
  "hero": {
-  "kind": "met",
-  "id": 156182,
-  "title": "Shoes",
-  "date": "1845–60",
-  "culture": "probably French",
-  "artist": "",
-  "medium": "cotton, silk",
-  "img": "https://images.metmuseum.org/CRDImages/ci/original/54.61.32a-b_CP4.jpg",
-  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/54.61.32a-b_CP4.jpg",
-  "url": "https://www.metmuseum.org/art/collection/search/156182",
-  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Herman Delman, 1954"
+  "kind": "pin",
+  "id": "946318940466758951",
+  "d": "",
+  "b": "fabricistaa/90s-runway-archive",
+  "bn": "90s RUNWAY ARCHIVE"
  },
  "news": [
   {
    "title": "The Garment Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/the-garment",
-   "date": "2026-11-25T05:31:08+00:00",
+   "date": "2026-11-25T11:26:09+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
@@ -29,13 +23,344 @@
   {
    "title": "Baum und Pferdgarten Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/baum-und-pferdgarten",
-   "date": "2026-11-25T05:31:08+00:00",
+   "date": "2026-11-25T11:26:09+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
     "Culture"
    ],
    "id": "4c8418c741"
+  },
+  {
+   "title": "These Are the 6 Luckiest Zodiac Signs This Sagittarius Season",
+   "url": "https://www.vogue.com/article/luckiest-star-signs-sagittarius-season-2026",
+   "date": "2026-11-25T11:05:32+00:00",
+   "excerpt": "Scorpio season might have felt intense, but Sagittarius season is all about bringing the party. Here are the signs set to soar over the next month.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "5e9ae6bfc6"
+  },
+  {
+   "title": "Bangladesh hikes garment minimum wage by 36%, falling short of demands",
+   "url": "https://www.just-style.com/news/bangladesh-garment-workers-wage/",
+   "date": "2026-11-25T11:03:13+00:00",
+   "excerpt": "A government-appointed wage board in Bangladesh has raised the minimum monthly wage for entry-level garment workers by 36%, to Tk17,000 ($136) from Tk12,500.",
+   "source": "Just Style",
+   "tags": [
+    "Culture"
+   ],
+   "id": "b52e1e9d7b"
+  },
+  {
+   "title": "The 17 Best Airbnbs in Copenhagen Embrace Hygge",
+   "url": "https://www.vogue.com/article/best-airbnbs-in-copenhagen",
+   "date": "2026-11-25T11:00:00+00:00",
+   "excerpt": "Book one of the best Airbnbs in Copenhagen ahead of your trip to the Danish capital—and get ready for tons of Scandinavian design inspiration.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "edf253f6e0"
+  },
+  {
+   "title": "These Were the Breakout Red Carpet Stars of 2026",
+   "url": "https://www.vogue.com/article/breakout-red-carpet-stars-2026",
+   "date": "2026-11-25T11:00:00+00:00",
+   "excerpt": "These rising stars had a splashy, career-making year in Hollywood—and they all come armed with unique red carpet style to match.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "ee35b9baa3"
+  },
+  {
+   "title": "24 Veil Alternatives for the Bride Who’d Rather Skip Tradition",
+   "url": "https://www.vogue.com/article/wedding-veil-alternatives",
+   "date": "2026-11-25T11:00:00+00:00",
+   "excerpt": "From chic hats to jeweled headpieces, we found tons of great wedding veil alternatives to consider, for every bridal style.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "b0e8f5372f"
+  },
+  {
+   "title": "Mascara Has Entered Its Sophisticated Era",
+   "url": "https://www.vogue.com/article/modern-mascara",
+   "date": "2026-11-25T11:00:00+00:00",
+   "excerpt": "Modern mascara formulas make clumps, flakes, and raccoon eyes a thing of the past. Here’s what’s new, according to makeup artists and beauty experts.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "8c1c431987"
+  },
+  {
+   "title": "We’re Officially Entering the Duster Coat Era — at Least According to Jennifer Lawrence, Dakota Johnson and Angelina Jolie",
+   "url": "https://wwd.com/pop-culture/celebrity-news/winter-2026-duster-coat-trend-jennifer-lawrence-1239462898/",
+   "date": "2026-11-25T11:00:00+00:00",
+   "excerpt": "The once-practical travel coat is getting a cozy and fashionable overhaul, with Alexa Chung and Inde Navarrette joining in on the trend.",
+   "source": "WWD",
+   "tags": [
+    "Trends"
+   ],
+   "id": "53e3890514"
+  },
+  {
+   "title": "Nike’s Ice-Cold Hoop Shoe Is Bringing the Chill This Winter",
+   "url": "https://www.highsnobiety.com/p/nike-caitlin-1-ice-cold/",
+   "date": "2026-11-25T11:00:00+00:00",
+   "excerpt": "Nike’s Caitlin Clark hoop shoe gets an icy white-and-blue makeover, bringing a fresh winter colorway to the basketball court.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "fa9b702713"
+  },
+  {
+   "title": "Target raises FY26 guidance as Q3 sales growth offsets apparel decline",
+   "url": "https://www.just-style.com/news/target-q3-2026-result/",
+   "date": "2026-11-25T10:49:34+00:00",
+   "excerpt": "Target has raised its fiscal 2026 (FY26) sales and earnings outlook after third quarter (Q3) growth across several merchandise categories offset a decline in apparel and accessories revenue.",
+   "source": "Just Style",
+   "tags": [
+    "Business"
+   ],
+   "id": "55407f650e"
+  },
+  {
+   "title": "A Look Back at Legendary Kennedy Family Parties, on JFK Jr.’s Birthday",
+   "url": "https://www.vogue.com/slideshow/john-f-kennedy-jr-birthday-party-marilyn-monroe-inline",
+   "date": "2026-11-25T10:35:40+00:00",
+   "excerpt": "On what would have been the 66th birthday of John F. Kennedy Jr., a look back at some of the family’s high-society celebrations over the years.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "5372443592"
+  },
+  {
+   "title": "These High-Heat Dunks Are Built on Oregon Lore",
+   "url": "https://www.highsnobiety.com/p/nike-sb-dunk-low-the-zoo-shout/",
+   "date": "2026-11-25T10:23:30+00:00",
+   "excerpt": "Teaming up with GOAT and Flight Club, Division Street’s Ducks of a Feather delivers the DOAF x Nike SB Dunk Low The Zoo and Shout!.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "eba1b14800"
+  },
+  {
+   "title": "WTAPS’ HOKA Trail Runner Has No Business Being This Sexy",
+   "url": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat-ts/",
+   "date": "2026-11-25T10:18:26+00:00",
+   "excerpt": "WTAPS debuts its HOKA Speedgoat TS sneaker collaboration, resulting in perhaps the most stylish take on the model yet.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "260d10c361"
+  },
+  {
+   "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
+   "url": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
+   "date": "2026-11-25T10:15:58+00:00",
+   "excerpt": "New Balance reveals a luxurious 991v1 \"Made in Japan\" sneaker inspired by a lost prototype. Here's everything on the 25th anniversary pairs.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "017ce5dc24"
+  },
+  {
+   "title": "This British-Made New Balance Staple Has Mastered the Pop of Color",
+   "url": "https://www.highsnobiety.com/p/new-balance-991-made-in-uk-luxe-black-leather/",
+   "date": "2026-11-25T10:13:28+00:00",
+   "excerpt": "The 991 returns in an understated, dressier execution in the New Balance 991 Made in UK Luxe Black Leather.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "7c70a4c713"
+  },
+  {
+   "title": "Sali Hughes on beauty: lactonic scents will have you smelling like cream soda – in a good way",
+   "url": "https://www.theguardian.com/fashion/2026/nov/25/sali-hughes-on-beauty-lactonic-scents-smelling-like-cream-soda-strangely-nice-actually",
+   "date": "2026-11-25T10:00:13+00:00",
+   "excerpt": "These fragrances are on trend right now, and smelling creamy can, it turns out, be surprisingly pleasant When the fragrance world picks a theme, it goes in hard. In the space of one month, I had close to a dozen new “lactonic”…",
+   "source": "The Guardian",
+   "tags": [
+    "Trends"
+   ],
+   "id": "ba183bbc0e"
+  },
+  {
+   "title": "Nike’s Green “Mid” Air Jordan Shoe Has a Heart of Gold",
+   "url": "https://www.highsnobiety.com/p/jordan-1-mid-faded-spruce/",
+   "date": "2026-11-25T09:53:20+00:00",
+   "excerpt": "The Air Jordan 1 Mid gets an impressive \"Faded Spruce\" makeover, complete with smooth textures & gold Swooshes.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "33edfbdb72"
+  },
+  {
+   "title": "Nike Put Its Gloriously Stacked Running Shoe on Ice",
+   "url": "https://www.highsnobiety.com/p/nike-vomero-plus-light-armory-blue/",
+   "date": "2026-11-25T09:51:52+00:00",
+   "excerpt": "Nike's Vomero Plus running sneaker lands in a \"Light Armory Blue\" colorway, resulting in this icy take on the model.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "005c5ee5f6"
+  },
+  {
+   "title": "F1 Collabs Are Getting Good. You Just Have to Hunt for Them",
+   "url": "https://www.highsnobiety.com/p/f1-vegas-best-collabs/",
+   "date": "2026-11-25T09:46:16+00:00",
+   "excerpt": "It's ironic that the best drops at biggest racing competiton on the planet aren't all that easy to find. But they're worth the hunt.",
+   "source": "Highsnobiety",
+   "tags": [
+    "Culture"
+   ],
+   "id": "3a5ca4d9c2"
+  },
+  {
+   "title": "What it takes for a small European business to sell across the single market",
+   "url": "https://www.just-style.com/sponsored/what-it-takes-for-a-small-european-business-to-sell-across-the-single-market/",
+   "date": "2026-11-25T09:31:44+00:00",
+   "excerpt": "Most small EU firms still don't sell online, and fewer still sell beyond their home market.",
+   "source": "Just Style",
+   "tags": [
+    "Culture"
+   ],
+   "id": "9326a852e7"
+  },
+  {
+   "title": "Christie’s puts Alexander McQueen ‘Plato’s Atlantis Dress’ up for auction",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbTBxQTNBSmtSVmszLTlnRkZuZmFqR0JpWmsxY21fSFkwclc5RHhUZkxYR2hVdzZKaHRxSmFndzJJaW5kckg5RXREdVpVbGg4WXpFd2JLb0g0LVNtN0M5XzdXbENLTXVXSGFpVGhGeTFNZFFtcE01YU5WNUstVHlPendWTU9zWkxjZHhWSnk2YUlwVnhZNUdBZmJRWWVMOXV6OHlBWg?oc=5",
+   "date": "2026-11-25T09:13:11+00:00",
+   "excerpt": "",
+   "source": "TheIndustry.fashion",
+   "tags": [
+    "Culture"
+   ],
+   "id": "0f084a0113"
+  },
+  {
+   "title": "Spring/Summer 2027 Fashion Week Favourites With BAZAAR Singapore’s Editors",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanR0aE10eGMxazVvNzJfb0NCazRwMkxOT0cxUXVDckdLOG9FdHpTMF95VXl2SEgxUzk5Ym1zMHlGbkw2ajVscGM4dHlxMWM1d29EUkpPUWpSZjg3bjBzdnBaY1JXaHBoWExwWWJtckZmYVQxUEQzSEJiZjg3LXdwUmE0YklMRnRwZHFuaXBPUEk3XzYt?oc=5",
+   "date": "2026-11-25T09:13:04+00:00",
+   "excerpt": "",
+   "source": "Harper's Bazaar Singapore",
+   "tags": [
+    "Culture"
+   ],
+   "id": "902d134fbc"
+  },
+  {
+   "title": "Shein to pay $100m to settle ‘deceptive practices’ allegations",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSk9YVFc2eVlNQzlsWFlJV0hVYzlTQ2VnWFBkY0FpQ2hPbUxqc2pBa0h6bVltaEJaOWo1Q2dWSjlQRS1OMTNiM0hlZWlGRmxZMFhyVUdtdm1zdEVuOTBWblFtTDduM08ySmZUdDFiQnIxVDdYSDYtWkRZV0V3YU9vS05UUmg4dFVocWdTTHFKYTI0SERhRWJ4LWowN3FDRUVyNlQxcm9HUUdmVEE4S1F2Rm1xZzFFZw?oc=5",
+   "date": "2026-11-25T08:36:58+00:00",
+   "excerpt": "",
+   "source": "Drapers",
+   "tags": [
+    "Culture"
+   ],
+   "id": "62cc3ad02c"
+  },
+  {
+   "title": "The Vogue Business People Moves Tracker",
+   "url": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+   "date": "2026-11-25T08:30:00+00:00",
+   "excerpt": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "b5246c0831"
+  },
+  {
+   "title": "Bristol’s Black Friday ad ban puts fast fashion in the firing line",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvNnRZLW9rLWc1RVJ4alJLc2FDTDZraG5TdEk5VTh6cnJyTlpoVDVOVHlNV0ZKRWVFZUxJdE5xOWFERjF3S1YzN1R0SzFmZVlia3JiYTJFbTlzaERuMmtWdHU1YllPS3dMWlNvZW10VExvc19KTTZPU0I4VVdDQQ?oc=5",
+   "date": "2026-11-25T08:11:38+00:00",
+   "excerpt": "",
+   "source": "Retail Gazette",
+   "tags": [
+    "Culture"
+   ],
+   "id": "9c3f47bbe8"
+  },
+  {
+   "title": "Pisces Daily Horoscope",
+   "url": "https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/",
+   "date": "2026-11-25T07:00:08+00:00",
+   "excerpt": "(February 19 - March 20)",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "4e51e484b2"
+  },
+  {
+   "title": "How the Stars of Netflix Hit ‘The Body’ Perfected Their Y2K Aesthetic",
+   "url": "https://wwd.com/pop-culture/celebrity-news/the-body-netflix-y2k-hair-makeup-beauty-1239462770/",
+   "date": "2026-11-25T07:00:00+00:00",
+   "excerpt": "Makeup department head Kristin Wayne and hair department head Francine Francis-Lee tell WWD how they created the show's early 2000s beauty looks, from bouncy blowouts to glossy lips.",
+   "source": "WWD",
+   "tags": [
+    "Designers",
+    "Trends"
+   ],
+   "id": "8e3e035550"
+  },
+  {
+   "title": "Textile recycling expert Andreas Dorner passes away",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNck9tNTNXVVZEdktYRHlWZ0tPamJjS0hnZFRlUEROdzJndEdNUXVZT1Y3VDlJbDdNZlZOclg3Yi0takE3MHVnZUtzM3pRbEdzdjdsVU1RSmVnM3lwSTkyaVc4TEJrc0toRmxUOHByUHBWakhndk50UnlnMUZNNUNSdXVFcWFBTHBDdGQ5SEJqc3MtVHliU09sdnFBOG1NT2pCM0RwOQ?oc=5",
+   "date": "2026-11-25T06:24:43+00:00",
+   "excerpt": "",
+   "source": "Fashion United",
+   "tags": [
+    "Sustainability"
+   ],
+   "id": "bf7d869094"
+  },
+  {
+   "title": "30 Classic Photos of John F. Kennedy Jr., in Honor of His 66th Birthday",
+   "url": "https://www.vogue.com/slideshow/30-classic-photos-of-john-f-kennedy-jr",
+   "date": "2026-11-25T06:04:56+00:00",
+   "excerpt": "We’re taking a look back at some of the images that helped define the presidential scion’s public persona.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "7c53962b8b"
+  },
+  {
+   "title": "CEO Talks: Bang & Olufsen’s Gianfilippo Testa",
+   "url": "https://wwd.com/business-news/human-resources/bang-olufsen-new-ceo-interview-testa-1239463615/",
+   "date": "2026-11-25T06:00:00+00:00",
+   "excerpt": "The veteran fashion executive, previously CEO of McQueen, plans to amplify the Danish audio brand’s persona and voice, and build out its cultural tentacles.",
+   "source": "WWD",
+   "tags": [
+    "Business"
+   ],
+   "id": "42e6497e2e"
+  },
+  {
+   "title": "EXCLUSIVE: Isabel Marant Names Therese Lundström Chief Marketing Officer",
+   "url": "https://wwd.com/business-news/human-resources/isabel-marant-chief-marketing-officer-therese-lundstrom-1239464350/",
+   "date": "2026-11-25T06:00:00+00:00",
+   "excerpt": "The executive joins the French label as it maps out its strategy under new management.",
+   "source": "WWD",
+   "tags": [
+    "Culture"
+   ],
+   "id": "38af4cff9c"
   },
   {
    "title": "Who Topped the 2026 Vogue Business Watch Index?",
@@ -49,17 +374,6 @@
    "id": "bfe0e13e1b"
   },
   {
-   "title": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era",
-   "url": "https://www.vogue.com/article/gifting-resale-and-the-power-of-experiences-the-watch-industry-is-in-its-customer-service-era",
-   "date": "2026-11-25T05:30:00+00:00",
-   "excerpt": "Despite pressure from higher gold costs and watchmakers raising prices, consumer sentiment and perceived value around watches are on the rise. How did they do it?",
-   "source": "Vogue",
-   "tags": [
-    "Sustainability"
-   ],
-   "id": "6599b594fd"
-  },
-  {
    "title": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook",
    "url": "https://www.vogue.com/article/k-pop-stars-art-and-unexpected-collabs-inside-the-2026-watch-innovation-playbook",
    "date": "2026-11-25T05:30:00+00:00",
@@ -69,6 +383,17 @@
     "Culture"
    ],
    "id": "dd4d7ad7e8"
+  },
+  {
+   "title": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era",
+   "url": "https://www.vogue.com/article/gifting-resale-and-the-power-of-experiences-the-watch-industry-is-in-its-customer-service-era",
+   "date": "2026-11-25T05:30:00+00:00",
+   "excerpt": "Despite pressure from higher gold costs and watchmakers raising prices, consumer sentiment and perceived value around watches are on the rise. How did they do it?",
+   "source": "Vogue",
+   "tags": [
+    "Sustainability"
+   ],
+   "id": "6599b594fd"
   },
   {
    "title": "Why Luxury Watch Brands Are Still Struggling Online",
@@ -170,6 +495,17 @@
    "id": "c2ebc6de98"
   },
   {
+   "title": "Generational Succession: Two-Thirds of Fashion’s Largest Family Businesses Face a Problem",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcDRZaHlic0NPNlpqRnltaGpYZEY0bzFaSm5sT1pBTWpDdU1DTWUxVmZoYXRyVmVYYjBYRHVwaXdIYmJmM1pMMkZwTFRDN2dHS0lWSVpFdmRORUZJeGU0QVlMUm5nV296ekkzME5ZdTAtblhIMlJvTlp0UU1YekhGSV9rRGc5NGNnQW9UYnhXNVZNRlhhSU5LSEVDczJEbFlZNWtjdzgzb2c2LXllbnB1ZXBVcGVSbXJlSkNiOEQ3bjBxVDFTZlVBbUhuTGQ2MGI1Z1E?oc=5",
+   "date": "2026-11-25T04:00:00+00:00",
+   "excerpt": "",
+   "source": "Modaes",
+   "tags": [
+    "Culture"
+   ],
+   "id": "e19663e000"
+  },
+  {
    "title": "Thom Browne and Teyana Taylor: Designer and Muse",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6b2E2YjZJTEEzQkJMNU4xOEljRFF5SmdjQmF1NW5yRWlGeDg3RGEwamw3YXdJSFViemtNUFRFMUt4Ri0tR0JldGFCUWZvLTkxZUpZNjhFby1kcW1DdDJmaTBOY3IxVExJeWhnNGRsczdDaExrbWdXNFh3?oc=5",
    "date": "2026-11-25T03:14:57+00:00",
@@ -179,17 +515,6 @@
     "Designers"
    ],
    "id": "d8a6d6b6b7"
-  },
-  {
-   "title": "Thread Talk With Joyce Tan, the Founder of Joyce Couture",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pY2JvTFdqcURaaEpQWWRDbE43N09oYXVmM0FKb1lMSlU0UmhYZ2lsbmc4ZEhtcHM0ZGNlVzBRTkFaaEZyVkZ2cXdyUFFwMXpVRVNWRVQyakt1bTY3NGZNaDFkSWdvRXR2VXRoUFlBZUdUNWpLWDVSTVNJYw?oc=5",
-   "date": "2026-11-25T03:04:16+00:00",
-   "excerpt": "",
-   "source": "Grazia Malaysia",
-   "tags": [
-    "Designers"
-   ],
-   "id": "54d068516f"
   },
   {
    "title": "8 Best Gua Sha Tools to Expertly Sculpt, Lift, and Tone",
@@ -236,17 +561,6 @@
    "id": "b962169998"
   },
   {
-   "title": "Taylor Swift’s Three Pairs of Uggs Have FN Editors Revisiting the Footwear Politics of the 2000s",
-   "url": "https://wwd.com/footwear-news/shoe-features/taylor-swift-ugg-boots-2000s-millennial-fashion-1239464654/",
-   "date": "2026-11-24T23:55:07+00:00",
-   "excerpt": "From coveted colorways to the gender politics of sheepskin boots, FN’s Millennial editors recall what owning Uggs meant in their teenage years.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "fd75085f4b"
-  },
-  {
    "title": "The Best Black Friday Deals on Fashion, Beauty, Tech, and Home, According to ELLE Editors",
    "url": "https://www.elle.com/fashion/shopping/a74360754/elle-editors-picks-black-friday-cyber-monday-deals-2026/",
    "date": "2026-11-24T23:47:00+00:00",
@@ -267,17 +581,6 @@
     "Culture"
    ],
    "id": "2d154acdce"
-  },
-  {
-   "title": "A Watchdog Calls Bangladesh Factory This Decade’s Worst Union Buster. Some Brands Haven’t Walked Away.",
-   "url": "https://wwd.com/sourcing-journal/sustainability/worker-rights-consortium-libas-textiles-primark-next-1239465329/",
-   "date": "2026-11-24T23:39:11+00:00",
-   "excerpt": "The Worker Rights Consortium alleges Libas Textiles ran the most severe union repression campaign against organizers this decade, yet brands such as Aldi South, Primark and Next haven't cut ties.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "98a2da337c"
   },
   {
    "title": "All the Best Early Black Friday 2026 Beauty Deals to Shop Now",
@@ -313,50 +616,6 @@
    "id": "9ca6fdcd5e"
   },
   {
-   "title": "Where to Watch the 2026 Macy’s Thanksgiving Day Parade Online for Free",
-   "url": "https://wwd.com/shop/shop-fashion/how-to-watch-2026-macys-thanksgiving-day-parade-online-free-1239465042/",
-   "date": "2026-11-24T22:51:38+00:00",
-   "excerpt": "Despite the threat of inclement weather, the annual holiday event is still a go for now, and there are ways to follow the festivities live online.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "40897e223a"
-  },
-  {
-   "title": "A Long-Lost New Balance Dad Shoe, Reborn as a Japan-Made Masterpiece",
-   "url": "https://www.highsnobiety.com/p/new-balance-991v1-made-in-japan/",
-   "date": "2026-11-24T22:50:09+00:00",
-   "excerpt": "New Balance reveals a luxurious 991v1 \"Made in Japan\" sneaker inspired by a lost prototype. Here's everything on the 25th anniversary pairs.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "017ce5dc24"
-  },
-  {
-   "title": "WTAPS’ HOKA Trail Runner Has No Business Being This Sexy",
-   "url": "https://www.highsnobiety.com/p/wtaps-hoka-speedgoat-ts/",
-   "date": "2026-11-24T22:47:28+00:00",
-   "excerpt": "WTAPS debuts its HOKA Speedgoat TS sneaker collaboration, resulting in perhaps the most stylish take on the model yet.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "260d10c361"
-  },
-  {
-   "title": "Nike Put Its Gloriously Stacked Running Shoe on Ice",
-   "url": "https://www.highsnobiety.com/p/nike-vomero-plus-light-armory-blue/",
-   "date": "2026-11-24T22:43:48+00:00",
-   "excerpt": "Nike's Vomero Plus running sneaker lands in a \"Light Armory Blue\" colorway, resulting in this icy take on the model.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "005c5ee5f6"
-  },
-  {
    "title": "A Ma Maniére Made Clean Nike Air Forces That’ll (Sorta) Never Drop",
    "url": "https://www.highsnobiety.com/p/a-ma-maniere-nike-air-force-1-shoes-2026/",
    "date": "2026-11-24T22:41:19+00:00",
@@ -366,17 +625,6 @@
     "Culture"
    ],
    "id": "d86035539f"
-  },
-  {
-   "title": "Skyler Gisondo’s Big Swing",
-   "url": "https://wwd.com/eye/people/skyler-gisondo-focker-in-law-primetime-1239464729/",
-   "date": "2026-11-24T22:34:44+00:00",
-   "excerpt": "After starring opposite Robert Pattinson in \"Primetime\" earlier this fall, the actor joins the \"Focker In-Law\" universe and looks ahead to stranger pastures.",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "bb104f28fb"
   },
   {
    "title": "UK Retailers Report Best Month for Sales Since Late 2022",
@@ -421,259 +669,6 @@
     "Business"
    ],
    "id": "0c1a2e3866"
-  },
-  {
-   "title": "The Secrets Behind Brittany Snow’s Press-Tour Glow",
-   "url": "https://www.elle.com/beauty/makeup-skin-care/a74509001/the-secrets-behind-brittany-snows-press-tour-glow/",
-   "date": "2026-11-24T22:00:00+00:00",
-   "excerpt": "The actress is embracing a more intentional beauty routine with a little help from RéVive Skincare.",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "a6e5d4aa06"
-  },
-  {
-   "title": "For Malin Åkerman, ‘The Hunting Wives’ Is (Still) a Dream Come True",
-   "url": "https://www.vogue.com/article/malin-akerman-the-hunting-wives-season-2-interview",
-   "date": "2026-11-24T21:45:33+00:00",
-   "excerpt": "Ahead of the release of “The Hunting Wives” season two, Åkerman talks to Vogue about the Margo Bankses in her own life, performing with Brittany Snow at the Las Culturistas Culture Awards, and why it’s the perfect time to watch a…",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "c7c53aca72"
-  },
-  {
-   "title": "The 39 Best Beauty Gifts to Surprise and Delight",
-   "url": "https://www.harpersbazaar.com/beauty/makeup/a74480276/best-beauty-gifts-2026/",
-   "date": "2026-11-24T21:41:33+00:00",
-   "excerpt": "Including must-have fragrances, top skincare sets, and high-powered hair tools they’re sure to love",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "e8b10acde2"
-  },
-  {
-   "title": "The Shopbop Black Friday Deals Worth Adding to Your Cart",
-   "url": "https://www.elle.com/fashion/shopping/a74520250/shopbop-black-friday-sale-2026/",
-   "date": "2026-11-24T21:38:17+00:00",
-   "excerpt": "ELLE editors found the best deals—and the brands with better discounts elsewhere.",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "230d32eeda"
-  },
-  {
-   "title": "How to Pack for Vegas Like a Vogue Editor",
-   "url": "https://www.vogue.com/article/what-to-wear-in-las-vegas",
-   "date": "2026-11-24T21:36:26+00:00",
-   "excerpt": "Headed West for the weekend? Here’s what to wear in Vegas, according to Vogue’s Lisa Aiken—from red velvet to sequins.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "5ff86380d7"
-  },
-  {
-   "title": "Ariana Grande’s Eternal Sunshine Tour Is Getting a Concert Film and Documentary",
-   "url": "https://www.elle.com/culture/music/a74510689/ariana-grande-eternal-sunshine-tour-film-everything-to-know/",
-   "date": "2026-11-24T21:33:21+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "2bdfe89f11"
-  },
-  {
-   "title": "F1 Collabs Are Getting Good. You Just Have to Hunt for Them",
-   "url": "https://www.highsnobiety.com/p/f1-vegas-best-collabs/",
-   "date": "2026-11-24T21:24:25+00:00",
-   "excerpt": "It's ironic that the best drops at biggest racing competiton on the planet aren't all that easy to find. But they're worth the hunt.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "3a5ca4d9c2"
-  },
-  {
-   "title": "The Best New Party Bags Are Basically Jewelry for Your Outfit",
-   "url": "https://www.elle.com/fashion/shopping/a73762164/best-party-bags/",
-   "date": "2026-11-24T21:12:45+00:00",
-   "excerpt": "From crystal-covered clutches to bangle-handle minis, these party-ready bags just might replace your jewelry altogether.",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "22d23b7358"
-  },
-  {
-   "title": "Nike’s Green “Mid” Air Jordan Shoe Has a Heart of Gold",
-   "url": "https://www.highsnobiety.com/p/jordan-1-mid-faded-spruce/",
-   "date": "2026-11-24T21:10:07+00:00",
-   "excerpt": "The Air Jordan 1 Mid gets an impressive \"Faded Spruce\" makeover, complete with smooth textures & gold Swooshes.",
-   "source": "Highsnobiety",
-   "tags": [
-    "Culture"
-   ],
-   "id": "33edfbdb72"
-  },
-  {
-   "title": "These Expert-Loved Ceramide Moisturizers Will Save Your Skin Barrier",
-   "url": "https://www.elle.com/beauty/a74378872/best-ceramide-moisturizers/",
-   "date": "2026-11-24T21:01:25+00:00",
-   "excerpt": "These formulas are basically a cheat code to supple, hydrated, healthy skin.",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "b0da69ed1f"
-  },
-  {
-   "title": "Dancing with the Stars Judge Carrie Ann Inaba on the ‘Healing’ Power of Movement and Why She Takes Risks",
-   "url": "https://www.elle.com/culture/movies-tv/a74517068/carrie-ann-inaba-dancing-with-the-stars-career-interview/",
-   "date": "2026-11-24T20:55:27+00:00",
-   "excerpt": "",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "03f36a3650"
-  },
-  {
-   "title": "Is Jensen Huang’s Humble Cotton Coat His Way of Saying ‘I’m Sorry’?",
-   "url": "https://www.vogue.com/article/jensen-huang-nvidia-return-jacket",
-   "date": "2026-11-24T20:52:31+00:00",
-   "excerpt": "When the tech CEO Jensen Huang returned to his beleaguered company, he ditched his former uniform to convey a softer image.",
-   "source": "Vogue",
-   "tags": [
-    "Business"
-   ],
-   "id": "f5ad5f7625"
-  },
-  {
-   "title": "Confirmed: You Need a Leopard-Print Coat",
-   "url": "https://www.elle.com/fashion/shopping/a74522002/leopard-print-coat-trend/",
-   "date": "2026-11-24T20:02:01+00:00",
-   "excerpt": "Three celeb endorsements make a one covetable trend.",
-   "source": "Elle",
-   "tags": [
-    "Trends"
-   ],
-   "id": "de3908aede"
-  },
-  {
-   "title": "The Art of the Winter Layer",
-   "url": "https://www.elle.com/fashion/shopping/a74511088/the-art-of-the-winter-layer/",
-   "date": "2026-11-24T20:00:00+00:00",
-   "excerpt": "Use these cold-weather staples from The North Face for practical warmth with polished style.",
-   "source": "Elle",
-   "tags": [
-    "Culture"
-   ],
-   "id": "5d6efd32d5"
-  },
-  {
-   "title": "“Do You Like It? Would You Wear It? Would You Buy It?”—An Oral History of Marc by Marc Jacobs",
-   "url": "https://www.vogue.com/article/marc-by-marc-jacobs-oral-history-2026",
-   "date": "2026-11-24T19:54:13+00:00",
-   "excerpt": "On the 25th anniversary of the now-shuttered label, we look at the influence and lasting legacy of Marc by Marc Jacobs, told by the people who shaped it.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "812c7d01ed"
-  },
-  {
-   "title": "Fascia Release Is the Key to Regulating Your Nervous System, Getting Better Sleep, and Improving Skin",
-   "url": "https://www.harpersbazaar.com/beauty/health/a74468354/fascia-release-nervous-system-regulation/",
-   "date": "2026-11-24T19:45:39+00:00",
-   "excerpt": "Fascia, the thin web that envelops the face and body, is more powerful than you might think. Here’s how to release it",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "c7bebfdcd1"
-  },
-  {
-   "title": "Sophia Laforteza Reunites With Fellow Katseye Members on a Stylish Evening Out",
-   "url": "https://www.harpersbazaar.com/celebrity/latest/a74520397/sophia-laforteza-reunites-with-katseye-members-lara-raj-21st-birthday-party-photos/",
-   "date": "2026-11-24T19:04:17+00:00",
-   "excerpt": "She’s been on hiatus from the group since August",
-   "source": "Harper's Bazaar",
-   "tags": [
-    "Culture"
-   ],
-   "id": "f1b0caef32"
-  },
-  {
-   "title": "Inside WNBA Star Cameron Brink and Ben Felter’s Stanford Wedding—and Her Four Bridal Looks",
-   "url": "https://www.vogue.com/slideshow/cameron-brink-and-ben-felter-wedding",
-   "date": "2026-11-24T19:00:00+00:00",
-   "excerpt": "Six years after an “athlete mingle survey” brought them together during Covid, the WNBA star Cameron Brink and the robotics founder Ben Felter tied the knot at Stanford’s Memorial Church before celebrating along the California…",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "5a57eb4bdc"
-  },
-  {
-   "title": "All Aboard Fashion’s Absurd Hat Train",
-   "url": "https://www.elle.com/fashion/trend-reports/a74470275/best-freaky-fashion-hats-trend/",
-   "date": "2026-11-24T18:59:12+00:00",
-   "excerpt": "Swim caps and train conductor hats: The runway’s most theatrical headwear is made for standing out.",
-   "source": "Elle",
-   "tags": [
-    "Designers"
-   ],
-   "id": "54696c5260"
-  },
-  {
-   "title": "The Best Everyday Sneakers, According to Vogue Editors",
-   "url": "https://www.vogue.com/article/vogue-editors-everyday-sneakers",
-   "date": "2026-11-24T18:48:08+00:00",
-   "excerpt": "Looking for a new pair of sneakers? Vogue editors share their favorite pairs, from Adidas to Nike to Dries Van Noten.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "ece0497987"
-  },
-  {
-   "title": "How Justine Skye Gets Holiday Gifting Right",
-   "url": "https://www.elle.com/fashion/jewelry/a74511539/justine-skye-holiday-gift-guide/",
-   "date": "2026-11-24T18:30:36+00:00",
-   "excerpt": "The singer and Kendra Scott campaign star shares her personal guide to finding the perfect present.",
-   "source": "Elle",
-   "tags": [
-    "Business"
-   ],
-   "id": "b7e8b06b81"
-  },
-  {
-   "title": "Victoria’s Secret’s Switch at the Top, Chair Donna James Steps Down",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVpoYVF6QmthLU5xcDhYdnZucUJ0enFPRExTQWUyS0E5alhtX00zY0hBbHh3TkNjbHJ5TFdEYU9oYmJGVlJsWGxrXzQ0YzZZaGtLZmFCTXd1cWVOUk9pSm1LOXFTM1BHMXNKcTBBdVVrVXJIZlpOSzU1ajN4cmQxd085ckdwcTBiUGRaUTdKWkNYVkthQXh4eWFiS3FNQ1NLRFdyQm5sMndUVWYtVi1YSGJ6eE9WcmU1QUE?oc=5",
-   "date": "2026-11-24T18:18:29+00:00",
-   "excerpt": "",
-   "source": "WWD",
-   "tags": [
-    "Culture"
-   ],
-   "id": "da00c3f6f9"
-  },
-  {
-   "title": "Ellen Mirojnick to be named top costume designer at Fashion Awards - FashionNetwork",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZFhpaXoxLXJKdjZZcEhJcHRfWlZyMEtjX19rM3VNRGZjalVMYnQweTVlamZMM0xqVWxHSjNYaS1HQmVNNEVFUGMydHU0S0JkS25VYmJQS2FBYjBjeC14UFBtMU1uSXRPVXhRdW1nSkJzcUtJaXU4UUN4aU5zZUhHTGpRRC15QUg3SkJGcklsZ1VHUDkyX191WEdhMnl5Y193cV9Ub181WXhnQTFoSEk2OGFBUDU?oc=5",
-   "date": "2026-11-24T18:02:39+00:00",
-   "excerpt": "",
-   "source": "FashionNetwork - The World's Fashion Business News",
-   "tags": [
-    "Designers"
-   ],
-   "id": "1db59e9f7c"
   }
  ],
  "fabric": {
@@ -1242,13 +1237,15 @@
    "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 297",
+   "met: scanned 80, pool 329",
+   "pinterest:fabricistaa/90s-runway-archive",
+   "pinterest:archivesolaire/runway-archives-90s-00s",
+   "pinterest:ash_curates/runway-archival",
    "wikipedia:Calico",
    "wikipedia:Greenwashing"
   ],
   "failed": [
-   "feed:The Business of Fashion: HTTPError HTTP Error 403: Forbidden",
-   "met:search"
+   "feed:The Business of Fashion: HTTPError HTTP Error 403: Forbidden"
   ]
  }
 }
