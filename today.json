@@ -1,24 +1,24 @@
 {
- "generated": "2026-11-25T05:20+00:00",
+ "generated": "2026-11-25T05:34+00:00",
  "date": "2026-11-25",
  "hero": {
   "kind": "met",
-  "id": 156611,
-  "title": "Fan",
-  "date": "third quarter 18th century",
-  "culture": "probably Chinese",
+  "id": 156182,
+  "title": "Shoes",
+  "date": "1845–60",
+  "culture": "probably French",
   "artist": "",
-  "medium": "ivory, mother-of-pearl, paper, gouache, tortoiseshell, metal",
-  "img": "https://images.metmuseum.org/CRDImages/ci/original/52.166.54_front_CP4.jpg",
-  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/52.166.54_front_CP4.jpg",
-  "url": "https://www.metmuseum.org/art/collection/search/156611",
-  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Museum Collection Fund and the Dick S. Ramsay Fund, 1952"
+  "medium": "cotton, silk",
+  "img": "https://images.metmuseum.org/CRDImages/ci/original/54.61.32a-b_CP4.jpg",
+  "thumb": "https://images.metmuseum.org/CRDImages/ci/web-large/54.61.32a-b_CP4.jpg",
+  "url": "https://www.metmuseum.org/art/collection/search/156182",
+  "credit": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Herman Delman, 1954"
  },
  "news": [
   {
    "title": "The Garment Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/the-garment",
-   "date": "2026-11-25T05:17:23+00:00",
+   "date": "2026-11-25T05:31:08+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
@@ -29,13 +29,57 @@
   {
    "title": "Baum und Pferdgarten Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/baum-und-pferdgarten",
-   "date": "2026-11-25T05:17:23+00:00",
+   "date": "2026-11-25T05:31:08+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
     "Culture"
    ],
    "id": "4c8418c741"
+  },
+  {
+   "title": "Who Topped the 2026 Vogue Business Watch Index?",
+   "url": "https://www.vogue.com/article/who-topped-the-2026-vogue-business-watch-index",
+   "date": "2026-11-25T05:30:00+00:00",
+   "excerpt": "From K-pop to cultural nuance, standing out in a crowded market requires a granular approach. But who succeeded?",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "bfe0e13e1b"
+  },
+  {
+   "title": "Gifting, Resale and the Power of Experiences: The Watch Industry Is in Its Customer Service Era",
+   "url": "https://www.vogue.com/article/gifting-resale-and-the-power-of-experiences-the-watch-industry-is-in-its-customer-service-era",
+   "date": "2026-11-25T05:30:00+00:00",
+   "excerpt": "Despite pressure from higher gold costs and watchmakers raising prices, consumer sentiment and perceived value around watches are on the rise. How did they do it?",
+   "source": "Vogue",
+   "tags": [
+    "Sustainability"
+   ],
+   "id": "6599b594fd"
+  },
+  {
+   "title": "K-Pop Stars, Art and Unexpected Collabs: Inside the 2026 Watch Innovation Playbook",
+   "url": "https://www.vogue.com/article/k-pop-stars-art-and-unexpected-collabs-inside-the-2026-watch-innovation-playbook",
+   "date": "2026-11-25T05:30:00+00:00",
+   "excerpt": "Brands such as Audemars Piguet, Longines, and Montblanc have leveraged collaborations and pop culture this year to reach new audiences.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "dd4d7ad7e8"
+  },
+  {
+   "title": "Why Luxury Watch Brands Are Still Struggling Online",
+   "url": "https://www.vogue.com/article/why-luxury-watch-brands-are-still-struggling-online",
+   "date": "2026-11-25T05:30:00+00:00",
+   "excerpt": "Cartier tops the digital ranking, but the brands that outperform on social still lag in online-to-offline integration.",
+   "source": "Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "9ec0b6bd15"
   },
   {
    "title": "From the Archive: Thanksgiving Side Dishes for a Fashionable Feast",
@@ -256,17 +300,6 @@
     "Trade"
    ],
    "id": "a50b49c21e"
-  },
-  {
-   "title": "Miu Miu",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iaDdsUlo1TURhRXJabHdvSDVBOUpYNF9FZGdTamFGaWk5VGNhSFZWS1NuM2F4UlRtM1dGcjdqYXNkNlZCQVpGTi0yWlM4b1FkZHoxckJXeUg3aWEzSDlIRFJWY2RxOFZ2NDByVTFxYnRpRG0zaWNV?oc=5",
-   "date": "2026-11-24T23:02:14+00:00",
-   "excerpt": "",
-   "source": "FashionNetwork France",
-   "tags": [
-    "Culture"
-   ],
-   "id": "bd875e809b"
   },
   {
    "title": "The New Rules of Complexion Makeup",
@@ -641,39 +674,6 @@
     "Designers"
    ],
    "id": "1db59e9f7c"
-  },
-  {
-   "title": "The Vogue Book Club’s Next Read Is ‘Mrs. Dalloway’",
-   "url": "https://www.vogue.com/article/vogue-book-club-mrs-dalloway-announcement",
-   "date": "2026-11-24T18:00:00+00:00",
-   "excerpt": "We’ll be celebrating Virginia Woolf’s classic novel from December 14–18...otherwise known as Woolf Week.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "7bf74957c2"
-  },
-  {
-   "title": "Trinity Rodman and Ben Shelton’s Complete Relationship Timeline",
-   "url": "https://www.elle.com/culture/celebrities/a65585757/trinity-rodman-ben-shelton-relationship-timeline/",
-   "date": "2026-11-24T17:58:00+00:00",
-   "excerpt": "A love born on TikTok, their relationship quickly captured the internet’s attention.",
-   "source": "Elle",
-   "tags": [
-    "Trends"
-   ],
-   "id": "0e87d6c719"
-  },
-  {
-   "title": "Demellier Black Friday Sale 2026, Buy A-Lister Handbags for Less",
-   "url": "https://www.vogue.com/article/black-friday-demellier-11-24-2026",
-   "date": "2026-11-24T17:54:21+00:00",
-   "excerpt": "Celeb-favorite handbag brand Demellier is offering 20% off all its bestsellers this Black Friday. Shop styles seen on EmRata, Katie Holmes, and Kate Middleton.",
-   "source": "Vogue",
-   "tags": [
-    "Culture"
-   ],
-   "id": "833817b9d0"
   }
  ],
  "fabric": {
@@ -1088,6 +1088,18 @@
     "added": "2026-11-23"
    },
    {
+    "s": "2027-05-15",
+    "e": "2027-09-07",
+    "n": "Dior to McQueen: Fashioning Form (exhibition)",
+    "t": "Exhibition",
+    "w": "San Francisco Museum of Modern Art (SFMOMA), San Francisco",
+    "r": "Americas",
+    "src": "SFMOMA (organiser)",
+    "u": "https://www.sfmoma.org/press-release/sfmoma-announces-first-fashion-exhibition-in-40-years/",
+    "note": "SFMOMA's first fashion exhibition in over 40 years. Dates as revised by SFMOMA on 10 September 2026.",
+    "added": "2026-11-25"
+   },
+   {
     "s": "2027-05-17",
     "e": "2027-05-17",
     "n": "Gucci Cruise 2028",
@@ -1202,7 +1214,7 @@
     "added": "2026-11-17"
    }
   ],
-  "checked": "2026-11-24"
+  "checked": "2026-11-25"
  },
  "log": {
   "ok": [
@@ -1230,7 +1242,7 @@
    "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 270",
+   "met: scanned 80, pool 297",
    "wikipedia:Calico",
    "wikipedia:Greenwashing"
   ],
