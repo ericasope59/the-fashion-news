@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T05:21+00:00",
+ "generated": "2026-11-26T05:35+00:00",
  "date": "2026-11-26",
  "hero": {
   "kind": "pin",
-  "id": "548172585918433440",
-  "d": "Por supuesto que la reina del boho, @siennathing, no ha faltado al desfile de @chloe ✨ ▪️Vídeos: @styledumonde",
+  "id": "548172585918433432",
+  "d": "",
   "b": "beareyes574/a-haute-couture-runway",
   "bn": "A - Haute couture & runway"
  },
@@ -140,17 +140,6 @@
     "Business"
    ],
    "id": "f1398bbbf2"
-  },
-  {
-   "title": "Black Friday 2026: the best deals, according to Vogue",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1BnMF9XSTZ3LWVYUFlKRkZCY3RIbTh3VkEybGQ0Z1B2aGdnZkhITGNBOV83YWQ4dlMyYUczbm84Uk5CVzdJSXNwcS12eDh3X0t3cktWZnZJTGxDek5Dd0VOMi1VTlJwcTljMEJaQ3JwUU11ZXAtQ3M3MHNiMkpPWm9GclY1dHU4c29Uakh2OVowWFlBRjZtQmZHVTlGOW9DMHc?oc=5",
-   "date": "2026-11-25T23:02:27+00:00",
-   "excerpt": "",
-   "source": "Vogue Australia",
-   "tags": [
-    "Culture"
-   ],
-   "id": "9840293b05"
   },
   {
    "title": "Too Much, Too Little: Bangladesh’s Wage Hike Pleases No One",
@@ -668,6 +657,17 @@
     "Culture"
    ],
    "id": "b035b08603"
+  },
+  {
+   "title": "Satin Outfits Look Even Better With Cozy Winter Textures",
+   "url": "https://www.elle.com/fashion/shopping/a74493982/how-to-style-satin-outfits/",
+   "date": "2026-11-25T17:00:00+00:00",
+   "excerpt": "Cozy knits, wool coats, and faux fur make satin feel winter-ready.",
+   "source": "Elle",
+   "tags": [
+    "Culture"
+   ],
+   "id": "70def7f5e7"
   }
  ],
  "fabric": {
@@ -729,6 +729,30 @@
     "src": "Paris je t'aime (Paris tourist office)",
     "u": "https://parisjetaime.com/eng/article/exhibitions-and-fashion-events-in-paris-a1952",
     "added": "2026-11-23"
+   },
+   {
+    "s": "2026-10-08",
+    "e": "2027-02-14",
+    "n": "The 90s: Art and Fashion (exhibition)",
+    "t": "Exhibition",
+    "w": "Tate Britain, London",
+    "r": "Europe",
+    "src": "Tate (organiser)",
+    "u": "https://www.tate.org.uk/press/press-releases/the-90s-art-and-fashion",
+    "note": "Curated by Edward Enninful with Tate curators.",
+    "added": "2026-11-26"
+   },
+   {
+    "s": "2026-11-21",
+    "e": "2027-04-11",
+    "n": "Azzedine Alaïa: Sculpting Fashion (exhibition)",
+    "t": "Exhibition",
+    "w": "Legion of Honor, San Francisco",
+    "r": "Americas",
+    "src": "FashionUnited; Il Sole 24 Ore; Wallpaper",
+    "u": "https://fashionunited.com/news/culture/azzedine-alaia-sculpting-fashion-exhibition-details-revealed/2026072773733",
+    "note": "Organised with the Fondation Azzedine Alaïa; first major US retrospective of the couturier.",
+    "added": "2026-11-26"
    },
    {
     "s": "2026-11-27",
@@ -1208,7 +1232,7 @@
     "added": "2026-11-17"
    }
   ],
-  "checked": "2026-11-25"
+  "checked": "2026-11-26"
  },
  "log": {
   "ok": [
@@ -1236,7 +1260,7 @@
    "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 408",
+   "met: scanned 80, pool 414",
    "pinterest:infashion/haute-couture",
    "pinterest:nosouvenirs/fashion-haute-couture-runway",
    "pinterest:maryofthesoul/haute-couture-runway",
