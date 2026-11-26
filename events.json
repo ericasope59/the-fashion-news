@@ -1,6 +1,6 @@
 {
   "note": "Curated list, checked daily. An event is added only when the organiser or brand confirms it, or two credible outlets report the same dates; anything with a single source is marked Provisional. Past events move to 'Recently held' automatically.",
-  "checked": "2026-11-25",
+  "checked": "2026-11-26",
   "types": [
     "Fashion week",
     "Runway show",
@@ -57,6 +57,18 @@
       "added": "2026-11-23"
     },
     {
+      "s": "2026-10-08",
+      "e": "2027-02-14",
+      "n": "The 90s: Art and Fashion (exhibition)",
+      "t": "Exhibition",
+      "w": "Tate Britain, London",
+      "r": "Europe",
+      "src": "Tate (organiser)",
+      "u": "https://www.tate.org.uk/press/press-releases/the-90s-art-and-fashion",
+      "note": "Curated by Edward Enninful with Tate curators.",
+      "added": "2026-11-26"
+    },
+    {
       "s": "2026-10-18",
       "e": "2026-10-25",
       "n": "Design Week Lagos",
@@ -99,6 +111,18 @@
       "src": "Gauteng Tourism",
       "u": "https://www.gauteng.net/whats-on-g/?p=44021",
       "added": "2026-11-17"
+    },
+    {
+      "s": "2026-11-21",
+      "e": "2027-04-11",
+      "n": "Azzedine Alaïa: Sculpting Fashion (exhibition)",
+      "t": "Exhibition",
+      "w": "Legion of Honor, San Francisco",
+      "r": "Americas",
+      "src": "FashionUnited; Il Sole 24 Ore; Wallpaper",
+      "u": "https://fashionunited.com/news/culture/azzedine-alaia-sculpting-fashion-exhibition-details-revealed/2026072773733",
+      "note": "Organised with the Fondation Azzedine Alaïa; first major US retrospective of the couturier.",
+      "added": "2026-11-26"
     },
     {
       "s": "2026-11-27",
