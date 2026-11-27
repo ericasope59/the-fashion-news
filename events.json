@@ -1,6 +1,6 @@
 {
   "note": "Curated list, checked daily. An event is added only when the organiser or brand confirms it, or two credible outlets report the same dates; anything with a single source is marked Provisional. Past events move to 'Recently held' automatically.",
-  "checked": "2026-11-26",
+  "checked": "2026-11-27",
   "types": [
     "Fashion week",
     "Runway show",
@@ -164,12 +164,11 @@
       "e": "2026-12-06",
       "n": "Dakar Fashion Week, 25th edition",
       "t": "Fashion week",
-      "w": "Blaise Diagne International Airport (AIBD), Diass",
+      "w": "Dakar; final show at Blaise Diagne International Airport (AIBD), Diass",
       "r": "Africa",
-      "prov": true,
-      "src": "Au Sénégal; only one source so far",
-      "u": "https://www.au-senegal.com/dakar-fashion-week-2026-25-ans-de-mode-africaine-celebres-a-l-aibd,18609.html",
-      "note": "Final show reported for Saturday 5 December, 17:00.",
+      "src": "Dakar Fashion Week (organiser); Au Sénégal; The BottomLine",
+      "u": "https://dakarfashionweek.com/",
+      "note": "Final show Saturday 5 December, 17:30 (organiser programme).",
       "added": "2026-11-23"
     },
     {
