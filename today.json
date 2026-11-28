@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-28T05:11+00:00",
+ "generated": "2026-11-28T05:39+00:00",
  "date": "2026-11-28",
  "hero": {
   "kind": "pin",
-  "id": "164170348912074432",
-  "d": "Giorgio Armani Fall 2024 Ready-to-Wear",
+  "id": "164170348912074431",
+  "d": "Rabanne Spring 2025 Ready-to-Wear",
   "b": "nosouvenirs/fashion-haute-couture-runway",
   "bn": "Fashion - Haute Couture / Runway"
  },
@@ -12,7 +12,7 @@
   {
    "title": "Victoria Beckham Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/victoria-beckham",
-   "date": "2026-11-28T05:10:33+00:00",
+   "date": "2026-11-28T05:37:57+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
@@ -23,7 +23,7 @@
   {
    "title": "McQueen Pre-Fall 2027",
    "url": "https://www.vogue.com/fashion-shows/pre-fall-2027/alexander-mcqueen",
-   "date": "2026-11-28T05:10:33+00:00",
+   "date": "2026-11-28T05:37:57+00:00",
    "excerpt": "",
    "source": "Vogue",
    "tags": [
@@ -593,6 +593,17 @@
    "id": "71782ee187"
   },
   {
+   "title": "The Black Friday Clothing Deals Are Here – Here’s What Team Vogue Is Shopping For 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3dvR0U0NDBkdDQyWFhQRVYzM1ZFR2hfYzM2cjFVb1ZBYndxQkRZMmR0dHdNRVZ1ek1PNWlLZGVGS19NdmVVRE9lNVRjUGNPbHZZcVBMRTZBelZoVTFKTXBDYUdPRU5UQjJYbXRTSWNjdEh3cnlJVldZSG0zWG8xTVBjUGg?oc=5",
+   "date": "2026-11-27T17:00:00+00:00",
+   "excerpt": "",
+   "source": "British Vogue",
+   "tags": [
+    "Culture"
+   ],
+   "id": "06f9f64910"
+  },
+  {
    "title": "The Best Black Friday Deals ELLE Editors Are Shopping, From Fashion and Beauty to Tech and Home",
    "url": "https://www.elle.com/fashion/shopping/a74360754/elle-editors-picks-black-friday-cyber-monday-deals-2026/",
    "date": "2026-11-27T16:55:41+00:00",
@@ -657,17 +668,6 @@
     "Culture"
    ],
    "id": "b9b6593404"
-  },
-  {
-   "title": "Editors' Top Reads: News from Duke + Dexter, Nicole Farhi, Harvey Nichols and more...",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWVSOWVsSDVrbTZaT0xoOE1Id1pQRGVETmFkQ0pCXy1sdl9nUlZOaTdmbndFa0lVcUM5SkxSdkI2eXhrNjZyNkZRRDBEVVlScTNaZndoU3JiWHpQcHNxcXhyNFFtN2laTS1CSE9GVTJobnZPb2otWmVPZVZhYVZJTDE0bTVBTWhWXzBfdEpRMDZkZE1QTl9NTFpvdnNXV2pGRlFidy1WT3V3S09lc3c?oc=5",
-   "date": "2026-11-27T16:32:07+00:00",
-   "excerpt": "",
-   "source": "TheIndustry.fashion",
-   "tags": [
-    "Culture"
-   ],
-   "id": "99165b5e0a"
   }
  ],
  "fabric": {
@@ -1231,7 +1231,7 @@
     "added": "2026-11-17"
    }
   ],
-  "checked": "2026-11-27"
+  "checked": "2026-11-28"
  },
  "log": {
   "ok": [
@@ -1255,9 +1255,11 @@
    "gnews:Lagos fashion",
    "gnews:South African fashion",
    "gnews:Congo fashion",
+   "gnews:fashion tariffs",
+   "gnews:textile industry",
    "gnews:fashion sustainability law",
    "gnews:fashion retail sales",
-   "met: scanned 80, pool 538",
+   "met: scanned 80, pool 591",
    "pinterest:infashion/haute-couture",
    "pinterest:nosouvenirs/fashion-haute-couture-runway",
    "pinterest:maryofthesoul/haute-couture-runway",
@@ -1266,9 +1268,7 @@
    "wikipedia:Capsule wardrobe"
   ],
   "failed": [
-   "feed:The Business of Fashion: HTTPError HTTP Error 403: Forbidden",
-   "gnews:fashion tariffs: HTTPError HTTP Error 429: Too Many Requests",
-   "gnews:textile industry: HTTPError HTTP Error 429: Too Many Requests"
+   "feed:The Business of Fashion: HTTPError HTTP Error 403: Forbidden"
   ]
  }
 }
